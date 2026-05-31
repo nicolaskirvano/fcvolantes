@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:38.000Z
+pubDatetime: 2026-05-31T22:17:03.000Z
 title: "Jogadores baratos de Volantes no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +20% |
-| Peer Koopmeiners | 89 | CDM | — | 13k coins | -5.6% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | -3.2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | -16.1% |
+| Jaelin Howell | 89 | CDM | NWSL | 14k coins | +28.9% |
 | Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +4.4% |
 | Declan Rice | 87 | CDM | Premier League | 2k coins | +13.6% |
+| Nabil Bentaleb | 87 | CDM | — | 11k coins | -6.4% |
+| Natalia Ramos | 87 | CDM | — | 11k coins | -10.2% |
 | Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -8.2% |
-| Nabil Bentaleb | 87 | CDM | — | 12k coins | -6.1% |
-| Natalia Ramos | 87 | CDM | — | 12k coins | -2% |
-| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -15.5% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 13k coins | -1.8% |
-| Sandro Tonali | 87 | CDM | Premier League | 13k coins | +1.9% |
-| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -77.3% |
+| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -13.8% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | +3.7% |
+| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -63.9% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.7% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Peer Koopmeiners (89, CDM)** da —, a apenas **13k coins**
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

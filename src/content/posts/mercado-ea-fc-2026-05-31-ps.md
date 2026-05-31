@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:37.000Z
+pubDatetime: 2026-05-31T22:17:01.000Z
 title: "Volantes no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Patri Guijarro (90) — 95% de probabilidade de alta, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 55 cartas em alta contra 90 em queda (média -1.52%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 53 cartas em alta contra 88 em queda (média -1.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **55 subiram** e **90 caíram**, com variação média de **-1.52%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **53 subiram** e **88 caíram**, com variação média de **-1.21%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Patri Guijarro (91) **+37.9%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (86) **-35.7%**
 
@@ -60,24 +60,24 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 964k coins | -35.7% | +1.8% |
-| Emmanuel Petit | 87 | Icons | 94k coins | -29.5% | -21.2% |
 | Rodri | 92 | Premier League | 82k coins | -22.4% | -26.6% |
-| Ramires | 86 | Premier League | 100k coins | -22.3% | -22.3% |
 | Douglas Luiz | 90 | Premier League | 26k coins | -22% | -26.4% |
 | Ryan Yates | 92 | — | 55k coins | -20.9% | -6% |
 | Granit Xhaka | 89 | Premier League | 21k coins | -19% | -17.5% |
 | Kenza Dali | 94 | — | 85k coins | -18.3% | -15% |
-| Dunga | 87 | Icons | 68k coins | -18.1% | +1.5% |
 | Denise O'Sullivan | 91 | Barclays WSL | 48k coins | -15.6% | -3% |
+| Aurélien Tchouaméni | 95 | — | 700k coins | -15.2% | -14.3% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 22k coins | -14.4% | +39.1% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | -14.3% | -29% |
 
 
 ### Análise das baixas
 
 - **Aurélien Tchouaméni (86)** caiu **-35.7%** em 24h, a **964k coins** (faixa do dia: 964k–1.50M). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
 
-- **Emmanuel Petit (87)** caiu **-29.5%** em 24h, a **94k coins** (faixa do dia: 94k–135k). Está -24% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
-
 - **Rodri (92)** caiu **-22.4%** em 24h, a **82k coins** (faixa do dia: 82k–109k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+
+- **Douglas Luiz (90)** caiu **-22%** em 24h, a **26k coins** (faixa do dia: 25k–33k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -105,10 +105,10 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Aleksandar Pavlović | 89 | 29k coins | -15.6% |
 | Gabriel Sara | 89 | 31k coins | -24.1% |
 | Joshua Kimmich | 90 | 32k coins | -29.2% |
-| Georgia Stanway | 95 | 26k coins | -15.7% |
 | Diego Chará | 83 | 27k coins | -15.7% |
-| Emmanuel Petit | 87 | 94k coins | -17.5% |
 | Nicolas Raskin | 85 | 80k coins | -34.1% |
+| Xabi Alonso | 87 | 66k coins | -21.4% |
+| Georgia Stanway | 95 | 26k coins | -15.7% |
 | Angelo Stiller | 94 | 166k coins | -15.6% |
 
 
@@ -129,7 +129,7 @@ Aurélien Tchouaméni (86), -35.7% em 24h, a 964k coins.
 Pelo modelo FutQuant, Patri Guijarro (90) — 95% de probabilidade de alta, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 55 cartas em alta contra 90 em queda (média -1.52%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 53 cartas em alta contra 88 em queda (média -1.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

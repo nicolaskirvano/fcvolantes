@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:37.000Z
+pubDatetime: 2026-05-31T22:17:01.000Z
 title: "Melhores investimentos em Volantes no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
