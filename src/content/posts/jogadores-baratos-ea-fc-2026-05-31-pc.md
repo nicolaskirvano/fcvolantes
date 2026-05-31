@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:33.000Z
+pubDatetime: 2026-05-31T21:28:38.000Z
 title: "Jogadores baratos de Volantes no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +50% |
+| Rodri | 90 | CDM | Premier League | 9k coins | +32.4% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +6.6% |
-| Patri Guijarro | 89 | CDM | Liga F | 7k coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 7k coins | +20% |
 | Peer Koopmeiners | 89 | CDM | — | 13k coins | -5.6% |
 | Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | -3.2% |
-| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +13.6% |
-| Declan Rice | 87 | CDM | Premier League | 3k coins | +12% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +4.4% |
+| Declan Rice | 87 | CDM | Premier League | 2k coins | +13.6% |
 | Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -8.2% |
 | Nabil Bentaleb | 87 | CDM | — | 12k coins | -6.1% |
 | Natalia Ramos | 87 | CDM | — | 12k coins | -2% |
 | Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -15.5% |
-| Sandro Tonali | 87 | CDM | Premier League | 13k coins | +1.9% |
 | Matheus Dias | 87 | CDM | Liga Portugal | 13k coins | -1.8% |
-| Gilberto Silva | 87 | CDM | Premier League | 15k coins | -24% |
+| Sandro Tonali | 87 | CDM | Premier League | 13k coins | +1.9% |
+| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -77.3% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **7k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **7k coins**
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Peer Koopmeiners (89, CDM)** da —, a apenas **13k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:32.000Z
+pubDatetime: 2026-05-31T21:28:37.000Z
 title: "Jogadores baratos de Volantes no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
 | Patri Guijarro | 89 | CDM | Liga F | 6k coins | +5.4% |
-| Peer Koopmeiners | 89 | CDM | — | 13k coins | -1.9% |
+| Peer Koopmeiners | 89 | CDM | — | 13k coins | 0% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | +5.3% |
 | Georgia Stanway | 88 | CDM | Liga F | 14k coins | -3.4% |
-| Moisés Caicedo | 88 | CDM | Premier League | 15k coins | -10.6% |
-| Natalia Ramos | 87 | CDM | — | 12k coins | -14.3% |
-| Yui Hasegawa | 87 | CDM | Barclays WSL | 12k coins | -14.3% |
-| Nabil Bentaleb | 87 | CDM | — | 12k coins | -14.3% |
-| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -12.3% |
-| Sandro Tonali | 87 | CDM | Premier League | 13k coins | -12.1% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -8.5% |
-| Lewis Wing | 86 | CDM | 2. Bundesliga | 12k coins | -65.4% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -61.8% |
+| Natalia Ramos | 87 | CDM | — | 11k coins | -19.6% |
+| Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -19.6% |
+| Nabil Bentaleb | 87 | CDM | — | 12k coins | -16.1% |
+| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -10.7% |
+| Sandro Tonali | 87 | CDM | Premier League | 13k coins | -10.3% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -4.9% |
+| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -19.6% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
 
 
 ## 📈 Destaques
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

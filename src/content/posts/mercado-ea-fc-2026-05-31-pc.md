@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:33.000Z
+pubDatetime: 2026-05-31T21:28:38.000Z
 title: "Volantes no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,25 +13,26 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Nicolas Raskin (85, Scottish Premiership), com +48.1% em 24h, a 48k coins no PC."
+    a: "Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Dominique Janssen (89), -44% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 55 cartas em alta contra 63 em queda (média 0.02%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 59 em queda (média 1.86%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **55 subiram** e **63 caíram**, com variação média de **0.02%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **56 subiram** e **59 caíram**, com variação média de **1.86%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolas Raskin (85) **+48.1%** · 🔴 **Maior baixa:** Dominique Janssen (89) **-44%**
+> 🟢 **Maior alta:** Daniele De Rossi (87) **+54.2%** · 🔴 **Maior baixa:** Dominique Janssen (89) **-44%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +54.2% | -8.6% |
 | Nicolas Raskin | 85 | Scottish Premiership | 48k coins | +48.1% | +48.1% |
 | Wouter Burger | 87 | Bundesliga | 297k coins | +36.9% | +14.2% |
 | N'Golo Kanté | 92 | Trendyol Süper Lig | 629k coins | +35.3% | -2.2% |
@@ -41,16 +42,15 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Georgia Stanway | 95 | — | 25k coins | +25% | +31.6% |
 | Patri Guijarro | 91 | Liga F | 93k coins | +22.4% | +4.5% |
 | Ryan Gravenberch | 92 | Premier League | 475k coins | +21.8% | +21.2% |
-| Yui Hasegawa | 94 | — | 35k coins | +21.6% | +38.2% |
 
 
 ### Análise das altas
 
+- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
 - **Nicolas Raskin (85)** subiu **+48.1%** em 24h, a **48k coins** (faixa do dia: 33k–54k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 - **Wouter Burger (87)** subiu **+36.9%** em 24h, a **297k coins** (faixa do dia: 197k–300k). Está +25% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **N'Golo Kanté (92)** subiu **+35.3%** em 24h, a **629k coins** (faixa do dia: 400k–700k). Está +10% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -86,17 +86,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Nicolas Raskin (85, Scottish Premiership), com +48.1% em 24h, a 48k coins no PC.
+Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**  
 Dominique Janssen (89), -44% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 55 cartas em alta contra 63 em queda (média 0.02%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 59 em queda (média 1.86%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
