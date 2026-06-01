@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:17:01.000Z
+pubDatetime: 2026-06-01T01:17:02.000Z
 title: "Melhores investimentos em Volantes no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -39,13 +39,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% | 16% |
 | Patri Guijarro | 91 | Liga F | 60k coins | +37.9% | +37.1% | 95% |
 | Jaelin Howell | 89 | NWSL | 22k coins | +18.7% | +32.8% | 95% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 64k coins | +11.4% | +27.6% | 50% |
+| Daniele De Rossi | 87 | Serie A TIM | 42k coins | +1.8% | +26.7% | 27% |
 | Patrick Berg | 95 | — | 69k coins | +7% | +25.4% | 43% |
 | Benjamin André | 92 | — | 22k coins | +3.4% | +23.3% | 93% |
 | Ryan Gravenberch | 87 | Premier League | 98k coins | +8.9% | +23.3% | 39% |
 | Aleksandar Pavlović | 89 | Bundesliga | 29k coins | +17% | +23.2% | 5% |
-| Daniele De Rossi | 89 | Serie A TIM | 150k coins | +11.1% | +23% | 39% |
-| Sofyan Amrabat | 90 | LALIGA EA SPORTS | 36k coins | +20.8% | +19.8% | 95% |
-| Máximo Perrone | 92 | — | 22k coins | +2.3% | +18.4% | 5% |
+| Daniele De Rossi | 89 | Serie A TIM | 150k coins | +7.1% | +23% | 39% |
 
 
 ## 📈 Análise dos destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:17:02.000Z
+pubDatetime: 2026-06-01T01:17:02.000Z
 title: "Jogadores baratos de Volantes no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
+    a: "Iván Marcone (90, sem liga) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 8k coins.
+> 💰 **Melhor pechincha:** Iván Marcone (90) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 8k coins | +41.4% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 6k coins | +5.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 6k coins | +7.1% |
 | Peer Koopmeiners | 89 | CDM | — | 13k coins | 0% |
 | Keira Walsh | 89 | CDM | Barclays WSL | 15k coins | +5.3% |
 | Georgia Stanway | 88 | CDM | Liga F | 14k coins | -3.4% |
-| Natalia Ramos | 87 | CDM | — | 11k coins | -19.6% |
 | Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -19.6% |
+| Natalia Ramos | 87 | CDM | — | 11k coins | -19.6% |
 | Nabil Bentaleb | 87 | CDM | — | 12k coins | -16.1% |
 | Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -10.7% |
 | Sandro Tonali | 87 | CDM | Premier League | 13k coins | -10.3% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -4.9% |
 | Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -19.6% |
+| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -68.5% |
 | João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
+| Casemiro | 86 | CDM | Premier League | 11k coins | -73.8% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins**
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **6k coins**
 
 - **Peer Koopmeiners (89, CDM)** da —, a apenas **13k coins**
+
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS).
+Iván Marcone (90, sem liga) aparece como melhor custo-benefício, a 11k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
