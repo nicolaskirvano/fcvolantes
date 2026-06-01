@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:17:03.000Z
+pubDatetime: 2026-06-01T13:17:03.000Z
 title: "Jogadores baratos de Volantes no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +4.4% |
+| Rodri | 90 | CDM | Premier League | 9k coins | -1.2% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | -13.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +1.6% |
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +9.5% |
 | Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | -32.9% |
 | Peer Koopmeiners | 89 | CDM | — | 13k coins | -3.7% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | -12.5% |
+| Natalia Ramos | 87 | CDM | — | 11k coins | -8.3% |
+| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 11k coins | -24.1% |
 | Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -10.2% |
 | Nabil Bentaleb | 87 | CDM | — | 11k coins | -6.4% |
-| Natalia Ramos | 87 | CDM | — | 11k coins | -8.3% |
-| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 11k coins | -22.4% |
-| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -68.4% |
-| Ibrahim Sangaré | 86 | CDM | Premier League | 11k coins | -33.3% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -70.3% |
-| Lena Oberdorf | 86 | CDM | GPFBL | 11k coins | -15.4% |
-| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -13.5% |
+| Sandro Tonali | 87 | CDM | Premier League | 12k coins | -5.8% |
+| Manuel Locatelli | 86 | CDM | Serie A TIM | 11k coins | -68.2% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -63.6% |
+| Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -69.1% |
 
 
 ## 📈 Destaques
@@ -52,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins**
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **7k coins**
 

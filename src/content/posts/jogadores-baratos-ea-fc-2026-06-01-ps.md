@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:17:02.000Z
+pubDatetime: 2026-06-01T13:17:02.000Z
 title: "Jogadores baratos de Volantes no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -33,15 +33,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +20% |
 | Patri Guijarro | 89 | CDM | Liga F | 6k coins | +6.9% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -19.3% |
-| Georgia Stanway | 88 | CDM | Liga F | 14k coins | -6.9% |
+| Georgia Stanway | 88 | CDM | Liga F | 13k coins | -10.3% |
 | Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +26.7% |
 | Nabil Bentaleb | 87 | CDM | — | 11k coins | -20% |
 | Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 11k coins | -21.4% |
 | Natalia Ramos | 87 | CDM | — | 11k coins | -21.4% |
-| Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -21.4% |
+| Yui Hasegawa | 87 | CDM | Barclays WSL | 11k coins | -20% |
 | Matheus Dias | 87 | CDM | Liga Portugal | 12k coins | -20% |
-| Sandro Tonali | 87 | CDM | Premier League | 12k coins | -12.3% |
+| Sandro Tonali | 87 | CDM | Premier League | 13k coins | -12.1% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 15k coins | -14.3% |
 | Ibrahim Sangaré | 86 | CDM | Premier League | 11k coins | -44.2% |
 | Lewis Wing | 86 | CDM | 2. Bundesliga | 11k coins | -62% |
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **6k coins**
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Georgia Stanway (88, CDM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

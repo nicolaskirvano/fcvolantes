@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:17:02.000Z
+pubDatetime: 2026-06-01T13:17:03.000Z
 title: "Melhores investimentos em Volantes no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Frank Rijkaard (89, Icons) lidera, com +68.8% em 7 dias a 135k coins no PC, e o modelo dá 35% de chance de seguir subindo."
+    a: "Tyler Morton (88, Ligue 1 McDonald's) lidera, com +62.6% em 7 dias a 70k coins no PC, e o modelo dá 45% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Frank Rijkaard (89) acumula **+68.8% em 7 dias** a 135k coins.
+> 🔝 **Destaque:** Tyler Morton (88) acumula **+62.6% em 7 dias** a 70k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,32 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 89 | Icons | 135k coins | +27.4% | +68.8% | 35% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 48k coins | +2.7% | +51.6% | 27% |
-| Cristian Roldan | 94 | — | 34k coins | +6.2% | +50% | 68% |
-| Georgia Stanway | 95 | — | 28k coins | +33.3% | +27.3% | 0% |
-| Gilberto Silva | 87 | Premier League | 18k coins | +16.7% | +22.8% | 54% |
-| Matt Grimes | 94 | — | 28k coins | +19.6% | +22.2% | 0% |
-| Elliot Anderson | 86 | Premier League | 30k coins | +1.7% | +20% | 36% |
-| Rodri | 92 | Premier League | 189k coins | +15.2% | +18.1% | 57% |
-| Sammy Braybrooke | 91 | — | 23k coins | +15% | +15% | 0% |
-| Jordan Henderson | 85 | Premier League | 183k coins | +17.3% | +14.4% | 20% |
-| Wouter Burger | 90 | — | 22k coins | +8.8% | +11.5% | 0% |
-| Nicolas Raskin | 85 | Scottish Premiership | 55k coins | +13.4% | +10% | 60% |
-| Granit Xhaka | 91 | — | 23k coins | +4.6% | +8.3% | 0% |
-| Benjamin André | 92 | — | 22k coins | +6% | +6% | 0% |
-| Frank Rijkaard | 87 | Icons | 74k coins | +12.9% | +5.7% | 20% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 70k coins | +26.4% | +62.6% | 45% |
+| Cristian Roldan | 94 | — | 37k coins | +22.5% | +59.8% | 68% |
+| Nicolas Raskin | 85 | Scottish Premiership | 54k coins | +13.8% | +57.4% | 60% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 60k coins | +33.3% | +52.9% | 16% |
+| Georgia Stanway | 88 | Liga F | 18k coins | +31.5% | +36.5% | 62% |
+| Ryan Christie | 89 | Premier League | 20k coins | +2.6% | +33.9% | 42% |
+| Rodri | 92 | Premier League | 210k coins | +11.1% | +31.2% | 57% |
+| Frank Rijkaard | 89 | Icons | 104k coins | +22.4% | +30% | 35% |
+| Matheus Dias | 87 | Liga Portugal | 16k coins | +16.7% | +21.2% | 77% |
+| Daniele De Rossi | 89 | Serie A TIM | 179k coins | +12.6% | +12.6% | 28% |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +20.8% | +10.1% | 44% |
+| Ryan Yates | 85 | Premier League | 24k coins | +22.5% | +8.9% | 24% |
+| Sammy Braybrooke | 91 | — | 21k coins | +6.2% | +6.2% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Frank Rijkaard (89)** — 135k coins, **+68.8% em 7 dias** (+27.4% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Tyler Morton (88)** — 70k coins, **+62.6% em 7 dias** (+26.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hakan Çalhanoğlu (88)** — 48k coins, **+51.6% em 7 dias** (+2.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cristian Roldan (94)** — 37k coins, **+59.8% em 7 dias** (+22.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Cristian Roldan (94)** — 34k coins, **+50% em 7 dias** (+6.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nicolas Raskin (85)** — 54k coins, **+57.4% em 7 dias** (+13.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Georgia Stanway (95)** — 28k coins, **+27.3% em 7 dias** (+33.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gabriel Sara (89)** — 60k coins, **+52.9% em 7 dias** (+33.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gilberto Silva (87)** — 18k coins, **+22.8% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Georgia Stanway (88)** — 18k coins, **+36.5% em 7 dias** (+31.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +74,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Frank Rijkaard (89, Icons) lidera, com +68.8% em 7 dias a 135k coins no PC, e o modelo dá 35% de chance de seguir subindo.
+Tyler Morton (88, Ligue 1 McDonald's) lidera, com +62.6% em 7 dias a 70k coins no PC, e o modelo dá 45% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

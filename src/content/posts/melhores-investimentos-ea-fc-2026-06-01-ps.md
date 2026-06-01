@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:17:02.000Z
+pubDatetime: 2026-06-01T13:17:02.000Z
 title: "Melhores investimentos em Volantes no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,17 +33,17 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Blaise Matuidi | 86 | Ligue 1 McDonald's | 144k coins | +17.1% | +60% | 5% |
 | Claudio Marchisio | 88 | Serie A TIM | 155k coins | +15.7% | +47.6% | 16% |
-| Ryan Yates | 92 | — | 69k coins | +6.2% | +38.7% | 95% |
-| Georgia Stanway | 95 | — | 28k coins | +2.7% | +37.8% | 5% |
+| Georgia Stanway | 95 | — | 28k coins | +15.2% | +35.7% | 5% |
 | Frank Rijkaard | 89 | Icons | 104k coins | +10.6% | +33.3% | 60% |
-| João Neves | 88 | Ligue 1 McDonald's | 150k coins | +4.2% | +31.6% | 95% |
-| Sofyan Amrabat | 90 | LALIGA EA SPORTS | 39k coins | +10.7% | +31.4% | 95% |
 | Granit Xhaka | 89 | Premier League | 25k coins | +12.2% | +31.2% | 27% |
 | Daniele De Rossi | 89 | Serie A TIM | 166k coins | +10.7% | +29.7% | 39% |
-| Aleksandar Pavlović | 93 | — | 22k coins | +1.2% | +27.9% | 95% |
+| Patri Guijarro | 91 | Liga F | 56k coins | +11% | +26.9% | 95% |
+| Angelo Stiller | 90 | Bundesliga | 22k coins | +10% | +25.7% | 5% |
 | Peer Koopmeiners | 89 | — | 16k coins | +17% | +21.6% | 28% |
-| Ryan Gravenberch | 87 | Premier League | 100k coins | +18.3% | +19.8% | 39% |
+| Yui Hasegawa | 94 | — | 28k coins | +9.6% | +21.3% | 56% |
+| Ryan Gravenberch | 87 | Premier League | 103k coins | +3.5% | +17% | 39% |
 | Nico González | 86 | Premier League | 18k coins | +18.3% | +16.4% | 95% |
+| Declan Rice | 89 | Premier League | 100k coins | +1% | +16.4% | 5% |
 | Rodri | 91 | Premier League | 186k coins | +12.7% | +16.2% | 50% |
 | Abdoulaye Doucouré | 87 | ROSHN Saudi League | 48k coins | +16.5% | +13.7% | 28% |
 
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Claudio Marchisio (88)** — 155k coins, **+47.6% em 7 dias** (+15.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ryan Yates (92)** — 69k coins, **+38.7% em 7 dias** (+6.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
-
-- **Georgia Stanway (95)** — 28k coins, **+37.8% em 7 dias** (+2.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Georgia Stanway (95)** — 28k coins, **+35.7% em 7 dias** (+15.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Frank Rijkaard (89)** — 104k coins, **+33.3% em 7 dias** (+10.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Granit Xhaka (89)** — 25k coins, **+31.2% em 7 dias** (+12.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
