@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:36:28.000Z
+pubDatetime: 2026-06-18T22:18:04.000Z
 title: "Volantes no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,88 +13,79 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Javier Mascherano (89, LALIGA EA SPORTS), com +55.5% em 24h, a 98k coins no PC."
+    a: "Patri Guijarro (90, Liga F), com +45.6% em 24h, a 75k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (86), -34.4% em 24h, a 524k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 57 cartas em alta contra 73 em queda (média 0.48%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Denis Zakaria (85), -33.5% em 24h, a 26k coins."
+  - q: "Como está o mercado do EA FC hoje?"
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 71 em queda (média -1.1%)."
+  - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **73 caíram**, com variação média de **0.48%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado de volantes em PC está com um sentimento lateral e sem direção clara, refletindo uma indecisão geral dos traders. Os dados mostram 48 altas contra 71 quedas, resultando em uma média negativa de -1.1% nas últimas 24 horas.
 
-> 🟢 **Maior alta:** Javier Mascherano (89) **+55.5%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (86) **-34.4%**
+> 🟢 **Maior alta:** Patri Guijarro (90) **+45.6%** · 🔴 **Maior baixa:** Denis Zakaria (85) **-33.5%**
 
-## 🟢 Maiores altas (24h)
-
-| Jogador | OVR | Liga | Preço | 24h | 7d |
-| --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 98k coins | +55.5% | +24.4% |
-| Josip Mišić | 85 | Liga Hrvatska | 74k coins | +51.3% | +67.4% |
-| Sofie Junge Pedersen | 86 | Liga F | 29k coins | +46.9% | +72.5% |
-| Gilberto Silva | 87 | Premier League | 30k coins | +46.9% | +98.3% |
-| Denise O'Sullivan | 91 | Barclays WSL | 54k coins | +43.6% | +11.5% |
-| Patri Guijarro | 90 | Liga F | 75k coins | +41.5% | +26.1% |
-| Denise O'Sullivan | 85 | NWSL | 32k coins | +38.7% | +98.5% |
-| Tommaso Pobega | 83 | Serie A TIM | 42k coins | +30.8% | +44.4% |
-| Angelo Stiller | 91 | Bundesliga | 42k coins | +30.1% | +33.3% |
-| Cristian Roldan | 94 | — | 48k coins | +29.8% | +3.2% |
-
-
-### Análise das altas
-
-- **Javier Mascherano (89)** subiu **+55.5%** em 24h, a **98k coins** (faixa do dia: 60k–159k). Está em linha com a média de 7 dias (+8%). O modelo vê **estabilização** no curto prazo.
-
-- **Josip Mišić (85)** subiu **+51.3%** em 24h, a **74k coins** (faixa do dia: 49k–74k). Está +37% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Sofie Junge Pedersen (86)** subiu **+46.9%** em 24h, a **29k coins** (faixa do dia: 17k–34k). Está +26% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-
-## 🔴 Maiores baixas (24h)
+## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 524k coins | -34.4% | -5.6% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 100k coins | -31.5% | -13.6% |
-| Dunga | 87 | Icons | 82k coins | -29.6% | +6.1% |
-| Nicolas Raskin | 85 | Scottish Premiership | 46k coins | -24.2% | -5.7% |
-| Ramires | 88 | Premier League | 427k coins | -21.5% | -18.5% |
-| Nicolas Madsen | 84 | EFL Championship | 32k coins | -21.5% | -6.6% |
-| Carlos Baleba | 90 | Premier League | 77k coins | -20.6% | +7.7% |
-| Ramires | 93 | — | 520k coins | -20.1% | -16.5% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 49k coins | -18.8% | +1% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 32k coins | -18.8% | -15.6% |
+| Patri Guijarro | 90 | Liga F | 75k coins | +45.6% | +36.4% |
+| Daniele De Rossi | 87 | Serie A TIM | 36k coins | +41.4% | +14.8% |
+| Sofie Junge Pedersen | 86 | Liga F | 27k coins | +37.5% | +59.4% |
+| Denise O'Sullivan | 91 | Barclays WSL | 50k coins | +37.4% | -13.7% |
+| Cristian Roldan | 94 | — | 54k coins | +33.7% | +14.7% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 215k coins | +25.7% | -10.4% |
+| Esteban Cambiasso | 91 | — | 27k coins | +25.6% | +50% |
+| Angelo Stiller | 91 | Bundesliga | 40k coins | +23.1% | +33.3% |
+| Aleksandar Stanković | 87 | 1A Pro League | 120k coins | +21.8% | +55.8% |
+| Tommaso Pobega | 83 | Serie A TIM | 42k coins | +20.8% | +33.3% |
 
 
-### Análise das baixas
-
-- **Aurélien Tchouaméni (86)** caiu **-34.4%** em 24h, a **524k coins** (faixa do dia: 516k–844k). Está -18% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Mario Lemina (89)** caiu **-31.5%** em 24h, a **100k coins** (faixa do dia: 100k–148k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Dunga (87)** caiu **-29.6%** em 24h, a **82k coins** (faixa do dia: 66k–139k). Está +10% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Destacam-se as altas de Patri Guijarro, que subiu 45.6% e agora vale 75k, e Daniele De Rossi, com alta de 41.4% para 36k. Cristian Roldan também se saiu bem com 33.7% de aumento, atingindo 54k, enquanto Sofie Junge Pedersen e Denise O'Sullivan tiveram altas significativas de 37.5% e 37.4% respectivamente.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🔴 Destaques de queda (24h)
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+| Jogador | OVR | Liga | Preço | 24h | 7d |
+| --- | --- | --- | --- | --- | --- |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 26k coins | -33.5% | -39.4% |
+| Esteban Cambiasso | 86 | Serie A TIM | 25k coins | -33.3% | -21.3% |
+| Dunga | 87 | Icons | 67k coins | -32.7% | +1.5% |
+| Callum McGregor | 87 | Scottish Premiership | 97k coins | -31.2% | +37.5% |
+| Nicolas Madsen | 84 | EFL Championship | 29k coins | -28.8% | -11.7% |
+| Dominique Janssen | 89 | Barclays WSL | 22k coins | -25.9% | +17.6% |
+| Aleksandar Pavlović | 89 | Bundesliga | 49k coins | -24.6% | -18.3% |
+| Claudio Marchisio | 88 | Serie A TIM | 219k coins | -21.8% | -20.4% |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 32k coins | -20.6% | -17.5% |
+| Joshua Kimmich | 96 | — | 1.03M coins | -19.3% | -2.9% |
+
+
+Denis Zakaria lidera as quedas com uma baixa de 33.5%, caindo para 26k, seguido de perto por Esteban Cambiasso com -33.3% para 25k. Dunga e Callum McGregor também registraram quedas expressivas de 32.7% e 31.2%, valendo respectivamente 67k e 97k atualmente.
+
+
+## 🎯 A estratégia do dia
+Diante da volatilidade e do predomínio de quedas, o conselho é evitar compras impulsivas e focar em segurar ativos estáveis. Aproveite as quedas de jogadores como Zakaria e McGregor para observação, mas não force entradas sem sinais mais claros de reversão.
+
+
+## ⚙️ A engine por tras deste post
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Javier Mascherano (89, LALIGA EA SPORTS), com +55.5% em 24h, a 98k coins no PC.
+Patri Guijarro (90, Liga F), com +45.6% em 24h, a 75k coins no PC.
 
 **E a maior queda do dia?**  
-Aurélien Tchouaméni (86), -34.4% em 24h, a 524k coins.
+Denis Zakaria (85), -33.5% em 24h, a 26k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 57 cartas em alta contra 73 em queda (média 0.48%).
+**Como está o mercado do EA FC hoje?**  
+Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 71 em queda (média -1.1%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
