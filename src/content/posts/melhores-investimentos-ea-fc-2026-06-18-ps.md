@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:17:09.000Z
+pubDatetime: 2026-06-18T19:36:20.000Z
 title: "Melhores investimentos em Volantes no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -31,32 +31,32 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 92k coins | +17.9% | +84% | 5% |
-| Taylor Flint | 88 | NWSL | 202k coins | +8.4% | +63.5% | 59% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 92k coins | +34.3% | +84% | 5% |
+| Taylor Flint | 88 | NWSL | 204k coins | +11.1% | +67.5% | 59% |
 | Emily van Egmond | 88 | Barclays WSL | 75k coins | +25% | +62.2% | 8% |
-| Frank Rijkaard | 89 | Icons | 150k coins | +8.9% | +55.8% | 60% |
+| Frank Rijkaard | 89 | Icons | 145k coins | +11.7% | +54% | 60% |
 | Elliot Anderson | 86 | Premier League | 45k coins | +13.9% | +50% | 16% |
-| Nico González | 86 | Premier League | 28k coins | +3.4% | +43.8% | 95% |
-| Adam Wharton | 88 | Premier League | 33k coins | +4.9% | +42.2% | 8% |
-| Declan Rice | 89 | Premier League | 80k coins | +20.6% | +39.3% | 5% |
+| Adam Wharton | 88 | Premier League | 32k coins | +4.9% | +40.7% | 8% |
+| Declan Rice | 89 | Premier League | 86k coins | +20.6% | +39.3% | 5% |
 | Patri Guijarro | 91 | Liga F | 88k coins | +11.9% | +38.8% | 95% |
 | Rodri | 91 | Premier League | 138k coins | +6.2% | +34% | 50% |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 35k coins | +22.8% | +33.3% | 27% |
-| Patri Guijarro | 90 | Liga F | 52k coins | +3.9% | +32.5% | 95% |
 | Elliot Anderson | 89 | Premier League | 140k coins | +1.4% | +30.8% | 5% |
 | Nicolas Raskin | 85 | Scottish Premiership | 100k coins | +1.7% | +30.4% | 5% |
-| Michaël Essien | 86 | Icons | 84k coins | +13.3% | +28.8% | 16% |
+| Michaël Essien | 86 | Icons | 84k coins | +12.7% | +28% | 16% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 21k coins | +13.3% | +25% | 68% |
+| Sofie Junge Pedersen | 86 | Liga F | 20k coins | +14.5% | +23.4% | 35% |
 
 
 ## 📈 Análise dos destaques
 
-- **Blaise Matuidi (86)** — 92k coins, **+84% em 7 dias** (+17.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Blaise Matuidi (86)** — 92k coins, **+84% em 7 dias** (+34.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Taylor Flint (88)** — 202k coins, **+63.5% em 7 dias** (+8.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Taylor Flint (88)** — 204k coins, **+67.5% em 7 dias** (+11.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Emily van Egmond (88)** — 75k coins, **+62.2% em 7 dias** (+25% em 24h). Preço +10% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Frank Rijkaard (89)** — 150k coins, **+55.8% em 7 dias** (+8.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Frank Rijkaard (89)** — 145k coins, **+54% em 7 dias** (+11.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Elliot Anderson (86)** — 45k coins, **+50% em 7 dias** (+13.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
