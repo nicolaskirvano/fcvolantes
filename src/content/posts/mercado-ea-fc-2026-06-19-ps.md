@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:17:42.000Z
+pubDatetime: 2026-06-19T22:17:59.000Z
 title: "Volantes no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Gilberto Silva (87, Premier League), com +34.4% em 24h, a 26k coins no Console (PS)."
+    a: "Carlos Baleba (90, Premier League), com +32.9% em 24h, a 116k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Patri Guijarro (91), -34.1% em 24h, a 49k coins."
+    a: "Ryan Yates (92), -42.7% em 24h, a 39k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Dunga (87) — 95% de probabilidade de alta, a 78k coins."
+    a: "Pelo modelo FutQuant, Dunga (87) — 95% de probabilidade de alta, a 84k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 34 cartas em alta contra 45 em queda (média -0.89%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 21 cartas em alta contra 61 em queda (média -6.99%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de Volantes para a plataforma PlayStation em 19 de junho de 2026 apresenta um cenário de lateralidade intensa, onde a volatilidade se torna o principal ativo para traders ágeis, com um balanço de 34 altas contra 45 quedas resultando em uma média negativa de apenas -0.89% nas últimas 24 horas. Essa estabilidade aparente esconde oportunidades pontuais de arbitragem e swing trading, especialmente em jogadores de médio porte que sofrem ajustes de preço devido a promoções de equipe ou mudanças na demanda de meta. O sentimento geral é de cautela, mas a probabilidade de alta em ativos específicos, como Edson Álvarez e Declan Rice, sugere que há capital fluindo para cartas de alta utilidade competitiva, enquanto lendas e ícones experimentam correções de preço significativas. Traders devem focar na divergência entre a probabilidade de alta do modelo e a realidade do preço atual, identificando cartas que estão sendo subvalorizadas pelo mercado a curto prazo. A estratégia do dia exige atenção redobrada aos movimentos de 'buy-low' em jogadores com probabilidade de alta superior a 90% que sofreram quedas abruptas, pois a correção para a média é iminente e lucrativa.
+O mercado de volantes em consoles PS para o dia 19 de junho de 2026 exibe um viés claramente vendedor, com uma dinâmica de desinvestimento generalizada que resultou em 61 quedas contra apenas 21 altas, gerando uma média de variação negativa de -6.99% nas últimas 24 horas. Esse cenário de liquidez excessiva sugere que traders impacientes estão liquidando posições em busca de segurança ou para acumular capital, criando oportunidades de compra seletiva em ativos que ainda não atingiram seu piso de valor fundamental. A volatilidade observada nas ligas menores e nos ícones indica que o algoritmo de precificação está reagindo fortemente a mudanças de demanda pontuais, exigindo do analista uma leitura precisa dos níveis de suporte para evitar compras em queda livre. O sentimento de mercado é de cautela extrema, onde a paciência é o ativo mais valioso, pois tentar comprar no topo de qualquer movimento de alta neste momento é arriscar perdas imediatas com a reversão da tendência geral. Traders experientes devem focar na rotação de carteiras, vendendo ativos com baixa probabilidade de alta futura e segurando aqueles com fundamentos fortes, independentemente do ruído de curto prazo que caracteriza este ciclo de vendas.
 
-> 🟢 **Maior alta:** Gilberto Silva (87) **+34.4%** · 🔴 **Maior baixa:** Patri Guijarro (91) **-34.1%**
+> 🟢 **Maior alta:** Carlos Baleba (90) **+32.9%** · 🔴 **Maior baixa:** Ryan Yates (92) **-42.7%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gilberto Silva | 87 | Premier League | 26k coins | +34.4% | +48.3% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 46k coins | +30.1% | +13.1% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 30k coins | +22.7% | -4.3% |
-| Daniele De Rossi | 87 | Serie A TIM | 25k coins | +17.9% | +35.6% |
-| Carlos Baleba | 90 | Premier League | 116k coins | +17.3% | +60.3% |
-| Ryan Christie | 90 | Premier League | 45k coins | +12.7% | +17.4% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 209k coins | +12.2% | +7.8% |
-| Declan Rice | 91 | Premier League | 294k coins | +10.4% | +70.1% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 48k coins | +10.2% | +19% |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 88k coins | +9.9% | +42.2% |
+| Carlos Baleba | 90 | Premier League | 116k coins | +32.9% | +75.6% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 63k coins | +21.2% | +11.5% |
+| Richard Ríos | 87 | Liga Portugal | 349k coins | +18.9% | +32.7% |
+| Gennaro Gattuso | 86 | Icons | 78k coins | +15% | +38.3% |
+| Sandro Tonali | 91 | Premier League | 157k coins | +11.4% | +15.6% |
+| Nico González | 86 | Premier League | 24k coins | +10.2% | +51.6% |
+| Frank Rijkaard | 87 | Icons | 77k coins | +7.6% | +4.7% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 78k coins | +7.6% | +29.2% |
+| Franck Yannick Kessié | 94 | — | 25k coins | +6.9% | -18.2% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 47k coins | +4.4% | +2.7% |
 
 
-A liderança das altas é dominada por Gilberto Silva, que disparou 34.4% para atingir 26k coins, um movimento atípico para um ícone de base, possivelmente impulsionado por uma demanda de SBC ou uma promoção de legado que aumentou sua visibilidade no mercado. Pablo Martínez segue com alta de 30.1%, subindo para 46k coins, refletindo a valorização de volantes de ataque de ligas menores que se tornam acessíveis para times de meta sem gastar cifras altas. Edson Álvarez apresenta o cenário mais interessante, com alta de 22.7% para 30k coins e uma probabilidade de alta de 95%, indicando que o mercado reconheceu seu valor subestimado e está acumulando posições para revenda futura. Daniele De Rossi subiu 17.9% para 25k coins, beneficiando-se da nostalgia e de possíveis pacotes de lendas que elevam a demanda por cartas de Serie A TIM, enquanto Carlos Baleba, um ativo premium de 116k coins, cresceu 17.3% com probabilidade de alta de 50%, mostrando que a demanda por defensores físicos da Premier League continua resiliente. Ryan Christie e N'Golo Kanté também registraram ganhos de 12.7% e 12.2% respectivamente, com Kanté atingindo 209k coins, demonstrando que jogadores de alto nível com utilidade defensiva sólida mantêm seu poder de compra mesmo em mercados laterais.
+Entre os poucos ativos que demonstraram resiliência ou momentum positivo, Carlos Baleba se destaca com uma alta de 32.9% em 24 horas, atingindo 116k coins, embora sua probabilidade de alta futura seja moderada em 50%, sugerindo cautela na entrada. Gabriel Sara apresentou um ganho sólido de 21.2% para chegar a 63k coins, mas com uma probabilidade de alta de apenas 5%, indicando que este movimento pode ser um último suspiro antes de uma correção ou estabilização lateral. Richard Ríos, da Liga Portugal, subiu 18.9% para 349k coins com uma probabilidade de alta de 42%, refletindo uma demanda específica por volantes de elite em ligas europeias secundárias que podem estar antecipando promoções futuras. Gennaro Gattuso, ícone com 86 de overall, saltou 15% para 78k coins e possui uma robusta probabilidade de alta de 84%, tornando-o um dos ativos mais seguros para acumulação neste ambiente de venda generalizada. Sandro Tonali, com 91 de overall na Premier League, subiu 11.4% para 157k coins com 50% de probabilidade de alta, servindo como um termômetro importante da estabilidade dos ativos premium, enquanto Nico González e Frank Rijkaard, ambos com 95% de probabilidade de alta, mostram que o mercado ainda busca segurança em ícones e jogadores de baixo custo com alto potencial de retorno.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 91 | Liga F | 49k coins | -34.1% | -1.7% |
-| Aleksandar Pavlović | 89 | Bundesliga | 30k coins | -30.2% | -17% |
-| Aleksandar Stanković | 87 | 1A Pro League | 82k coins | -29.1% | -30.9% |
-| Nicolas Raskin | 85 | Scottish Premiership | 75k coins | -26% | -5.7% |
-| Felix Nmecha | 86 | Bundesliga | 180k coins | -21% | +3.1% |
-| Declan Rice | 89 | Premier League | 71k coins | -17.9% | +2.9% |
-| Joshua Kimmich | 96 | — | 595k coins | -17.4% | -31.1% |
-| Yaya Touré | 96 | — | 1.89M coins | -17% | -27.1% |
-| Emmanuel Petit | 87 | Icons | 95k coins | -13.8% | +11.9% |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 38k coins | -13.6% | -9.5% |
+| Ryan Yates | 92 | — | 39k coins | -42.7% | -51.2% |
+| Aleksandar Stanković | 87 | 1A Pro League | 70k coins | -38.2% | -38.2% |
+| Andrea Pirlo | 91 | Icons | 532k coins | -36.2% | -24.2% |
+| Julia Zigiotti | 84 | Barclays WSL | 22k coins | -32.4% | +17.9% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 30k coins | -29.4% | -42.3% |
+| Rodri | 96 | — | 1.96M coins | -25.4% | -48.7% |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 32k coins | -25.3% | -22.6% |
+| Taylor Flint | 88 | NWSL | 140k coins | -24.6% | -6.2% |
+| Daniele De Rossi | 91 | Serie A TIM | 198k coins | -24.1% | -9.6% |
+| Granit Xhaka | 95 | — | 266k coins | -22% | -53.3% |
 
 
-As quedas mais expressivas são lideradas por Patri Guijarro, que despencou 34.1% para 49k coins, uma queda dramática que pode ser atribuída a uma sobreoferta após um pico de popularidade ou à saída de um SBC popular, criando uma oportunidade de compra de risco calculado dado seu alto potencial de recuperação. Aleksandar Pavlović e Aleksandar Stanković sofreram quedas de 30.2% e 29.1% respectivamente, caindo para 30k e 82k coins, o que sugere uma correção de preços em volantes de ligas secundárias que perderam relevância em metas competitivas recentes. Nicolas Raskin e Felix Nmecha também registraram quedas significativas de 26% e 21%, com Nmecha caindo para 180k coins, o que pode indicar uma rotação de portfólio onde traders estão liquidando posições de médio-alto risco para realocar capital em ativos mais seguros. Declan Rice (versão 89) caiu 17.9% para 71k coins, enquanto Joshua Kimmich e Yaya Touré, ativos de altíssimo valor, perderam 17.4% e 17% respectivamente, com Kimmich a 595k e Touré a 1.89M coins, demonstrando que até os ativos mais líquidos estão sob pressão de venda de grandes investidores que buscam proteger lucros ou reagir a incertezas de patch.
+O lado das quedas é dominado por vendas agressivas, onde Ryan Yates despencou 42.7% para 39k coins, um movimento extremo que, paradoxalmente, vem acompanhado por uma probabilidade de alta de 95%, sugerindo uma oportunidade de compra de pânico ou fundo de mercado. Aleksandar Stanković caiu 38.2% para 70k coins com apenas 23% de probabilidade de alta, indicando que a queda pode ser estrutural e não apenas corretiva, exigindo que traders evitem pegar essa faca caindo sem sinais de reversão claros. Andrea Pirlo, um ativo de alto valor, perdeu 36.2% para 532k coins, mas com uma probabilidade de alta de 35%, o que sinaliza que a instabilidade nos ícones de luxo ainda não terminou e o risco de volatilidade permanece elevado. Julia Zigiotti e Abdoulaye Doucouré também sofreram quedas significativas de 32.4% e 29.4% respectivamente, refletindo a desvalorização de ativos de ligas menores ou menos populares que sofrem com a falta de liquidez constante. Rodri, com uma queda de 25.4% para 1.96M coins e probabilidade de alta de 0%, demonstra que até os ativos mais caros e estáveis não estão imunes ao sentimento vendedor generalizado, servindo como um aviso para não alavancar posições em ativos de alta captação neste momento de incerteza.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Dunga | 87 | 78k coins | 104k coins | 95% |
-| Frank Rijkaard | 87 | 73k coins | 87k coins | 95% |
-| Patri Guijarro | 91 | 49k coins | 56k coins | 95% |
-| Sofyan Amrabat | 91 | 88k coins | 109k coins | 95% |
-| Declan Rice | 91 | 294k coins | 363k coins | 95% |
+| Dunga | 87 | 84k coins | 113k coins | 95% |
+| Frank Rijkaard | 87 | 77k coins | 91k coins | 95% |
+| Patri Guijarro | 91 | 35k coins | 40k coins | 95% |
+| Ryan Yates | 92 | 39k coins | 46k coins | 95% |
+| Patri Guijarro | 90 | 56k coins | 69k coins | 95% |
+| Declan Rice | 91 | 330k coins | 407k coins | 95% |
 | Ryan Gravenberch | 86 | 40k coins | 48k coins | 95% |
-| Felix Nmecha | 86 | 180k coins | 213k coins | 95% |
-| Rúben Neves | 87 | 23k coins | 30k coins | 95% |
+| Sofyan Amrabat | 91 | 78k coins | 96k coins | 95% |
 
 
-O modelo preditivo aponta para uma forte recuperação em Dunga e Frank Rijkaard, ambos ícones com probabilidade de alta de 95%, sugerindo que a demanda por cartas de ícones acessíveis voltará a crescer, com Dunga a 78k e Rijkaard a 73k coins. Patri Guijarro, apesar da queda recente, também tem 95% de probabilidade de alta, indicando que a correção atual pode ser um fundo técnico de compra. Sofyan Amrabat e Declan Rice (91) são projetados para subir, com Amrabat a 88k e Rice a 294k coins, reforçando a tendência de valorização de volantes da Premier League e LALIGA. Ryan Gravenberch e Felix Nmecha também aparecem nas previsões com alta probabilidade, sugerindo que os ativos que caíram podem ser os próximos a subir. Rúben Neves, com alta probabilidade a 23k coins, representa uma entrada de baixo risco para traders com capital limitado.
+O modelo preditivo identifica uma série de ativos com alta probabilidade de valorização, liderados por Dunga e Frank Rijkaard, ambos ícones com 95% de chance de alta, posicionados em 84k e 77k coins respectivamente, oferecendo uma relação risco-retorno atrativa em um mercado volátil. Patri Guijarro aparece em duas versões, com 91 e 90 de overall, ambas com 95% de probabilidade de alta, sugerindo uma demanda crescente por volantes de ligas femininas ou secundárias que estão sendo subvalorizados pelo mercado. Declan Rice, um ativo premium da Premier League, projeta alta com 95% de probabilidade a 330k coins, indicando que o mercado pode estar reposicionando capital em ativos de elite após as vendas iniciais. Ryan Yates, apesar da queda recente, mantém 95% de probabilidade de alta, reforçando a tese de que sua desvalorização foi uma oportunidade de compra extrema. Ryan Gravenberch e Sofyan Amrabat completam o grupo de alta confiança, com 95% de probabilidade de alta, confirmando que o modelo vê valor intrínseco em ativos que ainda não foram totalmente explorados pelos traders que estão vendendo em pânico.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Joshua Kimmich | 90 | 46k coins | -29.2% |
-| Aleksandar Pavlović | 89 | 30k coins | -15.6% |
-| Nicolas Raskin | 85 | 75k coins | -34.1% |
-| Gilberto Silva | 87 | 26k coins | -24% |
-| Emmanuel Petit | 87 | 95k coins | -17.5% |
 | Casemiro | 84 | 48k coins | -17.3% |
-| Korbin Shrader | 84 | 44k coins | -21.4% |
-| Xabi Alonso | 87 | 73k coins | -21.4% |
+| Elliot Anderson | 89 | 140k coins | -29.2% |
+| Gabriel Sara | 89 | 63k coins | -24.1% |
+| Xabi Alonso | 87 | 72k coins | -21.4% |
+| Blaise Matuidi | 86 | 64k coins | -29% |
+| Angelo Stiller | 91 | 27k coins | -15.6% |
+| Korbin Shrader | 84 | 40k coins | -21.4% |
+| Esteban Cambiasso | 91 | 16k coins | -13.8% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é comprar agressivamente Edson Álvarez e Declan Rice (91) devido à alta probabilidade de valorização e demanda sustentada, enquanto se espera a estabilização de Patri Guijarro e Felix Nmecha para compra em preços mais baixos, aproveitando as quedas recentes. É crucial evitar a compra de ativos de altíssimo valor como Yaya Touré e Joshua Kimmich neste momento, pois a pressão vendedora ainda não cessou e os riscos de perda são elevados. Traders devem manter posições em Gilberto Silva e Pablo Martínez para lucrar com a inércia das altas, vendendo em picos de resistência técnica. O foco deve estar na rotação de capital entre ativos de médio porte com alta probabilidade de recuperação, como Dunga e Rijkaard, e na especulação de curto prazo com cartas que sofreram quedas excessivas sem fundamentos negativos duradouros. O timing é essencial, pois o mercado lateral pode virar rapidamente em um movimento de alta ou baixa generalizada, exigindo execução rápida de ordens de compra e venda.
+A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de previsão, como Dunga, Frank Rijkaard e Declan Rice, enquanto se evita totalmente a compra de ativos em queda livre sem suporte, como Aleksandar Stanković. Traders devem considerar a venda de ativos com baixa probabilidade de alta, como Gabriel Sara, para realizar lucros ou minimizar perdas antes de uma possível reversão negativa. É crucial manter uma reserva de liquidez para aproveitar as oportunidades de fundo de mercado em ativos como Ryan Yates, que mostram sinais de exaustão de vendedores. Evite alavancar posições em ativos de alto valor como Rodri e Andrea Pirlo até que haja sinais claros de estabilização, pois o sentimento vendedor ainda pode pressionar esses preços para baixo. O timing ideal para entrada é no final do ciclo de venda, quando a probabilidade de alta começar a convergir com preços estáveis, permitindo uma acumulação mais segura para os dias seguintes.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Gilberto Silva (87, Premier League), com +34.4% em 24h, a 26k coins no Console (PS).
+Carlos Baleba (90, Premier League), com +32.9% em 24h, a 116k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Patri Guijarro (91), -34.1% em 24h, a 49k coins.
+Ryan Yates (92), -42.7% em 24h, a 39k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Dunga (87) — 95% de probabilidade de alta, a 78k coins.
+Pelo modelo FutQuant, Dunga (87) — 95% de probabilidade de alta, a 84k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 34 cartas em alta contra 45 em queda (média -0.89%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 21 cartas em alta contra 61 em queda (média -6.99%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
