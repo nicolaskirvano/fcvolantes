@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:18:04.000Z
+pubDatetime: 2026-06-19T01:18:48.000Z
 title: "Volantes no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Patri Guijarro (90, Liga F), com +45.6% em 24h, a 75k coins no PC."
+    a: "Denise O'Sullivan (91, Barclays WSL), com +58.9% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Denis Zakaria (85), -33.5% em 24h, a 26k coins."
+    a: "Rani Khedira (84), -41.3% em 24h, a 29k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 71 em queda (média -1.1%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 55 cartas em alta contra 78 em queda (média 0.16%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de volantes em PC está com um sentimento lateral e sem direção clara, refletindo uma indecisão geral dos traders. Os dados mostram 48 altas contra 71 quedas, resultando em uma média negativa de -1.1% nas últimas 24 horas.
+O mercado de volantes em PC para o dia 18 de junho de 2026 apresenta uma configuração extremamente lateral, caracterizada por uma ausência de direção clara que exige cautela redobrada dos traders. Com um balanço de 55 altas contra 78 quedas e uma média de variação de apenas 0.16% nas últimas 24 horas, o cenário indica um fluxo de capital fragmentado e sem convicção de tendência consolidada. Essa neutralidade sugere que os movimentos individuais são impulsionados mais por volatilidade de curto prazo e especulação pontual do que por fundamentais macroeconômicos do jogo. Traders experientes devem evitar alavancagem excessiva em posições de alta frequência, pois a probabilidade de reversão é elevada em um ambiente onde a maioria dos ativos está em queda ou estagnada. O foco deve estar na seleção criteriosa de ativos com discrepâncias óbvias entre preço atual e probabilidade de alta, aproveitando a ineficiência momentânea do mercado.
 
-> 🟢 **Maior alta:** Patri Guijarro (90) **+45.6%** · 🔴 **Maior baixa:** Denis Zakaria (85) **-33.5%**
+> 🟢 **Maior alta:** Denise O'Sullivan (91) **+58.9%** · 🔴 **Maior baixa:** Rani Khedira (84) **-41.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 90 | Liga F | 75k coins | +45.6% | +36.4% |
-| Daniele De Rossi | 87 | Serie A TIM | 36k coins | +41.4% | +14.8% |
-| Sofie Junge Pedersen | 86 | Liga F | 27k coins | +37.5% | +59.4% |
-| Denise O'Sullivan | 91 | Barclays WSL | 50k coins | +37.4% | -13.7% |
-| Cristian Roldan | 94 | — | 54k coins | +33.7% | +14.7% |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 215k coins | +25.7% | -10.4% |
-| Esteban Cambiasso | 91 | — | 27k coins | +25.6% | +50% |
-| Angelo Stiller | 91 | Bundesliga | 40k coins | +23.1% | +33.3% |
-| Aleksandar Stanković | 87 | 1A Pro League | 120k coins | +21.8% | +55.8% |
-| Tommaso Pobega | 83 | Serie A TIM | 42k coins | +20.8% | +33.3% |
+| Denise O'Sullivan | 91 | Barclays WSL | 58k coins | +58.9% | +1.8% |
+| Patri Guijarro | 90 | Liga F | 74k coins | +46.5% | +48.7% |
+| Adam Wharton | 88 | Premier League | 35k coins | +40% | +77.2% |
+| Esteban Cambiasso | 86 | Serie A TIM | 23k coins | +39.4% | +50.8% |
+| Sofie Junge Pedersen | 86 | Liga F | 25k coins | +35.1% | +50.7% |
+| Denise O'Sullivan | 85 | NWSL | 26k coins | +30.8% | +56.9% |
+| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +28.1% | +2.5% |
+| Patri Guijarro | 91 | Liga F | 84k coins | +26.8% | +16.7% |
+| Victor Lindelöf | 96 | — | 456k coins | +24.4% | +12% |
+| Ryan Gravenberch | 93 | Premier League | 495k coins | +23.4% | +10% |
 
 
-Destacam-se as altas de Patri Guijarro, que subiu 45.6% e agora vale 75k, e Daniele De Rossi, com alta de 41.4% para 36k. Cristian Roldan também se saiu bem com 33.7% de aumento, atingindo 54k, enquanto Sofie Junge Pedersen e Denise O'Sullivan tiveram altas significativas de 37.5% e 37.4% respectivamente.
+Entre as maiores altas, Denise O'Sullivan (91, Barclays WSL) lidera com um impressionante aumento de 58.9% em 24 horas, atingindo 58k coins, apesar de sua probabilidade de alta ser calculada em apenas 23%, o que sinaliza um possível topo especulativo de curto prazo. Patri Guijarro (90, Liga F) também se destaca com alta de 46.5% para 74k coins, possuindo uma probabilidade de alta robusta de 61%, indicando sustentação mais sólida para futuros trades de swing. Adam Wharton (88, Premier League) subiu 40% para 35k coins, e com uma probabilidade de alta de 76%, parece ser a compra mais racional da lista, sugerindo que o preço ainda não precificou totalmente seu potencial. Esteban Cambiasso (86, Serie A TIM) registrou alta de 39.4% para 23k coins, mas com apenas 24% de probabilidade de alta, deve ser tratado como uma oportunidade de venda rápida e não de acumulação. Sofie Junge Pedersen (86, Liga F) completou o top cinco com 35.1% de alta para 25k coins e 46% de probabilidade, oferecendo um equilíbrio moderado de risco e recompensa para traders com apetite por ativos de médio porte.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 26k coins | -33.5% | -39.4% |
-| Esteban Cambiasso | 86 | Serie A TIM | 25k coins | -33.3% | -21.3% |
-| Dunga | 87 | Icons | 67k coins | -32.7% | +1.5% |
-| Callum McGregor | 87 | Scottish Premiership | 97k coins | -31.2% | +37.5% |
-| Nicolas Madsen | 84 | EFL Championship | 29k coins | -28.8% | -11.7% |
-| Dominique Janssen | 89 | Barclays WSL | 22k coins | -25.9% | +17.6% |
-| Aleksandar Pavlović | 89 | Bundesliga | 49k coins | -24.6% | -18.3% |
-| Claudio Marchisio | 88 | Serie A TIM | 219k coins | -21.8% | -20.4% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 32k coins | -20.6% | -17.5% |
-| Joshua Kimmich | 96 | — | 1.03M coins | -19.3% | -2.9% |
+| Rani Khedira | 84 | Bundesliga | 29k coins | -41.3% | -35% |
+| Callum McGregor | 87 | Scottish Premiership | 109k coins | -41.2% | +17.5% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 55k coins | -34.1% | -21.4% |
+| Nicolas Madsen | 84 | EFL Championship | 38k coins | -33.5% | -18.7% |
+| Croix Bethune | 84 | NWSL | 28k coins | -32.7% | -23.1% |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 175k coins | -32.4% | +163.2% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 28k coins | -32.3% | -40.6% |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | -28.7% | -23.7% |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 33k coins | -25.1% | +1.5% |
+| Sandro Tonali | 91 | Premier League | 92k coins | -23.3% | -2.1% |
 
 
-Denis Zakaria lidera as quedas com uma baixa de 33.5%, caindo para 26k, seguido de perto por Esteban Cambiasso com -33.3% para 25k. Dunga e Callum McGregor também registraram quedas expressivas de 32.7% e 31.2%, valendo respectivamente 67k e 97k atualmente.
+Na outra ponta, Rani Khedira (84, Bundesliga) sofreu a maior queda de -41.3% em 24 horas, despencando para 29k coins, embora mantenha uma probabilidade de alta de 51%, o que pode indicar um fundo técnico próximo para compradores agressivos. Callum McGregor (87, Scottish Premiership) caiu -41.2% para 109k coins, com probabilidade de alta de 57%, sugerindo que a venda excessiva pode estar criando uma oportunidade de valor em ativos de alta cotação. Gabriel Sara (89, Trendyol Süper Lig) registrou queda de -34.1% para 55k coins, mas com apenas 16% de probabilidade de alta, alerta para riscos contínuos de desvalorização e deve ser evitado por traders conservadores. Nicolas Madsen (84, EFL Championship) despencou -33.5% para 38k coins, com probabilidade de alta de 55%, apresentando uma discrepância interessante entre o preço baixo e o potencial de recuperação estatística. Croix Bethune (84, NWSL) caiu -32.7% para 28k coins com 44% de probabilidade, enquanto Edson Álvarez (86, Trendyol Süper Lig) teve queda de -32.4% para 175k coins, mantendo 36% de probabilidade, o que indica que ativos de alto valor ainda enfrentam resistência significativa para reverter a tendência de baixa.
 
 
 ## 🎯 A estratégia do dia
-Diante da volatilidade e do predomínio de quedas, o conselho é evitar compras impulsivas e focar em segurar ativos estáveis. Aproveite as quedas de jogadores como Zakaria e McGregor para observação, mas não force entradas sem sinais mais claros de reversão.
+A estratégia ideal para hoje é focar na compra de Adam Wharton (88) e Patri Guijarro (90) devido à sua alta probabilidade de alta combinada com movimentos de preço já iniciados, buscando lucros em curto prazo antes de uma possível correção. Traders devem considerar a compra de Rani Khedira (84) e Callum McGregor (87) como apostas de recuperação, dado que suas quedas acentuadas contrastam com probabilidades de alta superiores a 50%, sugerindo exaustão vendedora. É crucial evitar a compra de Denise O'Sullivan (91) e Esteban Cambiasso (86) neste momento, pois suas altas recentes não são suportadas por probabilidades estatísticas favoráveis, aumentando o risco de reversão imediata. Segure posições em ativos de alta probabilidade como Wharton apenas se o mercado mantiver a lateralidade, vendendo qualquer sinal de enfraquecimento no volume de compra. A disciplina é fundamental em um dia com média de variação de 0.16%, onde a paciência para esperar setups mais claros é mais valiosa do que a ação impulsiva baseada em headlines de mercado.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Patri Guijarro (90, Liga F), com +45.6% em 24h, a 75k coins no PC.
+Denise O'Sullivan (91, Barclays WSL), com +58.9% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**  
-Denis Zakaria (85), -33.5% em 24h, a 26k coins.
+Rani Khedira (84), -41.3% em 24h, a 29k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 48 cartas em alta contra 71 em queda (média -1.1%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 55 cartas em alta contra 78 em queda (média 0.16%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
