@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:18:06.000Z
+pubDatetime: 2026-06-20T16:18:06.000Z
 title: "Jogadores baratos de Volantes no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Ahmed Fathi (91, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Kristijan Jakić (91, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ahmed Fathi (91) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Kristijan Jakić (91) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ahmed Fathi | 91 | CDM | — | 13k coins | -3.8% |
-| Kristijan Jakić | 91 | CDM | — | 13k coins | -3.8% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -3.4% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +5.6% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 15k coins | +15.4% |
+| Kristijan Jakić | 91 | CDM | — | 13k coins | 0% |
+| Ahmed Fathi | 91 | CDM | — | 13k coins | +1.9% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +29.4% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.6% |
 
 
 ## 📈 Destaques
 
-- **Ahmed Fathi (91, CDM)** da —, a apenas **13k coins**
-
 - **Kristijan Jakić (91, CDM)** da —, a apenas **13k coins**
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14k coins**
+- **Ahmed Fathi (91, CDM)** da —, a apenas **13k coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2k coins**
+- **Angelo Stiller (85, CDM)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Angelo Stiller (85, CDM)** da Bundesliga, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -63,7 +60,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Ahmed Fathi (91, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Kristijan Jakić (91, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
