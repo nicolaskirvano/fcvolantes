@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:19:16.000Z
+pubDatetime: 2026-06-20T22:20:20.000Z
 title: "Melhores investimentos em Volantes no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Granit Xhaka (89, Premier League) lidera, com +75.4% em 7 dias a 75k coins no PC, e o modelo dá 63% de chance de seguir subindo."
+    a: "Granit Xhaka (89, Premier League) lidera, com +76.5% em 7 dias a 75k coins no PC, e o modelo dá 63% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Granit Xhaka (89) acumula **+75.4% em 7 dias** a 75k coins.
+> 🔝 **Destaque:** Granit Xhaka (89) acumula **+76.5% em 7 dias** a 75k coins.
 
 
 ## 🧠 A leitura do dia
-A análise do mercado de Volantes em EA FC Ultimate Team para PC, realizada nesta terça-feira, 20 de junho de 2026, revela uma dinâmica interessante de valorização em curto prazo. Ao observarmos as tendências de 7 dias, focamos especificamente nas cartas que apresentam maior potencial de alta nas últimas 24 horas, cruzando dados de variação percentual com a probabilidade estatística de continuidade dessa tendência. O objetivo é identificar oportunidades de entrada seguras para investidores que buscam lucros rápidos, evitando especulações baseadas em sentimentos e focando estritamente nos números apresentados pelo mercado atual.
+No cenário atual do mercado de EA FC Ultimate Team, especificamente focado na posição de volantes para o PC em 20 de junho de 2026, a análise de tendências de valorização dos últimos sete dias revela oportunidades claras para investidores atentos. O mercado tem apresentado volatilidade significativa, mas é possível identificar padrões sólidos baseados na probabilidade de alta e no percentual de crescimento nas últimas 24 horas. Entre as opções disponíveis, destaca-se a carta de 89 de Granit Xhaka, da Premier League, que registrou um impressionante aumento de 35,1% em apenas um dia. Com uma probabilidade de alta de 63% e cotada a 75 mil coins, Xhaka apresenta-se como uma das entradas mais robustas, combinando um crescimento acelerado com uma chance de continuidade positiva acima da média, o que sugere forte demanda no mercado secundário.
 
-Dentre os destaques, Nicolas Raskin (85, Scottish Premiership) se impõe como a opção mais agressiva, registrando um impressionante aumento de 37.5% em apenas 24 horas, cotado atualmente a 55k coins. Apesar de sua probabilidade de alta futura ser moderada (60%), o momentum atual é forte, sugerindo uma oportunidade de entrada rápida antes que o preço se estabilize. Em paralelo, Granit Xhaka (89, Premier League) apresenta uma subida robusta de 28.2% em 24 horas, posicionado a 75k coins. Com uma probabilidade de alta de 63%, Xhaka oferece um equilíbrio atrativo entre risco e retorno, especialmente para quem busca cartas de elite da liga mais popular do jogo.
+Outro nome que merece atenção imediata é Nicolas Raskin, volante de 85 estrelas da Scottish Premiership. Sua carta saltou 36,6% em 24 horas, atingindo o valor de 55 mil coins. Apesar de estar em uma liga menos movimentada que a Premier League, a probabilidade de alta de 60% indica que o hype em torno dessa carta está longe de terminar. Para investidores dispostos a correr riscos moderados em ligas secundárias, Raskin oferece uma das maiores porcentagens de retorno de curto prazo listadas, tornando-o uma peça chave para quem busca lucros rápidos antes de possíveis correções ou estabilizações.
 
-Para investidores com menor capital inicial, Matheus Dias (87, Liga Portugal) surge como uma das escolhas mais racionais. A carta subiu 18.9% nas últimas 24 horas e está disponível por apenas 30k coins. O fator decisivo aqui é a alta probabilidade de continuação da tendência, que atinge 77%, o que indica uma confiança de mercado sólida na valorização futura deste jogador. Da mesma forma, Jorthy Mokio (86, Eredivisie), a 32k coins, registrou alta de 29.3% em 24 horas. Embora sua probabilidade de alta seja de 59%, o volume de subida recente sugere uma demanda imediata por sua carta, tornando-o uma aposta de baixo custo com potencial de retorno rápido.
+No segmento de baixo custo, Adam Wharton surge como uma aposta inteligente. O volante de 88 da Premier League subiu 6,1% nas últimas 24 horas e está disponível por apenas 29 mil coins. O ponto forte de Wharton reside em sua probabilidade de alta de 76%, a segunda mais alta da lista. Isso significa que, embora o crescimento percentual diário não seja explosivo, a consistência da valorização é extremamente provável. Para carteiras com capital limitado, Wharton oferece segurança e potencial de acumulação gradual sem expor o investidor a grandes quedas repentinas.
 
-No segmento de alto custo e elite, Sofyan Amrabat (91, LALIGA EA SPORTS) merece atenção especial. Cotado a 80k coins, o volante subiu 14.3% em 24 horas e possui a segunda maior probabilidade de alta do grupo analisado, com 71%. Isso indica uma tendência estrutural de valorização, menos volátil que as de baixo custo, mas com maior solidez. Já Douglas Luiz (90, Premier League), a 54k coins, apresenta uma alta mais contenida de 4.8% em 24 horas, mas compensa com a maior probabilidade de alta do conjunto, de 79%. Essa combinação sugere uma valorização lenta, porém constante, ideal para estratégias de médio prazo.
+Matheus Dias, da Liga Portugal, também se destaca nessa análise. Com uma alta de 18,9% em 24 horas e uma probabilidade de alta de 77% — a mais elevada entre os jogadores listados —, sua carta de 87 estrelas a 32 mil coins representa o equilíbrio ideal entre risco e retorno. A alta probabilidade de continuidade sugere que a tendência de valorização de Dias não é um fenômeno isolado, mas sim parte de uma reavaliação de mercado do jogador, o que pode sustentar preços mais elevados nos próximos dias.
 
-Por outro lado, é crucial identificar cartas onde a entrada pode ser arriscada ou menos recomendada no momento. Aleksandar Pavlović (89, Bundesliga), a 60k coins, teve alta de apenas 4.3% com baixa probabilidade de continuação (36%), o que pode indicar saturação. Similarmente, Sandro Tonali (91, Premier League) e Ramires (86, Premier League), apesar de serem nomes consagrados, apresentam probabilidades de alta muito baixas (24% cada), com variações de 5.3% e 9.4%, respectivamente. Patri Guijarro (91, Liga F), apesar da alta probabilidade de 78%, teve um crescimento mínimo de 1.7%, o que pode não justificar o risco de entrada a 88k coins neste momento específico. Portanto, as melhores entradas focam-se em Raskin, Xhaka, Dias, Mokio e Amrabat.
+É crucial, no entanto, evitar cartas que parecem atraentes apenas pelo percentual de alta, mas que possuem probabilidades de continuidade baixas ou nulas. O caso de Esteban Cambiasso é exemplar: apesar de um aumento de 25% em 24 horas, sua probabilidade de alta é de 0%. Isso indica um pico de demanda que provavelmente já foi absorvido pelo mercado, sugerindo uma queda iminente ou estagnação, tornando a entrada arriscada. Da mesma forma, Gabriel Sara, com 26,7% de alta mas apenas 16% de probabilidade de continuidade, deve ser evitado por investidores de longo prazo, pois os indicadores apontam para uma correção de preço.
+
+Por fim, jogadores de alto custo como Sandro Tonali (91) e Ryan Gravenberch (87) apresentam sinais mistos. Tonali, a 120 mil coins, tem uma alta modesta de 5,3% e uma probabilidade de alta de apenas 24%, o que não justifica o risco de capital elevado. Gravenberch, embora tenha 67% de probabilidade de alta, cresceu apenas 1,9% em 24 horas, indicando uma movimentação lenta que pode não compensar a imobilização de grandes quantias em coins. Portanto, as melhores estratégias atuais focam em Xhaka, Raskin, Wharton e Matheus Dias, que combinam crescimento visível com probabilidades estatísticas favoráveis para as próximas horas.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 75k coins | +28.2% | +75.4% | 63% |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 80k coins | +14.3% | +60.8% | 71% |
-| Matheus Dias | 87 | Liga Portugal | 30k coins | +18.9% | +44.8% | 77% |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +29.3% | +42.2% | 59% |
-| Aleksandar Pavlović | 89 | Bundesliga | 60k coins | +4.3% | +31.9% | 36% |
-| Patri Guijarro | 91 | Liga F | 88k coins | +1.7% | +29.4% | 78% |
-| Nicolas Raskin | 85 | Scottish Premiership | 55k coins | +37.5% | +27.9% | 60% |
-| Sandro Tonali | 91 | Premier League | 120k coins | +5.3% | +21.8% | 24% |
-| Douglas Luiz | 90 | Premier League | 54k coins | +4.8% | +14% | 79% |
-| Ramires | 86 | Premier League | 118k coins | +9.4% | +13.3% | 24% |
-| Ryan Gravenberch | 87 | Premier League | 110k coins | +3.8% | +11.7% | 67% |
-| Michaël Essien | 86 | Icons | 150k coins | +31.4% | +9.8% | 63% |
-| João Neves | 88 | Ligue 1 McDonald's | 213k coins | +7.6% | +9.2% | 41% |
-| Franck Yannick Kessié | 94 | — | 26k coins | +12.9% | +6.5% | 0% |
-| Angelo Stiller | 85 | Bundesliga | 20k coins | +9.9% | +5.4% | 36% |
+| Granit Xhaka | 89 | Premier League | 75k coins | +35.1% | +76.5% | 63% |
+| Adam Wharton | 88 | Premier League | 29k coins | +6.1% | +59.2% | 76% |
+| Gilberto Silva | 87 | Premier League | 24k coins | +6.8% | +49.2% | 54% |
+| Nicolas Raskin | 85 | Scottish Premiership | 55k coins | +36.6% | +48.6% | 60% |
+| Matheus Dias | 87 | Liga Portugal | 32k coins | +18.9% | +44.8% | 77% |
+| Sandro Tonali | 91 | Premier League | 120k coins | +5.3% | +22.4% | 24% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 75k coins | +26.7% | +19.7% | 16% |
+| Esteban Cambiasso | 91 | — | 20k coins | +25% | +15.9% | 0% |
+| Ryan Gravenberch | 87 | Premier League | 108k coins | +1.9% | +13.7% | 67% |
+| Emily van Egmond | 88 | Barclays WSL | 55k coins | +12.8% | +12.2% | 61% |
+| Aleksandar Pavlović | 89 | Bundesliga | 50k coins | +17.6% | +9.9% | 36% |
 
 
 ## 📈 Análise dos destaques
 
-- **Granit Xhaka (89)** — 75k coins, **+75.4% em 7 dias** (+28.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Granit Xhaka (89)** — 75k coins, **+76.5% em 7 dias** (+35.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sofyan Amrabat (91)** — 80k coins, **+60.8% em 7 dias** (+14.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Adam Wharton (88)** — 29k coins, **+59.2% em 7 dias** (+6.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
 
-- **Matheus Dias (87)** — 30k coins, **+44.8% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gilberto Silva (87)** — 24k coins, **+49.2% em 7 dias** (+6.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jorthy Mokio (86)** — 32k coins, **+42.2% em 7 dias** (+29.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nicolas Raskin (85)** — 55k coins, **+48.6% em 7 dias** (+36.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aleksandar Pavlović (89)** — 60k coins, **+31.9% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matheus Dias (87)** — 32k coins, **+44.8% em 7 dias** (+18.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Granit Xhaka (89, Premier League) lidera, com +75.4% em 7 dias a 75k coins no PC, e o modelo dá 63% de chance de seguir subindo.
+Granit Xhaka (89, Premier League) lidera, com +76.5% em 7 dias a 75k coins no PC, e o modelo dá 63% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
