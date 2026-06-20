@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:18:11.000Z
-title: "Jogadores baratos de Volantes no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-06-20T19:19:17.000Z
+title: "Jogadores baratos de Volantes no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Edson Álvarez (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "David Ayala (91, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Edson Álvarez (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** David Ayala (91) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 93 | CDM | — | 14k coins | -27% |
-| David Ayala | 91 | CDM | — | 12k coins | -64.2% |
-| Kristijan Jakić | 91 | CDM | — | 13k coins | +1.9% |
-| Ahmed Fathi | 91 | CDM | — | 13k coins | 0% |
-| Esteban Cambiasso | 91 | CDM | — | 14k coins | -6.8% |
-| Peer Koopmeiners | 89 | CDM | — | 13k coins | -20.9% |
-| Lena Oberdorf | 84 | CDM | GPFBL | 2k coins | 0% |
-| Sjoeke Nüsken | 84 | CDM | Barclays WSL | 2k coins | 0% |
+| David Ayala | 91 | CDM | — | 12k coins | -63.6% |
+| Ahmed Fathi | 91 | CDM | — | 14k coins | +1.9% |
+| Kristijan Jakić | 91 | CDM | — | 15k coins | +5.7% |
+| Esteban Cambiasso | 91 | CDM | — | 15k coins | -7.2% |
+| Rodri | 90 | CDM | Premier League | 3k coins | -50% |
+| Julie Swierot | 90 | CDM | — | 12k coins | -62.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -33.3% |
 
 
 ## 📈 Destaques
 
-- **Edson Álvarez (93, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **David Ayala (91, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kristijan Jakić (91, CDM)** da —, a apenas **13k coins**
+- **Ahmed Fathi (91, CDM)** da —, a apenas **14k coins**
 
-- **Ahmed Fathi (91, CDM)** da —, a apenas **13k coins**
+- **Kristijan Jakić (91, CDM)** da —, a apenas **15k coins**
 
-- **Esteban Cambiasso (91, CDM)** da —, a apenas **14k coins**
+- **Esteban Cambiasso (91, CDM)** da —, a apenas **15k coins**
+
+- **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -66,7 +65,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Edson Álvarez (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+David Ayala (91, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -79,4 +78,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
