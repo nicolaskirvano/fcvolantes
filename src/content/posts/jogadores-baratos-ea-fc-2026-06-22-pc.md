@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T13:17:09.000Z
+pubDatetime: 2026-06-22T16:17:10.000Z
 title: "Jogadores baratos de Volantes no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Cristian Roldan (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
+    a: "Matt Grimes (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Cristian Roldan (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Matt Grimes (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cristian Roldan | 94 | CDM | — | 12k coins | -66.5% |
-| Yui Hasegawa | 94 | CDM | — | 14k coins | -71.6% |
-| Aleksandar Pavlović | 93 | CDM | — | 12k coins | -65.5% |
-| Piotr Zieliński | 93 | CDM | — | 12k coins | -73.8% |
-| Claire Hutton | 92 | CDM | — | 12k coins | -70.5% |
-| Benjamin André | 92 | CDM | — | 12k coins | -67.4% |
-| Máximo Perrone | 92 | CDM | — | 12k coins | -68.9% |
-| Granit Xhaka | 91 | CDM | — | 12k coins | -68.5% |
-| Sammy Braybrooke | 91 | CDM | — | 12k coins | -65.9% |
+| Matt Grimes | 94 | CDM | — | 14k coins | -67.8% |
+| Piotr Zieliński | 93 | CDM | — | 13k coins | -73.4% |
+| Aleksandar Pavlović | 93 | CDM | — | 13k coins | -62.6% |
+| Edson Álvarez | 93 | CDM | — | 14k coins | -38.5% |
+| Claire Hutton | 92 | CDM | — | 12k coins | -70.7% |
+| Benjamin André | 92 | CDM | — | 12k coins | -68.1% |
+| Máximo Perrone | 92 | CDM | — | 12k coins | -68.5% |
+| David Ayala | 91 | CDM | — | 12k coins | -64.3% |
 | Melle Meulensteen | 91 | CDM | — | 12k coins | -65.4% |
-| David Ayala | 91 | CDM | — | 12k coins | -64.6% |
-| Kristijan Jakić | 91 | CDM | — | 14k coins | -6.6% |
-| Ahmed Fathi | 91 | CDM | — | 14k coins | -6.7% |
-| Rodri | 90 | CDM | Premier League | 4k coins | -56% |
-| Julie Swierot | 90 | CDM | — | 11k coins | -65.9% |
+| Sammy Braybrooke | 91 | CDM | — | 12k coins | -65.7% |
+| Granit Xhaka | 91 | CDM | — | 12k coins | -69.3% |
+| Ahmed Fathi | 91 | CDM | — | 13k coins | -6.7% |
+| Kristijan Jakić | 91 | CDM | — | 15k coins | -4.8% |
+| Rodri | 90 | CDM | Premier League | 4k coins | -55.6% |
+| James Garner | 90 | CDM | — | 11k coins | -70.8% |
 
 
 ## 📈 Destaques
 
-- **Cristian Roldan (94, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Matt Grimes (94, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yui Hasegawa (94, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Piotr Zieliński (93, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleksandar Pavlović (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleksandar Pavlović (93, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Piotr Zieliński (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Edson Álvarez (93, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Claire Hutton (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Cristian Roldan (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
+Matt Grimes (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
