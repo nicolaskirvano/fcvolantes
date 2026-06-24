@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T13:17:05.000Z
+pubDatetime: 2026-06-24T16:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Ryan Wintle | 94 | CDM | — | 15k coins | -62.9% |
-| Yui Hasegawa | 94 | CDM | — | 15k coins | -66.7% |
-| Piotr Zieliński | 93 | CDM | — | 12k coins | -69.2% |
-| Aleksandar Pavlović | 93 | CDM | — | 12k coins | -67.1% |
+| Cristian Roldan | 94 | CDM | — | 15k coins | -64.4% |
+| Matt Grimes | 94 | CDM | — | 15k coins | -60% |
+| Aleksandar Pavlović | 93 | CDM | — | 12k coins | -66.9% |
+| Piotr Zieliński | 93 | CDM | — | 12k coins | -67.1% |
+| Edson Álvarez | 93 | CDM | — | 14k coins | -29.3% |
+| Benjamin André | 92 | CDM | — | 12k coins | -68.5% |
 | Claire Hutton | 92 | CDM | — | 12k coins | -68.7% |
-| Benjamin André | 92 | CDM | — | 12k coins | -69.1% |
-| Máximo Perrone | 92 | CDM | — | 12k coins | -69.1% |
-| Sammy Braybrooke | 91 | CDM | — | 12k coins | -66.7% |
+| Máximo Perrone | 92 | CDM | — | 12k coins | -68.2% |
 | David Ayala | 91 | CDM | — | 12k coins | -67.1% |
 | Melle Meulensteen | 91 | CDM | — | 12k coins | -66.4% |
-| Granit Xhaka | 91 | CDM | — | 12k coins | -68.7% |
-| Kristijan Jakić | 91 | CDM | — | 13k coins | -8.9% |
-| Ahmed Fathi | 91 | CDM | — | 13k coins | -8.9% |
-| Esteban Cambiasso | 91 | CDM | — | 14k coins | -22.9% |
-| Rodri | 90 | CDM | Premier League | 5k coins | -41.2% |
+| Sammy Braybrooke | 91 | CDM | — | 12k coins | -66.2% |
+| Granit Xhaka | 91 | CDM | — | 12k coins | -68.2% |
+| Ahmed Fathi | 91 | CDM | — | 13k coins | -7.1% |
+| Kristijan Jakić | 91 | CDM | — | 13k coins | -7.1% |
 
 
 ## 📈 Destaques
 
 - **Ryan Wintle (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yui Hasegawa (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cristian Roldan (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Piotr Zieliński (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Matt Grimes (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Aleksandar Pavlović (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Hutton (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Piotr Zieliński (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
