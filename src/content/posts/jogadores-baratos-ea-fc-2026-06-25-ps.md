@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T10:17:05.000Z
+pubDatetime: 2026-06-25T13:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Yui Hasegawa (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Piotr Zieliński (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Yui Hasegawa (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Piotr Zieliński (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yui Hasegawa | 94 | CDM | — | 15k coins | -63.1% |
-| Piotr Zieliński | 93 | CDM | — | 12k coins | -69.2% |
-| Aleksandar Pavlović | 93 | CDM | — | 12k coins | -64.2% |
-| Claire Hutton | 92 | CDM | — | 12k coins | -67.1% |
-| Benjamin André | 92 | CDM | — | 12k coins | -68% |
-| Máximo Perrone | 92 | CDM | — | 12k coins | -66.2% |
+| Piotr Zieliński | 93 | CDM | — | 12k coins | -68.6% |
+| Claire Hutton | 92 | CDM | — | 12k coins | -66.7% |
+| Benjamin André | 92 | CDM | — | 12k coins | -67.8% |
+| Máximo Perrone | 92 | CDM | — | 12k coins | -65.9% |
+| Sammy Braybrooke | 91 | CDM | — | 12k coins | -63.8% |
+| David Ayala | 91 | CDM | — | 12k coins | -63.5% |
 | Melle Meulensteen | 91 | CDM | — | 12k coins | -68.5% |
-| Sammy Braybrooke | 91 | CDM | — | 12k coins | -64.1% |
-| David Ayala | 91 | CDM | — | 12k coins | -63.8% |
-| Granit Xhaka | 91 | CDM | — | 12k coins | -66.7% |
-| Esteban Cambiasso | 91 | CDM | — | 14k coins | -14.3% |
-| Kristijan Jakić | 91 | CDM | — | 14k coins | +3.7% |
-| Ahmed Fathi | 91 | CDM | — | 14k coins | 0% |
-| Rodri | 90 | CDM | Premier League | 6k coins | -37.8% |
-| Julie Swierot | 90 | CDM | — | 11k coins | -65.4% |
+| Granit Xhaka | 91 | CDM | — | 12k coins | -65.7% |
+| Ahmed Fathi | 91 | CDM | — | 14k coins | +5.6% |
+| Kristijan Jakić | 91 | CDM | — | 14k coins | +9.4% |
+| Rodri | 90 | CDM | Premier League | 5k coins | -24.3% |
+| Julie Swierot | 90 | CDM | — | 12k coins | -65.2% |
+| Wouter Burger | 90 | CDM | — | 12k coins | -65.9% |
+| James Garner | 90 | CDM | — | 12k coins | -66.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -34.1% |
 
 
 ## 📈 Destaques
 
-- **Yui Hasegawa (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Piotr Zieliński (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Aleksandar Pavlović (93, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Claire Hutton (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Benjamin André (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Máximo Perrone (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sammy Braybrooke (91, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Yui Hasegawa (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Piotr Zieliński (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
