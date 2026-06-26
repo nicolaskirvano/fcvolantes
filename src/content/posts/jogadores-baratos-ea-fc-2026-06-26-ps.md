@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:17:05.000Z
+pubDatetime: 2026-06-26T19:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Aleksandar Pavlović (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aleksandar Pavlović (93) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Keira Walsh (89) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 93 | CDM | — | 13k coins | -30.1% |
-| Piotr Zieliński | 93 | CDM | — | 13k coins | -25% |
-| Máximo Perrone | 92 | CDM | — | 12k coins | -33.8% |
-| Claire Hutton | 92 | CDM | — | 12k coins | -29% |
-| Benjamin André | 92 | CDM | — | 12k coins | -25.8% |
-| Sammy Braybrooke | 91 | CDM | — | 12k coins | -20.7% |
-| David Ayala | 91 | CDM | — | 12k coins | -14.3% |
-| Granit Xhaka | 91 | CDM | — | 12k coins | -38.8% |
-| Melle Meulensteen | 91 | CDM | — | 13k coins | -19% |
-| Esteban Cambiasso | 91 | CDM | — | 13k coins | -1.6% |
-| Ahmed Fathi | 91 | CDM | — | 14k coins | 0% |
-| Kristijan Jakić | 91 | CDM | — | 14k coins | 0% |
-| Rodri | 90 | CDM | Premier League | 5k coins | +38.7% |
-| Julie Swierot | 90 | CDM | — | 12k coins | -17.9% |
-| Wouter Burger | 90 | CDM | — | 12k coins | -17.9% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | -5.5% |
+| Georgia Stanway | 88 | CDM | GPFBL | 12k coins | -20.6% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +17.6% |
+| Julia Zigiotti | 84 | CDM | Barclays WSL | 13k coins | -42.2% |
 
 
 ## 📈 Destaques
 
-- **Aleksandar Pavlović (93, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **13k coins**
 
-- **Piotr Zieliński (93, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Máximo Perrone (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Claire Hutton (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Benjamin André (92, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julia Zigiotti (84, CDM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +60,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Aleksandar Pavlović (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Keira Walsh (89, Barclays WSL) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
