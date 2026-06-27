@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:17:05.000Z
+pubDatetime: 2026-06-27T13:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Aleksandar Pavlović (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Pierre Lees-Melou (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aleksandar Pavlović (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Pierre Lees-Melou (87) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 93 | CDM | — | 14k coins | +28.8% |
-| Ahmed Fathi | 91 | CDM | — | 14k coins | +17.6% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -2% |
-| Peer Koopmeiners | 89 | CDM | — | 15k coins | +5.7% |
-| Georgia Stanway | 88 | CDM | GPFBL | 12k coins | -12.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +5.9% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 15k coins | -37.5% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -7.3% |
 | Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | -15% |
+| Denise O'Sullivan | 85 | CDM | NWSL | 15k coins | -16.2% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 12k coins | -16.1% |
 
 
 ## 📈 Destaques
 
-- **Aleksandar Pavlović (93, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Pierre Lees-Melou (87, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ahmed Fathi (91, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13k coins**
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **12k coins**
+- **Angelo Stiller (85, CDM)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Peer Koopmeiners (89, CDM)** da —, a apenas **15k coins**
+- **Denise O'Sullivan (85, CDM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -65,7 +63,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Aleksandar Pavlović (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Pierre Lees-Melou (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
