@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:17:09.000Z
+pubDatetime: 2026-07-03T13:17:09.000Z
 title: "Jogadores baratos de Volantes no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -33,11 +33,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Sander Berge | 94 | CDM | — | 12k coins | -23% |
 | Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
 | Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
-| Kristijan Jakić | 92 | CDM | — | 14k coins | -6.5% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -55.8% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -56.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -55.6% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +6% |
+| Kristijan Jakić | 92 | CDM | — | 14k coins | -12.1% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -51.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -45.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -45.7% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +47.4% |
+| Ryan Gravenberch | 85 | CDM | Premier League | 2k coins | +50% |
+| N'Golo Kanté | 85 | CDM | — | 2k coins | +100% |
 
 
 ## 📈 Destaques
@@ -50,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hamdy Fathy (93, CDM)** da —, a apenas **12k coins**
 
-- **Kristijan Jakić (92, CDM)** da —, a apenas **14k coins**
+- **Kristijan Jakić (92, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

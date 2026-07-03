@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:17:05.000Z
+pubDatetime: 2026-07-03T13:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,16 +32,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Sander Berge | 94 | CDM | — | 12k coins | -23% |
 | Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
 | Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
-| Kristijan Jakić | 92 | CDM | — | 14k coins | +1.8% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -44.4% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -45.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -43.8% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +5.6% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14k coins | -6.2% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | 0% |
-| Ryan Gravenberch | 85 | CDM | Premier League | 2k coins | +77.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +17.6% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | -1.8% |
+| Kristijan Jakić | 92 | CDM | — | 14k coins | -7.9% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -23.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -42.4% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +9.6% |
+| Peer Koopmeiners | 89 | CDM | — | 14k coins | +5.4% |
+| Georgia Stanway | 88 | CDM | GPFBL | 12k coins | 0% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -3.9% |
+| Nico González | 86 | CDM | Premier League | 15k coins | -38.5% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | -7% |
 
 
 ## 📈 Destaques
