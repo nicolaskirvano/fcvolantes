@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:17:09.000Z
+pubDatetime: 2026-07-03T22:17:09.000Z
 title: "Jogadores baratos de Volantes no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moisés Caicedo | 95 | CDM | — | 14k coins | -71.2% |
-| Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
+| Moisés Caicedo | 95 | CDM | — | 14k coins | -69.4% |
+| Sander Berge | 94 | CDM | — | 12k coins | -11.5% |
 | Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
 | Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
-| Rodri | 90 | CDM | Premier League | 3k coins | -18.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | 0% |
-| Peer Koopmeiners | 89 | CDM | — | 14k coins | -36.3% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | -14.7% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | -47.1% |
+| Kristijan Jakić | 92 | CDM | — | 14k coins | -13.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -10.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +3.6% |
 
 
 ## 📈 Destaques
 
 - **Moisés Caicedo (95, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sander Berge (94, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jesper Karlström (93, CDM)** da —, a apenas **12k coins**
 
 - **Hamdy Fathy (93, CDM)** da —, a apenas **12k coins**
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kristijan Jakić (92, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

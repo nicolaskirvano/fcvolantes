@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:17:05.000Z
+pubDatetime: 2026-07-03T22:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,27 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sander Berge | 94 | CDM | — | 13k coins | -18% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -21.4% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 13k coins | 0% |
-| Peer Koopmeiners | 89 | CDM | — | 14k coins | -3.3% |
-| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | +4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -7.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | 0% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +12.5% |
+| Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | +4.3% |
+| Kristijan Jakić | 92 | CDM | — | 14k coins | -17.1% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +9.4% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 14k coins | -25% |
+| Gilberto Silva | 87 | CDM | Premier League | 15k coins | -12.5% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 15k coins | -41% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -9.8% |
 
 
 ## 📈 Destaques
 
 - **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jesper Karlström (93, CDM)** da —, a apenas **12k coins**
 
-- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **13k coins**
+- **Kristijan Jakić (92, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Peer Koopmeiners (89, CDM)** da —, a apenas **14k coins**
+- **Keira Walsh (89, CDM)** da Barclays WSL, a apenas **14k coins**
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **13k coins**
+- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
