@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:17:05.000Z
+pubDatetime: 2026-07-04T13:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,29 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
-| Kristijan Jakić | 92 | CDM | — | 14k coins | -20.8% |
-| Rodri | 90 | CDM | Premier League | 3k coins | -3.4% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -8.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | +1.9% |
-| Peer Koopmeiners | 89 | CDM | — | 15k coins | +7.1% |
-| Georgia Stanway | 88 | CDM | GPFBL | 13k coins | +22% |
-| Gilberto Silva | 87 | CDM | Premier League | 15k coins | -11.8% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -7.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | -5.6% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +16.7% |
-| Ryan Yates | 85 | CDM | Premier League | 15k coins | -19.7% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Kristijan Jakić | 92 | CDM | — | 14k coins | -22.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -4.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -4.2% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14k coins | -7.9% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -16.1% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +20.8% |
 
 
 ## 📈 Destaques
 
 - **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Jesper Karlström (93, CDM)** da —, a apenas **12k coins**
+
 - **Kristijan Jakić (92, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3k coins**
-
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
