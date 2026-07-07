@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:17:05.000Z
+pubDatetime: 2026-07-07T22:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 07/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (07/07/2026)?"
-    a: "Edson Álvarez (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **07/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Edson Álvarez (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Sander Berge (94) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 94 | CDM | — | 15k coins | -47.7% |
-| Kristijan Jakić | 92 | CDM | — | 15k coins | 0% |
-| Rodri | 90 | CDM | Premier League | 3k coins | +80% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +53.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +26.3% |
+| Sander Berge | 94 | CDM | — | 15k coins | +25.5% |
+| Edson Álvarez | 94 | CDM | — | 15k coins | -45.5% |
+| Hamdy Fathy | 93 | CDM | — | 12k coins | +8.5% |
+| Jesper Karlström | 93 | CDM | — | 13k coins | +8.5% |
+| Kristijan Jakić | 92 | CDM | — | 15k coins | -1.7% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +25% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +15% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +25% |
+| Peer Koopmeiners | 89 | CDM | — | 14k coins | +1.8% |
+| Georgia Stanway | 88 | CDM | GPFBL | 14k coins | +7.1% |
 | Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | -14.3% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | +15.4% |
-| Sofie Junge Pedersen | 86 | CDM | Liga F | 15k coins | -10.5% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +5.8% |
+| Declan Rice | 87 | CDM | Premier League | 2k coins | +126.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +18% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +11.5% |
 
 
 ## 📈 Destaques
 
+- **Sander Berge (94, CDM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Edson Álvarez (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Hamdy Fathy (93, CDM)** da —, a apenas **12k coins**
+
+- **Jesper Karlström (93, CDM)** da —, a apenas **13k coins**
+
 - **Kristijan Jakić (92, CDM)** da —, a apenas **15k coins**
-
-- **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -67,7 +72,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (07/07/2026)?**  
-Edson Álvarez (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
