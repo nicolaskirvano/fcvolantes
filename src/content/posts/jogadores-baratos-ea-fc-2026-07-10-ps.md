@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:17:05.000Z
+pubDatetime: 2026-07-10T16:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,13 +31,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Jesper Karlström | 93 | CDM | — | 13k coins | +10.6% |
 | Hamdy Fathy | 93 | CDM | — | 13k coins | +10.6% |
-| Pathé Ciss | 92 | CDM | — | 13k coins | +8.5% |
-| Rodri | 90 | CDM | Premier League | 2k coins | +15% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -11.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.9% |
-| Gilberto Silva | 87 | CDM | Premier League | 14k coins | +1.7% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 15k coins | +20.4% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +5.4% |
+| Rodri | 90 | CDM | Premier League | 2k coins | +20% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -10.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -5% |
+| Declan Rice | 87 | CDM | Premier League | 3k coins | +225% |
+| Gilberto Silva | 87 | CDM | Premier League | 14k coins | -1.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +14% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +7.1% |
 
 
 ## 📈 Destaques
@@ -46,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hamdy Fathy (93, CDM)** da —, a apenas **13k coins**
 
-- **Pathé Ciss (92, CDM)** da —, a apenas **13k coins**
-
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
 
 ## Por que estas cartas?
