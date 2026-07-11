@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T19:17:05.000Z
+pubDatetime: 2026-07-11T01:17:05.000Z
 title: "Jogadores baratos de Volantes no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Peer Koopmeiners (89, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sander Berge (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Peer Koopmeiners (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,19 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sander Berge | 94 | CDM | — | 15k coins | +22.4% |
-| Gilberto Silva | 87 | CDM | Premier League | 14k coins | -3.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +16% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | 0% |
+| Peer Koopmeiners | 89 | CDM | — | 12k coins | +13.3% |
+| Gilberto Silva | 87 | CDM | Premier League | 14k coins | -6.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | +2% |
+| Sofie Junge Pedersen | 86 | CDM | Liga F | 14k coins | -19.1% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +12.5% |
 
 
 ## 📈 Destaques
 
-- **Sander Berge (94, CDM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Peer Koopmeiners (89, CDM)** da —, a apenas **12k coins**
 
 - **Gilberto Silva (87, CDM)** da Premier League, a apenas **14k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **12k coins**
+
+- **Sofie Junge Pedersen (86, CDM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **2k coins**
 
@@ -60,7 +63,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Peer Koopmeiners (89, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
