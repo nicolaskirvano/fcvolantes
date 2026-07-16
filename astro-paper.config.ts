@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcvolantes.pages.dev/",
     title: "Volante Market",
     description:
-      "Os melhores volantes do EA FC Ultimate Team: precos e mercado, todos os dias.",
+      "Os melhores volantes do EA FC Ultimate Team: preços e mercado, todos os dias.",
     author: "Volante Market",
-    profile: "https://fcvolantes.pages.dev/",
+    profile: "https://fcvolantes.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Volante Market",
