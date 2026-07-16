@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:46:47.000Z
+pubDatetime: 2026-07-16T22:17:20.000Z
 title: "Jogadores baratos de Volantes no EA FC (16/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,9 +31,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Aleksandar Pavlović | 94 | CDM | — | 12k coins | — |
 | Rodri | 90 | CDM | Premier League | 3k coins | +25.9% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +21.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +26.1% |
 | Patri Guijarro | 89 | CDM | Liga F | 3k coins | +20.8% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14k coins | -45.8% |
 
 
 ## 📈 Destaques
@@ -45,8 +44,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Pierre Lees-Melou (87, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
