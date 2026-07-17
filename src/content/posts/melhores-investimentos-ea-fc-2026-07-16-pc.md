@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:12:41.000Z
+pubDatetime: 2026-07-17T01:17:18.000Z
 title: "Investimentos EA FC: Volantes em 16/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Ryan Gravenberch (93, Premier League) lidera, com +80.6% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ryan Gravenberch (93, Premier League) lidera, com +82.1% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ryan Gravenberch (93) acumula **+80.6% em 7 dias** a 224k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ryan Gravenberch (93) acumula **+82.1% em 7 dias** a 224k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.4% em 24h** e **+54.2% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.2% em 24h** e **+44.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | Premier League | 224k coins | +7.2% | +80.6% | Esticada |
-| Ahmed Fathi | 91 | — | 32k coins | +25% | +78.6% | Esticada |
-| Wouter Burger | 90 | — | 45k coins | +10.4% | +68.2% | Esticada |
-| Patrick Berg | 95 | — | 70k coins | +16.7% | +64.7% | Esticada |
-| James Garner | 90 | — | 45k coins | +5.3% | +59.3% | Momentum moderado |
-| Granit Xhaka | 89 | Premier League | 54k coins | +16.1% | +57.7% | Momentum moderado |
-| David Ayala | 91 | — | 40k coins | +1.9% | +55.3% | Momentum moderado |
-| Pathé Ciss | 92 | — | 18.750 coins | +1.4% | +54.2% | Momentum moderado |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +7.2% | +82.1% | Esticada |
+| Wouter Burger | 90 | — | 45k coins | +3.4% | +80% | Esticada |
+| Patrick Berg | 95 | — | 70k coins | +17.5% | +65.9% | Esticada |
+| James Garner | 90 | — | 44k coins | +5.3% | +59.3% | Momentum moderado |
+| David Ayala | 91 | — | 38k coins | +1.9% | +58.4% | Momentum moderado |
+| Pathé Ciss | 92 | — | 18.500 coins | +4.2% | +56.2% | Momentum moderado |
+| Granit Xhaka | 89 | Premier League | 52k coins | +17.1% | +54.7% | Momentum moderado |
 | Hamdy Fathy | 93 | — | 18.750 coins | +1.4% | +44.2% | Momentum moderado |
-| Jesper Karlström | 93 | — | 18.750 coins | +1.4% | +44.2% | Momentum moderado |
-| João Neves | 88 | Ligue 1 McDonald's | 220k coins | +10.8% | +42.3% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 85k coins | +4.3% | +37.1% | Momentum moderado |
+| Melle Meulensteen | 91 | — | 37k coins | +25% | +44.2% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 220k coins | +11.4% | +42.3% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 88k coins | +4.3% | +37.1% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 64k coins | +1.6% | +36.2% | Momentum moderado |
 | Ryan Christie | 90 | Premier League | 53k coins | +24% | +33.3% | Esticada |
-| Mario Lemina | 89 | Trendyol Süper Lig | 185k coins | +10.7% | +31.9% | Momentum moderado |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 98k coins | +19.6% | +31.8% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 56k coins | +32.1% | +32.9% | Esticada |
+| Mario Lemina | 89 | Trendyol Süper Lig | 184k coins | +11.4% | +31.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ryan Gravenberch (93)** — 224k coins, **+80.6% em 7 dias** (+7.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 224k coins, **+82.1% em 7 dias** (+7.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Fathi (91)** — 32k coins, **+78.6% em 7 dias** (+25% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wouter Burger (90)** — 45k coins, **+80% em 7 dias** (+3.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wouter Burger (90)** — 45k coins, **+68.2% em 7 dias** (+10.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Berg (95)** — 70k coins, **+65.9% em 7 dias** (+17.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Berg (95)** — 70k coins, **+64.7% em 7 dias** (+16.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Garner (90)** — 44k coins, **+59.3% em 7 dias** (+5.3% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 45k coins, **+59.3% em 7 dias** (+5.3% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Ayala (91)** — 38k coins, **+58.4% em 7 dias** (+1.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Ryan Gravenberch (93, Premier League) lidera, com +80.6% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ryan Gravenberch (93, Premier League) lidera, com +82.1% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

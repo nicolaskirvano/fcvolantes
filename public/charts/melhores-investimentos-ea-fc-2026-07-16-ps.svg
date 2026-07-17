@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Garner</text>
-<rect x="285" y="153" width="462" height="28" rx="7" fill="#22c55e"/>
-<text x="757" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pathé Ciss</text>
-<rect x="285" y="211" width="296" height="28" rx="7" fill="#22c55e"/>
-<text x="591" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Stanković</text>
-<rect x="285" y="269" width="279" height="28" rx="7" fill="#22c55e"/>
-<text x="574" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="327" width="237" height="28" rx="7" fill="#22c55e"/>
-<text x="532" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
-<rect x="285" y="385" width="193" height="28" rx="7" fill="#22c55e"/>
-<text x="488" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Douglas Luiz</text>
+<rect x="285" y="153" width="453" height="28" rx="7" fill="#22c55e"/>
+<text x="748" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Garner</text>
+<rect x="285" y="211" width="404" height="28" rx="7" fill="#22c55e"/>
+<text x="699" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="269" width="379" height="28" rx="7" fill="#22c55e"/>
+<text x="674" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pathé Ciss</text>
+<rect x="285" y="327" width="271" height="28" rx="7" fill="#22c55e"/>
+<text x="566" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Stanković</text>
+<rect x="285" y="385" width="245" height="28" rx="7" fill="#22c55e"/>
+<text x="540" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
 </svg>
