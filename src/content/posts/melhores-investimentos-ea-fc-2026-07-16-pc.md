@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:01:15.000Z
+pubDatetime: 2026-07-17T00:12:41.000Z
 title: "Investimentos EA FC: Volantes em 16/07 — PC"
 draft: false
 featured: true
@@ -43,16 +43,16 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | Premier League | 224k coins | +6.7% | +80.6% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +7.2% | +80.6% | Esticada |
 | Ahmed Fathi | 91 | — | 32k coins | +25% | +78.6% | Esticada |
 | Wouter Burger | 90 | — | 45k coins | +10.4% | +68.2% | Esticada |
 | Patrick Berg | 95 | — | 70k coins | +16.7% | +64.7% | Esticada |
 | James Garner | 90 | — | 45k coins | +5.3% | +59.3% | Momentum moderado |
 | Granit Xhaka | 89 | Premier League | 54k coins | +16.1% | +57.7% | Momentum moderado |
 | David Ayala | 91 | — | 40k coins | +1.9% | +55.3% | Momentum moderado |
-| Pathé Ciss | 92 | — | 19k coins | +1.4% | +54.2% | Momentum moderado |
-| Jesper Karlström | 93 | — | 19k coins | +1.4% | +44.2% | Momentum moderado |
-| Hamdy Fathy | 93 | — | 19k coins | +1.4% | +44.2% | Momentum moderado |
+| Pathé Ciss | 92 | — | 18.750 coins | +1.4% | +54.2% | Momentum moderado |
+| Hamdy Fathy | 93 | — | 18.750 coins | +1.4% | +44.2% | Momentum moderado |
+| Jesper Karlström | 93 | — | 18.750 coins | +1.4% | +44.2% | Momentum moderado |
 | João Neves | 88 | Ligue 1 McDonald's | 220k coins | +10.8% | +42.3% | Momentum moderado |
 | Declan Rice | 89 | Premier League | 85k coins | +4.3% | +37.1% | Momentum moderado |
 | Ryan Christie | 90 | Premier League | 53k coins | +24% | +33.3% | Esticada |
@@ -62,7 +62,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 ## 📈 Análise dos destaques
 
-- **Ryan Gravenberch (93)** — 224k coins, **+80.6% em 7 dias** (+6.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 224k coins, **+80.6% em 7 dias** (+7.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ahmed Fathi (91)** — 32k coins, **+78.6% em 7 dias** (+25% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -70,7 +70,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Patrick Berg (95)** — 70k coins, **+64.7% em 7 dias** (+16.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 45k coins, **+59.3% em 7 dias** (+5.3% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Garner (90)** — 45k coins, **+59.3% em 7 dias** (+5.3% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

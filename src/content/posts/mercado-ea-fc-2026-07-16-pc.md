@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:01:14.000Z
+pubDatetime: 2026-07-17T00:12:40.000Z
 title: "Mercado EA FC em 16/07: Volantes — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
     a: "Lena Oberdorf (86, GPFBL), com +57.6% em 24h, a 52k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jaelin Howell (89), -49.4% em 24h, a 21k coins."
+    a: "İsmail Yüksek (83), -34.6% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 69 cartas em alta contra 53 em queda (média 2.36%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 69 cartas em alta contra 52 em queda (média 2.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **69 cartas subiram** e **53 caíram** (80+ acima de 5k coins), variação média de **2.36%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **69 cartas subiram** e **52 caíram** (80+ acima de 5k coins), variação média de **2.3%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lena Oberdorf (86) **+57.6%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-49.4%**
+> 🟢 **Maior alta:** Lena Oberdorf (86) **+57.6%** · 🔴 **Maior baixa:** İsmail Yüksek (83) **-34.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
 
@@ -35,8 +35,8 @@ O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.6% entre as cartas que se moveram; o universo observado reúne 153 cartas.
+- **Amplitude do dia:** 92.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.0% entre as cartas que se moveram; o universo observado reúne 153 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -47,10 +47,10 @@ O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a m
 | Emmanuel Petit | 87 | Icons | 115k coins | +47.4% | +64.3% |
 | Felix Nmecha | 86 | Bundesliga | 450k coins | +41.1% | +31.6% |
 | Elliot Anderson | 89 | Premier League | 147k coins | +40% | +5% |
-| Moisés Caicedo | 88 | Premier League | 66k coins | +38.2% | +10% |
 | Yaya Touré | 96 | — | 2.35M coins | +38.1% | +38.8% |
-| Blaise Matuidi | 95 | — | 84k coins | +34.3% | +20.8% |
-| Patri Guijarro | 90 | Liga F | 63k coins | +33.3% | +0.8% |
+| Blaise Matuidi | 95 | — | 79k coins | +37.7% | +20.1% |
+| Moisés Caicedo | 88 | Premier League | 66k coins | +37.2% | +9.2% |
+| Patri Guijarro | 90 | Liga F | 63k coins | +34% | +0.8% |
 | Adam Wharton | 88 | Premier League | 30k coins | +29.3% | -30% |
 | Daniele De Rossi | 89 | Serie A TIM | 194k coins | +26.8% | +7.8% |
 
@@ -68,13 +68,13 @@ O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a m
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaelin Howell | 89 | NWSL | 21k coins | -49.4% | -19.2% |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 50k coins | -35.1% | -47.1% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 50k coins | -34.6% | -47.1% |
 | Matt Grimes | 94 | — | 25k coins | -33.3% | -16% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 107k coins | -28.2% | +75.4% |
-| Franck Yannick Kessié | 95 | — | 35k coins | -22.4% | -20.3% |
-| Aleksandar Pavlović | 89 | Bundesliga | 34k coins | -22% | -37.8% |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 107k coins | -25.7% | +75.4% |
+| Aleksandar Pavlović | 89 | Bundesliga | 33k coins | -22% | -38.4% |
 | Ryan Yates | 85 | Premier League | 25k coins | -21.6% | +5.8% |
+| Yui Hasegawa | 87 | Barclays WSL | 38k coins | -18.9% | -14.4% |
+| Franck Yannick Kessié | 95 | — | 35k coins | -18.1% | -20.3% |
 | Rafael Profini | 84 | A-League Men | 39k coins | -17.9% | -0.6% |
 | Michaël Essien | 86 | Icons | 88k coins | -17.6% | -12.7% |
 | Sphephelo Sithole | 94 | — | 29k coins | -17.4% | +2.7% |
@@ -82,18 +82,18 @@ O mercado do **EA FC** abre **16/07/2026** no PC com clima **comprador** — a m
 
 ### Análise das baixas
 
-- **Jaelin Howell (89)** caiu **-49.4%** em 24h, a **21k coins** (faixa do dia: 21k–42k). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
-
-- **İsmail Yüksek (83)** caiu **-35.1%** em 24h, a **50k coins** (faixa do dia: 50k–95k). Está -40% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **İsmail Yüksek (83)** caiu **-34.6%** em 24h, a **50k coins** (faixa do dia: 50k–95k). Está -40% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 - **Matt Grimes (94)** caiu **-33.3%** em 24h, a **25k coins** (faixa do dia: 24k–39k). Está -8% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+
+- **Edson Álvarez (86)** caiu **-25.7%** em 24h, a **107k coins** (faixa do dia: 106k–149k). Está -18% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Lena Oberdorf já avançou 57.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaelin Howell recuou -49.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** İsmail Yüksek recuou -34.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,10 +118,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Lena Oberdorf (86, GPFBL), com +57.6% em 24h, a 52k coins no PC.
 
 **E a maior queda do dia?**  
-Jaelin Howell (89), -49.4% em 24h, a 21k coins.
+İsmail Yüksek (83), -34.6% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 69 cartas em alta contra 53 em queda (média 2.36%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 69 cartas em alta contra 52 em queda (média 2.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
