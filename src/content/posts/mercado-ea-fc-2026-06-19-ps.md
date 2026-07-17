@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-9,2%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de Volantes para Console nesta terça-feira, 19 de junho de 2026, exibe um viés predominantemente vendedor, com uma clara descompressão de valores em quase toda a cadeia de cartas, refletindo um sentimento de cautela e lucratividade rápida por parte dos traders experientes. Com 57 quedas registradas contra apenas 15 altas, a média de variação negativa de -9,6% em 24 horas sinaliza um ambiente hostil para quem mantém posições de longo prazo sem catalisadores claros, exigindo uma gestão de risco extremamente apertada. A volatilidade observada nas ligas menores e nos ícones sugere que a liquidez está sendo drenada de ativos de médio porte, enquanto os grandes nomes de Premier League e Liga Espanhola sofrem ajustes de preço que pareiam mais com uma correção de sobreavaliação do que com uma tendência estrutural de alta. Traders devem estar atentos à divergência entre a demanda real de times competitivos e a especulação de fim de semana, pois a ausência de eventos de jogo imediatos no calendário europeu tende a acelerar a baixa de cartas sem utilidade direta em meta teams.
+As 4 tabelas abaixo preservam **36 registros** de **29 jogadores** observados em 19/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Richard Ríos (87) **+58.6%** · 🔴 **Maior baixa:** Abdoulaye Doucouré (87) **-43.5%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de Volantes para Console nesta terça-feira, 19 de junho de 2026, exib
 | Ramires | 86 | Premier League | 122k coins | +6.1% | +41.9% |
 | Rúben Neves | 87 | ROSHN Saudi League | 28k coins | +5.9% | +22.7% |
 
-
-Richard Ríos lidera as altas com um impressionante aumento de 58,6% em 24 horas, atingindo 460 mil coins, um movimento que parece impulsionado por uma baixa oferta momentânea e pela probabilidade de alta de 42% indicada pelos modelos, embora o preço ainda esteja longe de ser considerado estável para compras seguras. Callum McGregor segue a tendência positiva com alta de 18,2%, valorizando-se para 220 mil coins, beneficiando-se de uma probabilidade de alta robusta de 80% que atrai compradores de último momento para times de Scottish Premiership ou rotativas de média qualidade. Nico González apresenta uma alta de 16,7% chegando a 27 mil coins, com uma probabilidade de alta de 95% que sugere forte demanda orgânica e potencial de sustentação do preço, sendo uma das poucas cartas de entrada com sinal técnico claro para manutenção. Gorrotxa sobe 16,3% para 38 mil coins, com probabilidade de alta de 50%, indicando um equilíbrio delicado entre oferta e demanda que pode se reverter rapidamente caso a liquidez aumente, exigindo monitoramento constante. Emmanuel Petit encerra o top cinco das altas com 14,6% de ganho, atingindo 114 mil coins, mas sua probabilidade de alta de apenas 5% alerta para um possível exaustão de compradores, tornando essa carta arriscada para novas entradas apesar do movimento recente de valorização.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Richard Ríos lidera as altas com um impressionante aumento de 58,6% em 24 horas
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 48k coins | -26.9% | +6.6% |
 | Croix Bethune | 84 | NWSL | 34k coins | -24.4% | -12.3% |
 
-
-Abdoulaye Doucouré registra a maior queda absoluta de -43,5%, caindo para 25 mil coins, um colapso que reflete a baixa utilidade da carta em times competitivos e a probabilidade de alta de apenas 28%, sinalizando que a venda em massa ainda não encontrou fundo. Rodri, versão de 91 rating, despencou 41,2% para 78 mil coins, um movimento drástico que sugere desistência de traders que mantinham a carta esperando valorização em eventos que não se concretizaram, com probabilidade de alta de 50% indicando incerteza sobre a reversão imediata. Blaise Matuidi caiu 37,8% para 56 mil coins, com probabilidade de alta de apenas 5%, confirmando que a carta perdeu relevância no meta atual e que qualquer compra deve ser vista como aposta de rebote fraco e não como investimento sólido. Edson Álvarez recuou 32,4% para 28 mil coins, mas sua probabilidade de alta de 95% é um sinal contraditório e promissor, sugerindo que a queda pode ser uma oportunidade de compra de fundo técnico, já que a demanda estrutural pela carta permanece forte. Granit Xhaka, versão de 95 rating, caiu 32,2% para 240 mil coins, com probabilidade de alta de 0%, o que indica um ativo em queda livre sem suporte de compradores, sendo essencial evitar qualquer tentativa de pegar a faca caindo neste momento específico do mercado.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Julia Zigiotti | 84 | 20k coins | 23k coins | 95% |
 | Edson Álvarez | 86 | 28k coins | 35k coins | 95% |
 
-
-Naquele snapshot, o modelo projetava alta iminente para Declan Rice (91, Premier League) com probabilidade de 95%, cotado a 330 mil coins, sendo o ativo mais confiável para compra de antecipação; Ryan Gravenberch (86, Premier League) também aparece com 95% de chance de alta a 40 mil coins, oferecendo bom custo-benefício para rotativas; Patri Guijarro (91, Liga F) deve subir para 34 mil coins com mesma probabilidade, atendendo a demanda feminina específica; Sandro Tonali (88, Premier League) é projetado para 171 mil coins com 95% de chance, consolidando seu valor em times de médio custo; Rúben Neves (87, ROSHN Saudi League) deve atingir 28 mil coins, aproveitando a liquidez de ligas asiáticas; Jaelin Howell (89, NWSL) é indicada para 15 mil coins, enquanto Julia Zigiotti (84, Barclays WSL) deve subir para 20 mil coins, ambas com alta probabilidade; Edson Álvarez (86, Trendyol Süper Lig) reafirma sua projeção de alta para 28 mil coins, confirmando a tese de compra na baixa recente.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Emmanuel Petit | 87 | 114k coins | -17.5% |
 | Diego Chará | 83 | 28k coins | -15.7% |
 
+## Como interpretar este arquivo
 
-## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é comprar seletivamente as quedas acentuadas com alta probabilidade de recuperação, focando principalmente em Edson Álvarez a 28 mil coins e Nico González a 27 mil coins, que exibem sinais técnicos de fundo forte e demanda orgânica sustentada. Deve-se evitar completamente a compra de Richard Ríos e Emmanuel Petit, pois suas altas recentes parecem exaustivas e a probabilidade de continuidade é baixa ou inexistente, representando risco de perda rápida de capital. Segurar posições em Callum McGregor e Gorrotxa pode ser vantajoso se o preço se estabilizar, mas com ordens de venda limitadas para garantir lucro caso o sentimento vendedor retome força. Vender Granit Xhaka e Doucouré imediatamente é aconselhável, pois a probabilidade de alta de 0% e 28% respectivamente indica pouca esperança de reversão no curto prazo, priorizando a preservação de capital. O timing ideal para novas entradas é no final da sessão, quando a volatilidade diminui, permitindo uma melhor leitura do suporte real das cartas projetadas para alta, como Declan Rice e Ryan Gravenberch, que devem consolidar ganhos nos próximos ciclos de mercado.
-
-
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Richard Ríos (87, Liga Portugal), com +58.6% em 24h, a 460k coins no Console (PS).
-
-**E a maior queda do dia?**
-Abdoulaye Doucouré (87), -43.5% em 24h, a 25k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Declan Rice (91) — 95% de probabilidade de alta, a 330k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 15 cartas em alta contra 57 em queda (média -9.6%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **25k coins** a **2.04M coins**, com mediana de **50k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-9,2%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-2,6%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

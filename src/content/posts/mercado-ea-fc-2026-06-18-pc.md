@@ -75,8 +75,8 @@ Na outra ponta, Rani Khedira (84, Bundesliga) sofreu a maior queda de -41.3% em 
 A estratégia ideal para hoje é focar na compra de Adam Wharton (88) e Patri Guijarro (90) devido à sua alta probabilidade de alta combinada com movimentos de preço já iniciados, buscando lucros em curto prazo antes de uma possível correção. Traders devem considerar a compra de Rani Khedira (84) e Callum McGregor (87) como apostas de recuperação, dado que suas quedas acentuadas contrastam com probabilidades de alta superiores a 50%, sugerindo exaustão vendedora. É crucial evitar a compra de Denise O'Sullivan (91) e Esteban Cambiasso (86) neste momento, pois suas altas recentes não são suportadas por probabilidades estatísticas favoráveis, aumentando o risco de reversão imediata. Segure posições em ativos de alta probabilidade como Wharton apenas se o mercado mantiver a lateralidade, vendendo qualquer sinal de enfraquecimento no volume de compra. A disciplina é fundamental em um dia com média de variação de 0.16%, onde a paciência para esperar setups mais claros é mais valiosa do que a ação impulsiva baseada em headlines de mercado.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
