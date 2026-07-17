@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Volante Market"
 pubDatetime: 2026-06-21T01:18:07.000Z
-title: "Melhores investimentos em Volantes no EA FC (20/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Volantes no EA FC em 20/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Mario Lemina (89, Trendyol Süper Lig) lidera, com +77.6% em 7 dias a 127k coins no Console (PS), e o modelo dá 44% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 20/06/2026 no PS: Mario Lemina liderou 7d com +77,6%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Mario Lemina** liderou o recorte com **+77,6% em 7d** e +28,3% em 24h. Entre 10 cartas, 10 tinham as duas janelas positivas; a mediana semanal foi **+22,5%**.
+
+Os preços destacados iam de **20k coins** a **220k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Volantes no EA FC em 20/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **20/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** Mario Lemina (89) acumula **+77.6% em 7 dias** a 127k coins.
 
@@ -39,9 +46,9 @@ Já o escocês Callum McGregor (87, Scottish Premiership), apesar de registrar u
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mario Lemina | 89 | Trendyol Süper Lig | 127k coins | +28.3% | +77.6% | 44% |
 | Claudio Marchisio | 88 | Serie A TIM | 155k coins | +5.7% | +44.8% | 16% |
@@ -51,13 +58,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Sofie Junge Pedersen | 86 | Liga F | 21k coins | +7.8% | +22.1% | 35% |
 | Gennaro Gattuso | 86 | Icons | 95k coins | +8% | +18.1% | 84% |
 | Tyler Morton | 88 | Ligue 1 McDonald's | 20k coins | +11.4% | +14.7% | 50% |
-| Franck Yannick Kessié | 94 | — | 32k coins | +20.4% | +12.1% | 0% |
+| Franck Yannick Kessié | 94 | — | 32k coins | +20.4% | +12.1% | N/D |
 | Daniele De Rossi | 89 | Serie A TIM | 119k coins | +34.5% | +5.3% | 39% |
 
 
 ## 📈 Análise dos destaques
 
-- **Mario Lemina (89)** — 127k coins, **+77.6% em 7 dias** (+28.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mario Lemina (89)** — 127k coins, **+77.6% em 7 dias** (+28.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Claudio Marchisio (88)** — 155k coins, **+44.8% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
@@ -65,15 +72,15 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Callum McGregor (87)** — 220k coins, **+23.6% em 7 dias** (+2.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
 
-- **Wouter Burger (87)** — 95k coins, **+22.9% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Wouter Burger (87)** — 95k coins, **+22.9% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+4%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🧪 De onde vêm estes números
@@ -82,13 +89,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Mario Lemina (89, Trendyol Süper Lig) lidera, com +77.6% em 7 dias a 127k coins no Console (PS), e o modelo dá 44% de chance de seguir subindo.
+**Qual carta liderava o momentum em 20/06/2026 no EA FC?**
+Mario Lemina (89, Trendyol Süper Lig) lidera, com +77.6% em 7 dias a 127k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -97,3 +104,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Volantes baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Volantes no EA FC em 20/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-20-ps/)
+- [Momentum de Volantes no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

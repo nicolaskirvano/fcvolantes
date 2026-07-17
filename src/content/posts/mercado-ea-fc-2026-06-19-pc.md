@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Volante Market"
 pubDatetime: 2026-06-19T16:19:19.000Z
-title: "Volantes no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Volantes no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Taylor Flint (88, NWSL), com +57.3% em 24h, a 371k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Denise O'Sullivan (85), -34.8% em 24h, a 21k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 63 em queda (média 1.66%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Taylor Flint liderou as altas e Denise O'Sullivan as baixas em Volantes. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Taylor Flint** registrou o maior movimento de 24h (+57,3%), enquanto **Denise O&#x27;Sullivan** marcou o menor (-34,8%). A distância entre os extremos foi de **92,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+4,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Volantes no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Taylor Flint (88, NWSL), com +57.3% em 24h, a 371k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Denise O'Sullivan (85), -34.8% em 24h, a 21k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 63 em queda (média 1.66%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -94,3 +99,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Volantes baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Momentum de Volantes no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

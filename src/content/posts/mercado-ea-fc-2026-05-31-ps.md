@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Volante Market"
 pubDatetime: 2026-06-01T01:17:02.000Z
-title: "Volantes no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Volantes no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Patri Guijarro (91, Liga F), com +37.9% em 24h, a 60k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (86), -35.7% em 24h, a 964k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Patri Guijarro (90) — 95% de probabilidade de alta, a 48k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 57 cartas em alta contra 83 em queda (média -1.03%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PS: Patri Guijarro liderou as altas e Aurélien Tchouaméni as baixas em Volantes. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **83 caíram**, com variação média de **-1.03%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Patri Guijarro** registrou o maior movimento de 24h (+37,9%), enquanto **Aurélien Tchouaméni** marcou o menor (-35,7%). A distância entre os extremos foi de **73,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Volantes no EA FC em 31/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **83 caíram**, com variação média de **-1.03%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Patri Guijarro (91) **+37.9%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (86) **-35.7%**
 
@@ -48,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das altas
 
-- **Patri Guijarro (91)** subiu **+37.9%** em 24h, a **60k coins** (faixa do dia: 44k–74k). Está +32% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Patri Guijarro (91)** subiu **+37.9%** em 24h, a **60k coins** (faixa do dia: 44k–74k). Está +32% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (95% de chance de subir mais).
 
 - **Aleksandar Stanković (87)** subiu **+37.3%** em 24h, a **103k coins** (faixa do dia: 62k–109k). Está +22% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Dunga (89)** subiu **+30.5%** em 24h, a **109k coins** (faixa do dia: 78k–112k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Dunga (89)** subiu **+30.5%** em 24h, a **109k coins** (faixa do dia: 78k–112k). Está +16% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Aurélien Tchouaméni (86)** caiu **-35.7%** em 24h, a **964k coins** (faixa do dia: 964k–1.50M). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+- **Aurélien Tchouaméni (86)** caiu **-35.7%** em 24h, a **964k coins** (faixa do dia: 964k–1.50M). Está em linha com a média de 7 dias (+4%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Rodri (92)** caiu **-22.4%** em 24h, a **82k coins** (faixa do dia: 82k–109k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rodri (92)** caiu **-22.4%** em 24h, a **82k coins** (faixa do dia: 82k–109k). Está -14% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Douglas Luiz (90)** caiu **-22%** em 24h, a **26k coins** (faixa do dia: 25k–33k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Douglas Luiz (90)** caiu **-22%** em 24h, a **26k coins** (faixa do dia: 25k–33k). Está -13% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Patri Guijarro (91, Liga F), com +37.9% em 24h, a 60k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Aurélien Tchouaméni (86), -35.7% em 24h, a 964k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Patri Guijarro (90) — 95% de probabilidade de alta, a 48k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Patri Guijarro (90) — 95% de probabilidade de alta, a 48k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 57 cartas em alta contra 83 em queda (média -1.03%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 57 cartas em alta contra 83 em queda (média -1.03%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Volantes baratos no EA FC em 31/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-31-ps/)
+- [Momentum de Volantes no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
