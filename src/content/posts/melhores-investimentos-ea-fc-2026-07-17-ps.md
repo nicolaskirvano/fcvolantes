@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:17:09.000Z
+pubDatetime: 2026-07-17T13:17:09.000Z
 title: "Investimentos EA FC: Volantes em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Daniele De Rossi (89, Serie A TIM) lidera, com +83.3% em 7 dias a 186k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Carlos Baleba (90, Premier League) lidera, com +85.3% em 7 dias a 137k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daniele De Rossi (89) acumula **+83.3% em 7 dias** a 186k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Carlos Baleba (90) acumula **+85.3% em 7 dias** a 137k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.3% em 24h** e **+45.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.9% em 24h** e **+39.5% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 89 | Serie A TIM | 186k coins | +6.9% | +83.3% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +25.5% | +82.9% | Esticada |
-| James Garner | 90 | — | 44k coins | +4.7% | +79.8% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 55k coins | +11.1% | +64.2% | Esticada |
-| Ramires | 86 | Premier League | 129k coins | +15.8% | +62.6% | Esticada |
-| Ryan Gravenberch | 93 | Premier League | 139k coins | +2.4% | +52.3% | Momentum moderado |
-| Frank Rijkaard | 89 | Icons | 143k coins | +12.5% | +45.9% | Momentum moderado |
-| Declan Rice | 94 | Premier League | 195k coins | +8.3% | +45.5% | Momentum moderado |
-| Wouter Burger | 87 | Bundesliga | 65k coins | +5.8% | +45% | Momentum moderado |
-| Ryan Christie | 90 | Premier League | 55k coins | +18.9% | +41% | Momentum moderado |
-| Joshua Kimmich | 90 | Bundesliga | 68k coins | +20.4% | +37.4% | Esticada |
-| Aleksandar Stanković | 87 | 1A Pro League | 207k coins | +2% | +33.5% | Momentum moderado |
-| Kristijan Jakić | 92 | — | 20k coins | +2.4% | +33.3% | Momentum moderado |
-| Piotr Zieliński | 93 | — | 26k coins | +7.3% | +28.7% | Momentum moderado |
-| Edson Álvarez | 94 | — | 24k coins | +15% | +27.8% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 137k coins | +26.4% | +85.3% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 75k coins | +1.2% | +82.6% | Esticada |
+| Daniele De Rossi | 89 | Serie A TIM | 198k coins | +6.9% | +80.6% | Esticada |
+| Ryan Gravenberch | 87 | Premier League | 45k coins | +2.5% | +67.1% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 209k coins | +4.5% | +63.3% | Esticada |
+| Patri Guijarro | 91 | Liga F | 70k coins | +29.5% | +51.3% | Esticada |
+| Ryan Christie | 90 | Premier League | 54k coins | +17.8% | +41.6% | Momentum moderado |
+| Frank Rijkaard | 89 | Icons | 141k coins | +5.7% | +39.5% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 179k coins | +6.1% | +38.4% | Momentum moderado |
+| Patrick Berg | 95 | — | 60k coins | +21.6% | +37.2% | Esticada |
+| Manuel Locatelli | 86 | Serie A TIM | 50k coins | +6.9% | +37.1% | Momentum moderado |
+| Aleksandar Stanković | 87 | 1A Pro League | 205k coins | +5.7% | +32.3% | Momentum moderado |
+| Joshua Kimmich | 96 | — | 199k coins | +26.7% | +29.5% | Esticada |
+| Han-Noah Massengo | 84 | Bundesliga | 44k coins | +11.2% | +27.1% | Momentum moderado |
+| Jordan Henderson | 85 | Premier League | 110k coins | +1.9% | +26.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Daniele De Rossi (89)** — 186k coins, **+83.3% em 7 dias** (+6.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 137k coins, **+85.3% em 7 dias** (+26.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 32k coins, **+82.9% em 7 dias** (+25.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 75k coins, **+82.6% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 44k coins, **+79.8% em 7 dias** (+4.7% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (89)** — 198k coins, **+80.6% em 7 dias** (+6.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 55k coins, **+64.2% em 7 dias** (+11.1% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (87)** — 45k coins, **+67.1% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramires (86)** — 129k coins, **+62.6% em 7 dias** (+15.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Felix Nmecha (86)** — 209k coins, **+63.3% em 7 dias** (+4.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Daniele De Rossi (89, Serie A TIM) lidera, com +83.3% em 7 dias a 186k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Carlos Baleba (90, Premier League) lidera, com +85.3% em 7 dias a 137k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Volantes em 17/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-17-ps/)
 - [Mercado EA FC em 17/07: Volantes — Console (PS)](/posts/mercado-ea-fc-2026-07-17-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
