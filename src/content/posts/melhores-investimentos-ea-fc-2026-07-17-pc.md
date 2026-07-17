@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:17:19.000Z
+pubDatetime: 2026-07-17T16:17:18.000Z
 title: "Investimentos EA FC: Volantes em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Aleksandar Stanković (87, 1A Pro League) lidera, com +71% em 7 dias a 101k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Melle Meulensteen (91, sem liga) lidera, com +66.7% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aleksandar Stanković (87) acumula **+71% em 7 dias** a 101k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+66.7% em 7 dias** a 40k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+37.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.0% em 24h** e **+26.1% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aleksandar Stanković | 87 | 1A Pro League | 101k coins | +8.7% | +71% | Esticada |
-| Melle Meulensteen | 91 | — | 40k coins | +23.1% | +64.9% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 80k coins | +13.5% | +61.6% | Esticada |
-| Frank Rijkaard | 87 | Icons | 160k coins | +15.1% | +60% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 55k coins | +9.1% | +54.8% | Momentum moderado |
-| Sammy Braybrooke | 91 | — | 40k coins | +6% | +53.8% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 63k coins | +9.5% | +39.6% | Momentum moderado |
-| Esteban Cambiasso | 86 | Serie A TIM | 15.000 coins | +6.9% | +37.5% | Momentum moderado |
-| Dunga | 87 | Icons | 86k coins | +9.2% | +33.8% | Momentum moderado |
-| João Neves | 88 | Ligue 1 McDonald's | 185k coins | +30.3% | +32.1% | Esticada |
-| Declan Rice | 89 | Premier League | 81k coins | +8.7% | +31.5% | Momentum moderado |
-| Kristijan Jakić | 92 | — | 22k coins | +10% | +29.4% | Momentum moderado |
-| Aleksandar Pavlović | 93 | — | 25k coins | +5.3% | +23.8% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 50k coins | +32.5% | +22% | Esticada |
-| Edson Álvarez | 94 | — | 22k coins | +3.6% | +20.8% | Entrada a observar |
+| Melle Meulensteen | 91 | — | 40k coins | +31.1% | +66.7% | Esticada |
+| Frank Rijkaard | 87 | Icons | 154k coins | +15.1% | +60% | Esticada |
+| Sammy Braybrooke | 91 | — | 40k coins | +2.6% | +60% | Esticada |
+| Ryan Christie | 90 | Premier League | 55k coins | +3.8% | +38.4% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 62k coins | +6.9% | +36.3% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 80k coins | +19.9% | +31.5% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 31k coins | +3.3% | +26.5% | Momentum moderado |
+| Denise O'Sullivan | 85 | NWSL | 38k coins | +13.6% | +26.1% | Momentum moderado |
+| Natalia Ramos | 87 | — | 50k coins | +28.4% | +22.1% | Esticada |
+| João Neves | 86 | Ligue 1 McDonald's | 49k coins | +35.1% | +22% | Esticada |
+| Sander Berge | 94 | — | 18.000 coins | +2.6% | +21.9% | Entrada a observar |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +2.8% | +21.5% | Entrada a observar |
+| Michaël Essien | 86 | Icons | 110k coins | +17% | +20.6% | Momentum moderado |
+| Edson Álvarez | 94 | — | 19.250 coins | +10% | +20.5% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 22k coins | +3.2% | +19.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Aleksandar Stanković (87)** — 101k coins, **+71% em 7 dias** (+8.7% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (91)** — 40k coins, **+66.7% em 7 dias** (+31.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melle Meulensteen (91)** — 40k coins, **+64.9% em 7 dias** (+23.1% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (87)** — 154k coins, **+60% em 7 dias** (+15.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattéo Guendouzi (91)** — 80k coins, **+61.6% em 7 dias** (+13.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sammy Braybrooke (91)** — 40k coins, **+60% em 7 dias** (+2.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (87)** — 160k coins, **+60% em 7 dias** (+15.1% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Christie (90)** — 55k coins, **+38.4% em 7 dias** (+3.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 55k coins, **+54.8% em 7 dias** (+9.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 62k coins, **+36.3% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Aleksandar Stanković (87, 1A Pro League) lidera, com +71% em 7 dias a 101k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Melle Meulensteen (91, sem liga) lidera, com +66.7% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

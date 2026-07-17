@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:17:20.000Z
+pubDatetime: 2026-07-17T16:17:20.000Z
 title: "Jogadores baratos EA FC: Volantes em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC."
+    a: "Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aleksandar Pavlović (94) por apenas 13.500 coins.
+> 💰 **Melhor pechincha:** Aleksandar Pavlović (94) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 5.700 coins.
+- **Preço médio das 4 opções:** 6.000 coins.
 - **Posição mais frequente:** CDM, com 4 cartas.
-- **Faixa real:** 2.900 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.100 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | +12.8% |
-| Rodri | 90 | CDM | Premier League | 3.400 coins | -5.4% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.900 coins | +7.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.000 coins | 0% |
+| Aleksandar Pavlović | 94 | CDM | — | 14.000 coins | +17% |
+| Rodri | 90 | CDM | Premier League | 3.700 coins | +5.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.100 coins | +10.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.200 coins | +6.9% |
 
 
 ## 📈 Destaques
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.500 coins**
+- **Aleksandar Pavlović (94, CDM)** da —, a apenas **14.000 coins**
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Aleksandar Pavlović (94, CDM) por 13.500 coins é a referência de rating deste recorte.
+- **Meio:** Aleksandar Pavlović (94, CDM) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC.
+Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
