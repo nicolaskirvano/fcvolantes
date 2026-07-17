@@ -1,73 +1,95 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:17:18.000Z
-title: "Melhores investimentos em Volantes no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-17T00:01:15.000Z
+title: "Investimentos EA FC: Volantes em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Wouter Burger (90, sem liga) lidera, com +65.1% em 7 dias a 45k coins no PC."
+    a: "Ryan Gravenberch (93, Premier League) lidera, com +80.6% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wouter Burger (90) acumula **+65.1% em 7 dias** a 45k coins.
+> 🔝 **Destaque:** Ryan Gravenberch (93) acumula **+80.6% em 7 dias** a 224k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+10.4% em 24h** e **+54.2% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wouter Burger | 90 | — | 45k coins | +10.4% | +65.1% | 0% |
-| Patrick Berg | 95 | — | 68k coins | +6.1% | +64.7% | 0% |
-| Granit Xhaka | 89 | Premier League | 54k coins | +13.5% | +59.1% | 12% |
-| Pathé Ciss | 92 | — | 18k coins | +1.4% | +57.4% | 0% |
-| Hamdy Fathy | 93 | — | 18k coins | +1.4% | +42.3% | 0% |
-| Ryan Gravenberch | 93 | Premier League | 224k coins | +36.6% | +40.9% | 0% |
-| João Neves | 88 | Ligue 1 McDonald's | 185k coins | +7.1% | +38.5% | 0% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 187k coins | +10.6% | +33.3% | 0% |
-| Xabi Alonso | 87 | Icons | 84k coins | +25.2% | +31.8% | 35% |
-| Dominique Janssen | 89 | Barclays WSL | 26k coins | +16.7% | +28% | 0% |
-| Ryan Christie | 90 | Premier League | 53k coins | +17% | +27.4% | 13% |
-| Taylor Flint | 88 | NWSL | 210k coins | +10.5% | +27.3% | 0% |
-| Declan Rice | 94 | Premier League | 239k coins | +30% | +26.5% | 0% |
-| Máximo Perrone | 92 | — | 25k coins | +5.3% | +23.8% | 0% |
-| Dunga | 89 | Icons | 160k coins | +6.7% | +23.1% | 0% |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +6.7% | +80.6% | Esticada |
+| Ahmed Fathi | 91 | — | 32k coins | +25% | +78.6% | Esticada |
+| Wouter Burger | 90 | — | 45k coins | +10.4% | +68.2% | Esticada |
+| Patrick Berg | 95 | — | 70k coins | +16.7% | +64.7% | Esticada |
+| James Garner | 90 | — | 45k coins | +5.3% | +59.3% | Momentum moderado |
+| Granit Xhaka | 89 | Premier League | 54k coins | +16.1% | +57.7% | Momentum moderado |
+| David Ayala | 91 | — | 40k coins | +1.9% | +55.3% | Momentum moderado |
+| Pathé Ciss | 92 | — | 19k coins | +1.4% | +54.2% | Momentum moderado |
+| Jesper Karlström | 93 | — | 19k coins | +1.4% | +44.2% | Momentum moderado |
+| Hamdy Fathy | 93 | — | 19k coins | +1.4% | +44.2% | Momentum moderado |
+| João Neves | 88 | Ligue 1 McDonald's | 220k coins | +10.8% | +42.3% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 85k coins | +4.3% | +37.1% | Momentum moderado |
+| Ryan Christie | 90 | Premier League | 53k coins | +24% | +33.3% | Esticada |
+| Mario Lemina | 89 | Trendyol Süper Lig | 185k coins | +10.7% | +31.9% | Momentum moderado |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 98k coins | +19.6% | +31.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wouter Burger (90)** — 45k coins, **+65.1% em 7 dias** (+10.4% em 24h). Preço +53% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ryan Gravenberch (93)** — 224k coins, **+80.6% em 7 dias** (+6.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Berg (95)** — 68k coins, **+64.7% em 7 dias** (+6.1% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ahmed Fathi (91)** — 32k coins, **+78.6% em 7 dias** (+25% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (89)** — 54k coins, **+59.1% em 7 dias** (+13.5% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Wouter Burger (90)** — 45k coins, **+68.2% em 7 dias** (+10.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pathé Ciss (92)** — 18k coins, **+57.4% em 7 dias** (+1.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patrick Berg (95)** — 70k coins, **+64.7% em 7 dias** (+16.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hamdy Fathy (93)** — 18k coins, **+42.3% em 7 dias** (+1.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **James Garner (90)** — 45k coins, **+59.3% em 7 dias** (+5.3% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
+
+
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Volantes em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Volantes — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
 
 ## 📊 Nossa metodologia em 30 segundos
 Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
@@ -76,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Wouter Burger (90, sem liga) lidera, com +65.1% em 7 dias a 45k coins no PC.
+Ryan Gravenberch (93, Premier League) lidera, com +80.6% em 7 dias a 224k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
