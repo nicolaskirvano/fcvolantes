@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:17:09.000Z
+pubDatetime: 2026-07-17T17:23:55.000Z
 title: "Investimentos EA FC: Volantes em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Carlos Baleba (90, Premier League) lidera, com +83.7% em 7 dias a 124k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ryan Gravenberch (93, Premier League) lidera, com +78.6% em 7 dias a 184k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Carlos Baleba (90) acumula **+83.7% em 7 dias** a 124k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ryan Gravenberch (93) acumula **+78.6% em 7 dias** a 184k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.2% em 24h** e **+26.1% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.7% em 24h** e **+48.1% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carlos Baleba | 90 | Premier League | 124k coins | +35% | +83.7% | Esticada |
-| Ramires | 86 | Premier League | 118k coins | +12.1% | +65.4% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 44k coins | +6.7% | +60% | Esticada |
-| Ryan Gravenberch | 93 | Premier League | 184k coins | +3.9% | +55.3% | Momentum moderado |
-| Frank Rijkaard | 89 | Icons | 140k coins | +15.1% | +48.1% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 89k coins | +22.6% | +33.6% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 18.250 coins | +15.9% | +27% | Momentum moderado |
-| Cristian Roldan | 94 | — | 29k coins | +15.6% | +26.1% | Momentum moderado |
-| Benjamin André | 92 | — | 26k coins | +4.2% | +25% | Entrada a observar |
-| Richard Ríos | 87 | Liga Portugal | 200k coins | +17.6% | +23.5% | Momentum moderado |
-| Aleksandar Pavlović | 93 | — | 24k coins | +4.3% | +22.8% | Entrada a observar |
-| Jorthy Mokio | 86 | Eredivisie | 32k coins | +18.2% | +22.6% | Momentum moderado |
-| Piotr Zieliński | 93 | — | 25k coins | +3.2% | +22.5% | Entrada a observar |
-| Kim Little | 87 | Barclays WSL | 22k coins | +14.2% | +22.3% | Momentum moderado |
-| Máximo Perrone | 92 | — | 24k coins | +2.1% | +21.2% | Entrada a observar |
+| Ryan Gravenberch | 93 | Premier League | 184k coins | +19.5% | +78.6% | Esticada |
+| Carlos Baleba | 90 | Premier League | 116k coins | +24% | +68.7% | Esticada |
+| Patri Guijarro | 91 | Liga F | 135k coins | +14.7% | +64% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 198k coins | +10% | +61% | Esticada |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 34k coins | +7.9% | +54.5% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 117k coins | +20% | +52.9% | Esticada |
+| Jaelin Howell | 89 | NWSL | 20k coins | +3.3% | +51.6% | Momentum moderado |
+| Frank Rijkaard | 89 | Icons | 136k coins | +15.1% | +48.1% | Momentum moderado |
+| Ryan Christie | 90 | Premier League | 52k coins | +9.2% | +33.8% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 33k coins | +26% | +33.7% | Esticada |
+| Frank Rijkaard | 87 | Icons | 86k coins | +26.1% | +29.9% | Esticada |
+| Joshua Kimmich | 96 | — | 225k coins | +13.1% | +27.8% | Momentum moderado |
+| Denise O'Sullivan | 91 | Barclays WSL | 68k coins | +16% | +26.7% | Momentum moderado |
+| Daniele De Rossi | 91 | Serie A TIM | 216k coins | +5.9% | +26.3% | Momentum moderado |
+| Benjamin André | 92 | — | 25k coins | +5.2% | +26.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Carlos Baleba (90)** — 124k coins, **+83.7% em 7 dias** (+35% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 184k coins, **+78.6% em 7 dias** (+19.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramires (86)** — 118k coins, **+65.4% em 7 dias** (+12.1% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 116k coins, **+68.7% em 7 dias** (+24% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 44k coins, **+60% em 7 dias** (+6.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 135k coins, **+64% em 7 dias** (+14.7% em 24h). Preço +111% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (93)** — 184k coins, **+55.3% em 7 dias** (+3.9% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Felix Nmecha (86)** — 198k coins, **+61% em 7 dias** (+10% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (89)** — 140k coins, **+48.1% em 7 dias** (+15.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nabil Bentaleb (86)** — 34k coins, **+54.5% em 7 dias** (+7.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Carlos Baleba (90, Premier League) lidera, com +83.7% em 7 dias a 124k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ryan Gravenberch (93, Premier League) lidera, com +78.6% em 7 dias a 184k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+> **Link patrocinado:** 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 
