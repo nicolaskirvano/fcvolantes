@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:17:09.000Z
+pubDatetime: 2026-07-18T22:17:09.000Z
 title: "Investimentos EA FC: Volantes em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Taylor Flint (88, NWSL) lidera, com +81.2% em 7 dias a 131k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Angelo Stiller (91, Bundesliga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Taylor Flint (88) acumula **+81.2% em 7 dias** a 131k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Angelo Stiller (91) acumula **+83.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.4% em 24h** e **+28.2% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.3% em 24h** e **+24.6% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Taylor Flint | 88 | NWSL | 131k coins | +5.5% | +81.2% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +21.8% | +79.7% | Esticada |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +1.9% | +44.7% | Momentum moderado |
-| Manuel Locatelli | 86 | Serie A TIM | 52k coins | +18% | +37.3% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 94k coins | +26.7% | +33.8% | Esticada |
-| Frank Rijkaard | 89 | Icons | 132k coins | +3.1% | +31.1% | Momentum moderado |
-| Daniele De Rossi | 87 | Serie A TIM | 27k coins | +21.3% | +28.6% | Esticada |
-| Dunga | 89 | Icons | 140k coins | +6.4% | +28.2% | Momentum moderado |
-| Rúben Neves | 86 | Brasileirão | 38k coins | +6% | +21.4% | Momentum moderado |
-| Esteban Cambiasso | 86 | Serie A TIM | 16.500 coins | +1.5% | +20% | Entrada a observar |
-| Emmanuel Petit | 87 | Icons | 88k coins | +9.6% | +19% | Momentum moderado |
-| Aleksandar Stanković | 87 | 1A Pro League | 177k coins | +14.9% | +17.2% | Momentum moderado |
-| Casemiro | 86 | Premier League | 49k coins | +1% | +17% | Entrada a observar |
-| Croix Bethune | 84 | NWSL | 42k coins | +14.4% | +16.8% | Momentum moderado |
-| Melle Meulensteen | 84 | Eredivisie | 40k coins | +4.6% | +15.9% | Entrada a observar |
+| Angelo Stiller | 91 | Bundesliga | 55k coins | +1.9% | +83.3% | Esticada |
+| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +32.5% | +79.7% | Esticada |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 22k coins | +1.1% | +33.3% | Momentum moderado |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 131k coins | +18.4% | +31.1% | Momentum moderado |
+| Aleksandar Stanković | 87 | 1A Pro League | 193k coins | +25.3% | +26.1% | Esticada |
+| Manuel Locatelli | 86 | Serie A TIM | 49k coins | +21.2% | +25.8% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 89k coins | +19.9% | +25.7% | Momentum moderado |
+| Casemiro | 86 | Premier League | 43k coins | +19.6% | +23.6% | Momentum moderado |
+| Kim Little | 87 | Barclays WSL | 28k coins | +8.5% | +22.3% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 43k coins | +19% | +19.9% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 94k coins | +9.2% | +16.6% | Momentum moderado |
+| Jaelin Howell | 89 | NWSL | 24k coins | +37% | +16.3% | Esticada |
+| Croix Bethune | 84 | NWSL | 38k coins | +8.3% | +9.9% | Momentum moderado |
+| Daniele De Rossi | 87 | Serie A TIM | 31k coins | +26.5% | +5.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Taylor Flint (88)** — 131k coins, **+81.2% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 55k coins, **+83.3% em 7 dias** (+1.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofie Junge Pedersen (86)** — 26k coins, **+79.7% em 7 dias** (+21.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofie Junge Pedersen (86)** — 26k coins, **+79.7% em 7 dias** (+32.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (84)** — 55k coins, **+44.7% em 7 dias** (+1.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 22k coins, **+33.3% em 7 dias** (+1.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 52k coins, **+37.3% em 7 dias** (+18% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **N'Golo Kanté (89)** — 131k coins, **+31.1% em 7 dias** (+18.4% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gennaro Gattuso (86)** — 94k coins, **+33.8% em 7 dias** (+26.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Stanković (87)** — 193k coins, **+26.1% em 7 dias** (+25.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Taylor Flint (88, NWSL) lidera, com +81.2% em 7 dias a 131k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Angelo Stiller (91, Bundesliga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
