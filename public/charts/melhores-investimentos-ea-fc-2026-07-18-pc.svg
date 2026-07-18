@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Garner</text>
-<rect x="285" y="153" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Swierot</text>
-<rect x="285" y="211" width="292" height="28" rx="7" fill="#22c55e"/>
-<text x="587" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="269" width="286" height="28" rx="7" fill="#22c55e"/>
-<text x="581" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="327" width="280" height="28" rx="7" fill="#22c55e"/>
-<text x="575" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Angelo Stiller</text>
-<rect x="285" y="385" width="200" height="28" rx="7" fill="#22c55e"/>
-<text x="495" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Swierot</text>
+<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
+<rect x="285" y="211" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Garner</text>
+<rect x="285" y="269" width="400" height="28" rx="7" fill="#22c55e"/>
+<text x="695" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<rect x="285" y="327" width="341" height="28" rx="7" fill="#22c55e"/>
+<text x="636" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Petit</text>
+<rect x="285" y="385" width="221" height="28" rx="7" fill="#22c55e"/>
+<text x="516" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.9%</text>
 </svg>
