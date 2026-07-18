@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:17:10.000Z
+pubDatetime: 2026-07-18T01:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 9.150 coins.
-- **Posição mais frequente:** CDM, com 5 cartas.
-- **Faixa real:** 2.700 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 8.208 coins.
+- **Posição mais frequente:** CDM, com 6 cartas.
+- **Faixa real:** 2.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,23 +41,24 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Aleksandar Pavlović | 94 | CDM | — | 12.750 coins | +10.6% |
-| Rodri | 90 | CDM | Premier League | 2.800 coins | +8% |
-| Patri Guijarro | 89 | CDM | Liga F | 2.700 coins | +27.3% |
-| Peer Koopmeiners | 89 | CDM | — | 13.000 coins | -11.5% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14.500 coins | -13% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2.500 coins | +13.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 2.600 coins | +31.8% |
+| Peer Koopmeiners | 89 | CDM | — | 13.750 coins | -11.5% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.750 coins | -1.7% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.900 coins | -3.3% |
 
 
 ## 📈 Destaques
 
 - **Aleksandar Pavlović (94, CDM)** da —, a apenas **12.750 coins**
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Peer Koopmeiners (89, CDM)** da —, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Peer Koopmeiners (89, CDM)** da —, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
