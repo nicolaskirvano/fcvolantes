@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:17:17.000Z
+pubDatetime: 2026-07-18T13:17:17.000Z
 title: "Mercado EA FC em 18/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Rúben Neves (95, sem liga), com +56.9% em 24h, a 69k coins no PC."
+    a: "Gabriel Sara (89, Trendyol Süper Lig), com +52.5% em 24h, a 96k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Denise O'Sullivan (91), -38.3% em 24h, a 37k coins."
+    a: "Angelo Stiller (94), -49.5% em 24h, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 56 cartas em alta contra 85 em queda (média -1.94%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 50 cartas em alta contra 94 em queda (média -3.01%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**18/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **56 subiram**, **85 caíram** (80+ e 5k+ coins), média de **-1.94%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**18/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **50 subiram**, **94 caíram** (80+ e 5k+ coins), média de **-3.01%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Rúben Neves (95) **+56.9%** · 🔴 **Maior baixa:** Denise O'Sullivan (91) **-38.3%**
+> 🟢 **Maior alta:** Gabriel Sara (89) **+52.5%** · 🔴 **Maior baixa:** Angelo Stiller (94) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.7% entre as cartas que se moveram; o universo observado reúne 164 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.7% entre as cartas que se moveram; o universo observado reúne 165 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rúben Neves | 95 | — | 69k coins | +56.9% | +30.3% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 48k coins | +47% | +73.2% |
-| Claude Makélélé | 87 | Icons | 108k coins | +42.1% | +20.7% |
-| Jaelin Howell | 89 | NWSL | 38k coins | +35.4% | +34.2% |
-| Patrick Berg | 95 | — | 74k coins | +30% | +83.5% |
-| Gennaro Gattuso | 86 | Icons | 96k coins | +27.6% | +15.5% |
-| Stephen Eustáquio | 95 | — | 77k coins | +25.2% | +18.5% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 96k coins | +52.5% | +39.5% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 48k coins | +48.1% | +18.3% |
+| Claude Makélélé | 87 | Icons | 102k coins | +47.3% | +21.1% |
+| Rúben Neves | 95 | — | 66k coins | +35% | +22.7% |
+| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +37.1% |
+| Patrick Berg | 95 | — | 78k coins | +30% | +95% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 90k coins | +29.2% | +32.9% |
+| Adam Wharton | 88 | Premier League | 30k coins | +29.1% | -11.2% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 326k coins | +25.4% | +10.5% |
 | Jorthy Mokio | 84 | Eredivisie | 50k coins | +25% | +5.8% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 326k coins | +23% | +10.5% |
-| Felix Nmecha | 86 | Bundesliga | 399k coins | +22.2% | +15.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rúben Neves (95)** subiu **+56.9%** em 24h, a **69k coins** (faixa do dia: 40k–77k). Está +30% acima da média de 7 dias (aquecida).
+- **Gabriel Sara (89)** subiu **+52.5%** em 24h, a **96k coins** (faixa do dia: 56k–130k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Denis Zakaria (85)** subiu **+47%** em 24h, a **48k coins** (faixa do dia: 25k–50k). Está +9% acima da média de 7 dias (aquecida).
+- **Denis Zakaria (85)** subiu **+48.1%** em 24h, a **48k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+8%).
 
-- **Claude Makélélé (87)** subiu **+42.1%** em 24h, a **108k coins** (faixa do dia: 66k–108k). Está +22% acima da média de 7 dias (aquecida).
+- **Claude Makélélé (87)** subiu **+47.3%** em 24h, a **102k coins** (faixa do dia: 66k–112k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Angelo Stiller | 94 | — | 24k coins | -49.5% | -42.1% |
+| Youri Tielemans | 96 | — | 313k coins | -39.2% | +17.2% |
 | Denise O'Sullivan | 91 | Barclays WSL | 37k coins | -38.3% | -26% |
-| Youri Tielemans | 96 | — | 320k coins | -38.1% | +22.8% |
-| Angelo Stiller | 94 | — | 24k coins | -34.8% | -42.8% |
-| Lena Oberdorf | 86 | GPFBL | 31k coins | -33.2% | -40.3% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 116k coins | -32.8% | -29.2% |
-| Nico González | 86 | Premier League | 22k coins | -32.1% | -10.1% |
-| Granit Xhaka | 96 | — | 439k coins | -30.2% | -24.4% |
-| Dunga | 87 | Icons | 66k coins | -30.2% | -0.8% |
-| Matt Grimes | 94 | — | 25k coins | -29.4% | +2.7% |
-| Aleksandar Pavlović | 89 | Bundesliga | 31k coins | -28.7% | -47.1% |
+| Victor Lindelöf | 96 | — | 168k coins | -31.5% | -25.2% |
+| Nico González | 86 | Premier League | 24k coins | -30.8% | -9.1% |
+| Natalia Ramos | 87 | — | 36k coins | -30% | -16.7% |
+| Aleksandar Pavlović | 89 | Bundesliga | 44k coins | -26.1% | -45.8% |
+| Ryan Gravenberch | 87 | Premier League | 99k coins | -25.4% | +22.7% |
+| Felix Nmecha | 95 | — | 60k coins | -25.4% | -8.6% |
+| Luka Modrić | 97 | — | 399k coins | -25.3% | -0.2% |
 
 
 ### Análise das baixas
 
-- **Denise O'Sullivan (91)** caiu **-38.3%** em 24h, a **37k coins** (faixa do dia: 37k–60k). Está -25% abaixo da média de 7 dias (descontada).
+- **Angelo Stiller (94)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 21k–54k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Youri Tielemans (96)** caiu **-38.1%** em 24h, a **320k coins** (faixa do dia: 320k–531k). Está -11% abaixo da média de 7 dias (descontada).
+- **Youri Tielemans (96)** caiu **-39.2%** em 24h, a **313k coins** (faixa do dia: 313k–500k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Angelo Stiller (94)** caiu **-34.8%** em 24h, a **24k coins** (faixa do dia: 21k–54k). Está -38% abaixo da média de 7 dias (descontada).
+- **Denise O'Sullivan (91)** caiu **-38.3%** em 24h, a **37k coins** (faixa do dia: 37k–60k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rúben Neves já avançou 56.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gabriel Sara já avançou 52.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Denise O'Sullivan recuou -38.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Angelo Stiller recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Rúben Neves (95, sem liga), com +56.9% em 24h, a 69k coins no PC.
+Gabriel Sara (89, Trendyol Süper Lig), com +52.5% em 24h, a 96k coins no PC.
 
 **E a maior queda do dia?**
-Denise O'Sullivan (91), -38.3% em 24h, a 37k coins.
+Angelo Stiller (94), -49.5% em 24h, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 56 cartas em alta contra 85 em queda (média -1.94%).
+Hoje o mercado está em baixa — predominam as quedas, com 50 cartas em alta contra 94 em queda (média -3.01%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="153" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
-<rect x="285" y="211" width="462" height="28" rx="7" fill="#22c55e"/>
-<text x="757" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denise O&#x27;Sullivan</text>
-<rect x="285" y="269" width="316" height="28" rx="7" fill="#22c55e"/>
-<text x="611" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julia Zigiotti</text>
-<rect x="285" y="327" width="311" height="28" rx="7" fill="#22c55e"/>
-<text x="606" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="385" width="298" height="28" rx="7" fill="#22c55e"/>
-<text x="593" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julia Zigiotti</text>
+<rect x="285" y="153" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominique Janssen</text>
+<rect x="285" y="211" width="337" height="28" rx="7" fill="#22c55e"/>
+<text x="632" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manuel Locatelli</text>
+<rect x="285" y="269" width="300" height="28" rx="7" fill="#22c55e"/>
+<text x="595" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="327" width="249" height="28" rx="7" fill="#22c55e"/>
+<text x="544" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Rijkaard</text>
+<rect x="285" y="385" width="233" height="28" rx="7" fill="#22c55e"/>
+<text x="528" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.0%</text>
 </svg>
