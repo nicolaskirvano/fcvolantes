@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:39:08.000Z
+pubDatetime: 2026-07-18T10:17:09.000Z
 title: "Investimentos EA FC: Volantes em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "João Neves (88, Ligue 1 McDonald's) lidera, com +87.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Granit Xhaka (91, sem liga) lidera, com +88.5% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Neves (88) acumula **+87.8% em 7 dias** a 88k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Granit Xhaka (91) acumula **+88.5% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.5% em 24h** e **+32.4% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+37.1% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Neves | 88 | Ligue 1 McDonald's | 88k coins | +1.2% | +87.8% | Esticada |
-| Denise O'Sullivan | 91 | Barclays WSL | 94k coins | +37.1% | +60% | Esticada |
-| Julia Zigiotti | 84 | Barclays WSL | 27k coins | +12.6% | +57.4% | Momentum moderado |
+| Granit Xhaka | 91 | — | 38k coins | +10.8% | +88.5% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 85k coins | +1.2% | +85.8% | Esticada |
+| Elliot Anderson | 89 | Premier League | 202k coins | +17.7% | +85.2% | Esticada |
+| Denise O'Sullivan | 91 | Barclays WSL | 94k coins | +36.7% | +58.3% | Esticada |
+| Julia Zigiotti | 84 | Barclays WSL | 27k coins | +13.8% | +57.4% | Momentum moderado |
 | Joshua Kimmich | 90 | Bundesliga | 76k coins | +30.3% | +55% | Esticada |
-| Daniele De Rossi | 89 | Serie A TIM | 203k coins | +16.7% | +52.8% | Momentum moderado |
-| Claude Makélélé | 87 | Icons | 94k coins | +30.8% | +36.4% | Esticada |
-| Georgia Stanway | 88 | GPFBL | 22k coins | +25.6% | +36.1% | Esticada |
-| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +4.7% | +32.4% | Momentum moderado |
-| Peer Koopmeiners | 89 | — | 18.750 coins | +18.5% | +26.2% | Momentum moderado |
-| Casemiro | 84 | Premier League | 63k coins | +8.6% | +24.8% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 179k coins | +10.8% | +45.1% | Momentum moderado |
+| Georgia Stanway | 88 | GPFBL | 22k coins | +23.1% | +37.1% | Esticada |
+| Claude Makélélé | 87 | Icons | 94k coins | +31.9% | +35.7% | Esticada |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 33k coins | +10.4% | +32.8% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 42k coins | +1.8% | +27.5% | Momentum moderado |
+| Casemiro | 84 | Premier League | 58k coins | +8.6% | +24.8% | Momentum moderado |
+| Peer Koopmeiners | 89 | — | 18.750 coins | +16.9% | +24.6% | Momentum moderado |
 | Adam Wharton | 88 | Premier League | 30k coins | +14.2% | +24.5% | Momentum moderado |
-| Xabi Alonso | 87 | Icons | 80k coins | +20.3% | +18.5% | Esticada |
-| Ibrahim Sangaré | 86 | Premier League | 40k coins | +22.1% | +16.3% | Esticada |
-| Lewis Wing | 86 | 2. Bundesliga | 40k coins | +17.8% | +16.2% | Momentum moderado |
-| Rani Khedira | 84 | Bundesliga | 35k coins | +38.8% | +13.3% | Esticada |
+| Joshua Kimmich | 96 | — | 190k coins | +1.9% | +21.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **João Neves (88)** — 88k coins, **+87.8% em 7 dias** (+1.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 38k coins, **+88.5% em 7 dias** (+10.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denise O'Sullivan (91)** — 94k coins, **+60% em 7 dias** (+37.1% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 85k coins, **+85.8% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julia Zigiotti (84)** — 27k coins, **+57.4% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elliot Anderson (89)** — 202k coins, **+85.2% em 7 dias** (+17.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua Kimmich (90)** — 76k coins, **+55% em 7 dias** (+30.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denise O'Sullivan (91)** — 94k coins, **+58.3% em 7 dias** (+36.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (89)** — 203k coins, **+52.8% em 7 dias** (+16.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julia Zigiotti (84)** — 27k coins, **+57.4% em 7 dias** (+13.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-João Neves (88, Ligue 1 McDonald's) lidera, com +87.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Granit Xhaka (91, sem liga) lidera, com +88.5% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
