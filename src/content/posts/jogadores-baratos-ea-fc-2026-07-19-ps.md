@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:37:51.000Z
+pubDatetime: 2026-07-19T10:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.750 coins.
-- **Posição mais frequente:** CDM, com 6 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 6.550 coins.
+- **Posição mais frequente:** CDM, com 5 cartas.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,25 +40,24 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | 0% |
-| Jesper Karlström | 93 | CDM | — | 14.750 coins | -6.2% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12.000 coins | -7.3% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | -3.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13.000 coins | -7.3% |
 | Granit Xhaka | 85 | CDM | Bundesliga | 1.500 coins | -6.2% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3.000 coins | -9.1% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | +11.8% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | +17.6% |
 
 
 ## 📈 Destaques
 
 - **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.250 coins**
 
-- **Jesper Karlström (93, CDM)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **12.000 coins**
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13.000 coins**
 
 - **Granit Xhaka (85, CDM)** da Bundesliga, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
 
 - **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

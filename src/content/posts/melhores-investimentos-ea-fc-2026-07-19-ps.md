@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:37:50.000Z
+pubDatetime: 2026-07-19T10:17:08.000Z
 title: "Investimentos EA FC: Volantes em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Granit Xhaka (91, sem liga) lidera, com +88.6% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Granit Xhaka (91, sem liga) lidera, com +88.6% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Granit Xhaka (91) acumula **+88.6% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Granit Xhaka (91) acumula **+88.6% em 7 dias** a 41k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+42.0% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.9% em 24h** e **+43.1% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 91 | — | 42k coins | +1.2% | +88.6% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 52k coins | +29.4% | +83.3% | Esticada |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 60k coins | +12.1% | +58.6% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 23k coins | +13.3% | +54.5% | Momentum moderado |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 53k coins | +25.6% | +54.3% | Esticada |
-| Taylor Flint | 88 | NWSL | 140k coins | +23.5% | +50.8% | Esticada |
-| João Neves | 88 | Ligue 1 McDonald's | 80k coins | +2.4% | +46.2% | Momentum moderado |
-| Nabil Bentaleb | 87 | — | 42k coins | +21.7% | +42% | Esticada |
+| Granit Xhaka | 91 | — | 41k coins | +3.8% | +88.6% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 38k coins | +22.4% | +73.3% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 60k coins | +20.2% | +70% | Esticada |
+| Jaelin Howell | 89 | NWSL | 25k coins | +19.6% | +61.8% | Esticada |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 52k coins | +25.6% | +55.4% | Esticada |
+| Taylor Flint | 88 | NWSL | 145k coins | +21.8% | +45% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 158k coins | +9% | +43.6% | Momentum moderado |
+| Ramires | 86 | Premier League | 130k coins | +28.1% | +43.1% | Esticada |
 | Aleksandar Pavlović | 89 | Bundesliga | 21k coins | +4.7% | +40% | Momentum moderado |
-| Kevin Lenini | 95 | — | 43k coins | +1.6% | +37.2% | Momentum moderado |
-| Jorthy Mokio | 86 | Eredivisie | 29k coins | +12.7% | +33.3% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 90k coins | +34.2% | +30.7% | Esticada |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 48k coins | +10.5% | +30.1% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 84k coins | +20.6% | +28.8% | Esticada |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 46k coins | +26.8% | +27.6% | Esticada |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 48k coins | +10.5% | +39.7% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +5.7% | +39.4% | Momentum moderado |
+| Michaël Essien | 86 | Icons | 79k coins | +21.4% | +30.4% | Esticada |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 50k coins | +27.4% | +28.2% | Esticada |
+| Frank Rijkaard | 87 | Icons | 80k coins | +19.9% | +28% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 18.250 coins | +1.7% | +25.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Granit Xhaka (91)** — 42k coins, **+88.6% em 7 dias** (+1.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 41k coins, **+88.6% em 7 dias** (+3.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 52k coins, **+83.3% em 7 dias** (+29.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 38k coins, **+73.3% em 7 dias** (+22.4% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (89)** — 60k coins, **+58.6% em 7 dias** (+12.1% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 60k coins, **+70% em 7 dias** (+20.2% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 23k coins, **+54.5% em 7 dias** (+13.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaelin Howell (89)** — 25k coins, **+61.8% em 7 dias** (+19.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edson Álvarez (86)** — 53k coins, **+54.3% em 7 dias** (+25.6% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edson Álvarez (86)** — 52k coins, **+55.4% em 7 dias** (+25.6% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Granit Xhaka (91, sem liga) lidera, com +88.6% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Granit Xhaka (91, sem liga) lidera, com +88.6% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
