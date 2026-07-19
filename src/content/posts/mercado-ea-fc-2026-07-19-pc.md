@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:17:17.000Z
+pubDatetime: 2026-07-19T16:17:17.000Z
 title: "Mercado EA FC em 19/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Mario Lemina (89, Trendyol Süper Lig), com +58.3% em 24h, a 190k coins no PC."
+    a: "Cristian Roldan (94, sem liga), com +57.5% em 24h, a 34k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Matheus Dias (87), -44.9% em 24h, a 25k coins."
+    a: "İsmail Yüksek (83), -47.4% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 64 em queda (média 1.61%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 73 em queda (média 0.58%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **68 subiram** e **64 caíram**, com variação média de **1.61%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **62 subiram** e **73 caíram**, com variação média de **0.58%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mario Lemina (89) **+58.3%** · 🔴 **Maior baixa:** Matheus Dias (87) **-44.9%**
+> 🟢 **Maior alta:** Cristian Roldan (94) **+57.5%** · 🔴 **Maior baixa:** İsmail Yüksek (83) **-47.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.5% entre as cartas que se moveram; o universo observado reúne 162 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 164 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Lemina | 89 | Trendyol Süper Lig | 190k coins | +58.3% | +11.8% |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 40k coins | +42.9% | -3% |
-| Melle Meulensteen | 84 | Eredivisie | 40k coins | +37.5% | +51.7% |
-| Natalia Ramos | 87 | — | 47k coins | +37.1% | +36.2% |
-| Julia Zigiotti | 84 | Barclays WSL | 25k coins | +36.6% | +9.8% |
-| Lena Oberdorf | 86 | GPFBL | 42k coins | +35.8% | -24.1% |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +31.1% | 0% |
-| Andrea Pirlo | 91 | Icons | 1.10M coins | +30% | +25.7% |
-| Moisés Caicedo | 88 | Premier League | 52k coins | +30% | +5.1% |
-| Frank Rijkaard | 87 | Icons | 121k coins | +29.5% | +27.6% |
+| Cristian Roldan | 94 | — | 34k coins | +57.5% | +31.7% |
+| Declan Rice | 94 | Premier League | 225k coins | +45% | +51% |
+| Korbin Shrader | 84 | D1 Arkema | 45k coins | +43.1% | -1% |
+| Angelo Stiller | 91 | Bundesliga | 63k coins | +40% | +70.3% |
+| Ramires | 86 | Premier League | 146k coins | +38.3% | +1.4% |
+| David Ayala | 91 | — | 40k coins | +33.3% | +81.8% |
+| Kim Little | 87 | Barclays WSL | 33k coins | +27.1% | -23.6% |
+| Ramires | 88 | Premier League | 900k coins | +25% | +24% |
+| Declan Rice | 89 | Premier League | 109k coins | +22.5% | +47.3% |
+| Frank Rijkaard | 89 | Icons | 140k coins | +21.7% | +7.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mario Lemina (89)** subiu **+58.3%** em 24h, a **190k coins** (faixa do dia: 60k–190k). Está +23% acima da média de 7 dias (aquecida).
+- **Cristian Roldan (94)** subiu **+57.5%** em 24h, a **34k coins** (faixa do dia: 22k–35k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Nabil Bentaleb (86)** subiu **+42.9%** em 24h, a **40k coins** (faixa do dia: 21k–42k). Está +33% acima da média de 7 dias (aquecida).
+- **Declan Rice (94)** subiu **+45%** em 24h, a **225k coins** (faixa do dia: 180k–300k). Está em linha com a média de 7 dias (+5%).
 
-- **Melle Meulensteen (84)** subiu **+37.5%** em 24h, a **40k coins** (faixa do dia: 32k–55k). Está -14% abaixo da média de 7 dias (descontada).
+- **Korbin Shrader (84)** subiu **+43.1%** em 24h, a **45k coins** (faixa do dia: 34k–50k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matheus Dias | 87 | Liga Portugal | 25k coins | -44.9% | -19.5% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -41% | -33% |
-| Elliot Anderson | 89 | Premier League | 94k coins | -39.8% | -30.5% |
-| Rani Khedira | 84 | Bundesliga | 36k coins | -35.2% | -5.7% |
-| Aurélien Tchouaméni | 95 | — | 59k coins | -33% | -77.5% |
-| Victor Lindelöf | 96 | — | 129k coins | -30.6% | -41.6% |
-| Nicolas Madsen | 84 | EFL Championship | 40k coins | -25.3% | -25.3% |
-| Ryan Gravenberch | 87 | Premier League | 70k coins | -25% | -11.3% |
-| Jaelin Howell | 89 | NWSL | 21k coins | -23.4% | -35.6% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 60k coins | -22.4% | +30.8% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 50k coins | -47.4% | -35.1% |
+| Matheus Dias | 87 | Liga Portugal | 25k coins | -45.7% | -21.9% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -41% | -33.7% |
+| Franck Yannick Kessié | 95 | — | 28k coins | -37.3% | -38.3% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 31k coins | -33.7% | -33.7% |
+| Patrick Berg | 95 | — | 44k coins | -33.2% | +5.3% |
+| Aurélien Tchouaméni | 95 | — | 62k coins | -31.8% | -79.3% |
+| Dunga | 87 | Icons | 109k coins | -29.4% | +69.9% |
+| Lewis Wing | 86 | 2. Bundesliga | 35k coins | -28.9% | -12.5% |
+| Stephen Eustáquio | 95 | — | 34k coins | -28.3% | -45.3% |
 
 
 ### Análise das baixas
 
-- **Matheus Dias (87)** caiu **-44.9%** em 24h, a **25k coins** (faixa do dia: 16.500–49k). Está -24% abaixo da média de 7 dias (descontada).
+- **İsmail Yüksek (83)** caiu **-47.4%** em 24h, a **50k coins** (faixa do dia: 50k–95k). Está -41% abaixo da média de 7 dias (descontada).
+
+- **Matheus Dias (87)** caiu **-45.7%** em 24h, a **25k coins** (faixa do dia: 16.500–46k). Está -23% abaixo da média de 7 dias (descontada).
 
 - **Javier Mascherano (89)** caiu **-41%** em 24h, a **59k coins** (faixa do dia: 59k–100k). Está -30% abaixo da média de 7 dias (descontada).
-
-- **Elliot Anderson (89)** caiu **-39.8%** em 24h, a **94k coins** (faixa do dia: 94k–157k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mario Lemina já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Cristian Roldan já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Matheus Dias recuou -44.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** İsmail Yüksek recuou -47.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Mario Lemina (89, Trendyol Süper Lig), com +58.3% em 24h, a 190k coins no PC.
+Cristian Roldan (94, sem liga), com +57.5% em 24h, a 34k coins no PC.
 
 **E a maior queda do dia?**
-Matheus Dias (87), -44.9% em 24h, a 25k coins.
+İsmail Yüksek (83), -47.4% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 64 em queda (média 1.61%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 73 em queda (média 0.58%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
