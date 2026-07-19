@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:17:08.000Z
+pubDatetime: 2026-07-19T19:17:07.000Z
 title: "Mercado EA FC em 19/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "İsmail Yüksek (83, Trendyol Süper Lig), com +32.4% em 24h, a 46k coins no Console (PS)."
+    a: "Wouter Burger (87, Bundesliga), com +55.3% em 24h, a 73k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Nabil Bentaleb (86), -35.5% em 24h, a 29k coins."
+    a: "Julie Swierot (90), -47.8% em 24h, a 45k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 87 em queda (média -2.09%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 88 em queda (média -1.88%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **54 subiram** e **87 caíram**, com variação média de **-2.09%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **50 subiram** e **88 caíram**, com variação média de **-1.88%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** İsmail Yüksek (83) **+32.4%** · 🔴 **Maior baixa:** Nabil Bentaleb (86) **-35.5%**
+> 🟢 **Maior alta:** Wouter Burger (87) **+55.3%** · 🔴 **Maior baixa:** Julie Swierot (90) **-47.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 67.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.3% entre as cartas que se moveram; o universo observado reúne 159 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.2% entre as cartas que se moveram; o universo observado reúne 163 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 46k coins | +32.4% | +9.5% |
-| Julia Zigiotti | 84 | Barclays WSL | 34k coins | +30.2% | +102.9% |
-| Granit Xhaka | 89 | Premier League | 49k coins | +29.6% | +32.3% |
-| Matheus Dias | 87 | Liga Portugal | 26k coins | +28.1% | +83.9% |
-| Ibrahim Sangaré | 86 | Premier League | 47k coins | +25.3% | +23.8% |
-| Wouter Burger | 87 | Bundesliga | 74k coins | +23.6% | +112.5% |
-| Esteban Cambiasso | 91 | — | 48k coins | +22.8% | +193.9% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 34k coins | +21.8% | +32.7% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 82k coins | +21.4% | +161.5% |
-| Elliot Anderson | 86 | Premier League | 44k coins | +20% | -8.2% |
+| Wouter Burger | 87 | Bundesliga | 73k coins | +55.3% | +128.1% |
+| Josip Mišić | 85 | Liga Hrvatska | 72k coins | +51.8% | -11.2% |
+| Ryan Gravenberch | 87 | Premier League | 44k coins | +32.9% | +10.5% |
+| Declan Rice | 89 | Premier League | 69k coins | +27.3% | +4.5% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 126k coins | +21.2% | +15.6% |
+| Carlos Baleba | 90 | Premier League | 105k coins | +20.2% | +66.9% |
+| Andrea Pirlo | 91 | Icons | 815k coins | +18.4% | +22.2% |
+| Matheus Dias | 87 | Liga Portugal | 22k coins | +18.2% | +50.7% |
+| Yaya Touré | 87 | Premier League | 570k coins | +15.4% | +26.6% |
+| Aleksandar Stanković | 87 | 1A Pro League | 200k coins | +15.2% | +9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **İsmail Yüksek (83)** subiu **+32.4%** em 24h, a **46k coins** (faixa do dia: 35k–49k). Está em linha com a média de 7 dias (+6%).
+- **Wouter Burger (87)** subiu **+55.3%** em 24h, a **73k coins** (faixa do dia: 39k–138k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Julia Zigiotti (84)** subiu **+30.2%** em 24h, a **34k coins** (faixa do dia: 22k–35k). Está +27% acima da média de 7 dias (aquecida).
+- **Josip Mišić (85)** subiu **+51.8%** em 24h, a **72k coins** (faixa do dia: 52k–92k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Granit Xhaka (89)** subiu **+29.6%** em 24h, a **49k coins** (faixa do dia: 38k–70k). Está -11% abaixo da média de 7 dias (descontada).
+- **Ryan Gravenberch (87)** subiu **+32.9%** em 24h, a **44k coins** (faixa do dia: 31k–80k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 29k coins | -35.5% | +13.2% |
-| Lena Oberdorf | 86 | GPFBL | 38k coins | -29% | -22% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 32k coins | -27.9% | -29.8% |
-| Aurélien Tchouaméni | 96 | — | 25k coins | -27.3% | — |
-| Granit Xhaka | 97 | — | 290k coins | -23.2% | — |
-| Lewis Wing | 86 | 2. Bundesliga | 40k coins | -21.1% | -9% |
-| Claudio Marchisio | 88 | Serie A TIM | 251k coins | -20.8% | -23.2% |
-| Sandro Tonali | 87 | Premier League | 34k coins | -19% | -9.3% |
-| Croix Bethune | 84 | NWSL | 38k coins | -18.6% | -4.2% |
-| João Neves | 88 | Ligue 1 McDonald's | 72k coins | -18.3% | -16.9% |
+| Julie Swierot | 90 | — | 45k coins | -47.8% | +10.6% |
+| Jaelin Howell | 89 | NWSL | 30k coins | -37% | +1.6% |
+| Patri Guijarro | 90 | Liga F | 76k coins | -31.7% | -8.3% |
+| Gilberto Silva | 87 | Premier League | 26k coins | -23.5% | +79.3% |
+| Nicolas Madsen | 84 | EFL Championship | 42k coins | -23.2% | +5.6% |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 35k coins | -22.2% | -11.9% |
+| Croix Bethune | 84 | NWSL | 38k coins | -19.3% | -8.5% |
+| Aurélien Tchouaméni | 96 | — | 25k coins | -18.5% | — |
+| Dunga | 89 | Icons | 115k coins | -17.9% | -11.5% |
+| Frank Rijkaard | 89 | Icons | 116k coins | -16.4% | +16.7% |
 
 
 ### Análise das baixas
 
-- **Nabil Bentaleb (86)** caiu **-35.5%** em 24h, a **29k coins** (faixa do dia: 25k–40k). Está em linha com a média de 7 dias (-2%).
+- **Julie Swierot (90)** caiu **-47.8%** em 24h, a **45k coins** (faixa do dia: 22k–45k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Lena Oberdorf (86)** caiu **-29%** em 24h, a **38k coins** (faixa do dia: 34k–55k). Está -18% abaixo da média de 7 dias (descontada).
+- **Jaelin Howell (89)** caiu **-37%** em 24h, a **30k coins** (faixa do dia: 13.750–39k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Denis Zakaria (85)** caiu **-27.9%** em 24h, a **32k coins** (faixa do dia: 25k–50k). Está -19% abaixo da média de 7 dias (descontada).
+- **Patri Guijarro (90)** caiu **-31.7%** em 24h, a **76k coins** (faixa do dia: 52k–105k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** İsmail Yüksek já avançou 32.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Wouter Burger já avançou 55.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nabil Bentaleb recuou -35.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julie Swierot recuou -47.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-İsmail Yüksek (83, Trendyol Süper Lig), com +32.4% em 24h, a 46k coins no Console (PS).
+Wouter Burger (87, Bundesliga), com +55.3% em 24h, a 73k coins no Console (PS).
 
 **E a maior queda do dia?**
-Nabil Bentaleb (86), -35.5% em 24h, a 29k coins.
+Julie Swierot (90), -47.8% em 24h, a 45k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 87 em queda (média -2.09%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 88 em queda (média -1.88%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:17:19.000Z
+pubDatetime: 2026-07-19T19:17:18.000Z
 title: "Investimentos EA FC: Volantes em 19/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+30.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.6% em 24h** e **+20.4% em 7 dias**.
+- **8 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | David Ayala | 91 | — | 40k coins | +33.3% | +81.8% | Esticada |
-| James Garner | 90 | — | 45k coins | +6.5% | +78.2% | Esticada |
-| Julie Swierot | 90 | — | 45k coins | +15.2% | +71.2% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 63k coins | +40% | +70.3% | Esticada |
-| Granit Xhaka | 91 | — | 40k coins | +1.2% | +63.5% | Esticada |
-| Declan Rice | 89 | Premier League | 109k coins | +22.5% | +47.3% | Esticada |
-| Dominique Janssen | 89 | Barclays WSL | 24k coins | +14.1% | +38.2% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 183k coins | +19.5% | +30.5% | Momentum moderado |
-| Taylor Flint | 88 | NWSL | 220k coins | +8.9% | +26.4% | Momentum moderado |
-| Elliot Anderson | 89 | Premier League | 161k coins | +12.2% | +23.1% | Momentum moderado |
-| Kenza Dali | 94 | — | 32k coins | +15.5% | +21% | Momentum moderado |
-| Melle Meulensteen | 84 | Eredivisie | 49k coins | +10.3% | +19.4% | Momentum moderado |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 88k coins | +7.1% | +16.9% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 84k coins | +3.6% | +16% | Entrada a observar |
-| Gennaro Gattuso | 86 | Icons | 92k coins | +12% | +14.7% | Momentum moderado |
+| James Garner | 90 | — | 45k coins | +9.1% | +80% | Esticada |
+| Georgia Stanway | 88 | Liga F | 64k coins | +29% | +46.6% | Esticada |
+| Emily van Egmond | 88 | Barclays WSL | 64k coins | +3.1% | +33% | Momentum moderado |
+| Dunga | 87 | Icons | 104k coins | +26.2% | +32.5% | Esticada |
+| Aleksandar Pavlović | 94 | — | 15.000 coins | +3.4% | +25% | Entrada a observar |
+| Kenza Dali | 94 | — | 32k coins | +27% | +21% | Esticada |
+| Rúben Neves | 95 | — | 56k coins | +37.5% | +19.8% | Esticada |
+| Declan Rice | 94 | Premier League | 236k coins | +15% | +15% | Momentum moderado |
+| Elliot Anderson | 89 | Premier League | 140k coins | +11.7% | +12.5% | Momentum moderado |
+| Dominique Janssen | 89 | Barclays WSL | 26k coins | +4.5% | +12.2% | Entrada a observar |
+| Gennaro Gattuso | 86 | Icons | 90k coins | +10.4% | +11% | Momentum moderado |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 37k coins | +20.3% | +8.9% | Esticada |
+| Frank Rijkaard | 89 | Icons | 140k coins | +21.7% | +7.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **David Ayala (91)** — 40k coins, **+81.8% em 7 dias** (+33.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Ayala (91)** — 40k coins, **+81.8% em 7 dias** (+33.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 45k coins, **+78.2% em 7 dias** (+6.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Garner (90)** — 45k coins, **+80% em 7 dias** (+9.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Swierot (90)** — 45k coins, **+71.2% em 7 dias** (+15.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 64k coins, **+46.6% em 7 dias** (+29% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 63k coins, **+70.3% em 7 dias** (+40% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emily van Egmond (88)** — 64k coins, **+33% em 7 dias** (+3.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (91)** — 40k coins, **+63.5% em 7 dias** (+1.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dunga (87)** — 104k coins, **+32.5% em 7 dias** (+26.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
