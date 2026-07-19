@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:17:07.000Z
+pubDatetime: 2026-07-19T13:17:07.000Z
 title: "Mercado EA FC em 19/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Julie Swierot (90, sem liga), com +49.2% em 24h, a 44k coins no Console (PS)."
+    a: "Julia Zigiotti (84, Barclays WSL), com +31.1% em 24h, a 35k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Granit Xhaka (89), -45.7% em 24h, a 65k coins."
+    a: "Patrick Berg (95), -37.1% em 24h, a 25k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 85 em queda (média -0.69%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 51 cartas em alta contra 84 em queda (média -2.29%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **62 subiram** e **85 caíram**, com variação média de **-0.69%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **84 caíram**, com variação média de **-2.29%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Julie Swierot (90) **+49.2%** · 🔴 **Maior baixa:** Granit Xhaka (89) **-45.7%**
+> 🟢 **Maior alta:** Julia Zigiotti (84) **+31.1%** · 🔴 **Maior baixa:** Patrick Berg (95) **-37.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.2% entre as cartas que se moveram; o universo observado reúne 163 cartas.
+- **Amplitude do dia:** 68.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.8% entre as cartas que se moveram; o universo observado reúne 157 cartas.
 - **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julie Swierot | 90 | — | 44k coins | +49.2% | +129.5% |
-| Sandro Tonali | 88 | Premier League | 287k coins | +45% | +7.4% |
-| Ryan Gravenberch | 87 | Premier League | 58k coins | +44.2% | +35% |
-| Ramires | 86 | Premier League | 138k coins | +29.6% | +46.1% |
-| Angelo Stiller | 91 | Bundesliga | 38k coins | +29.4% | +83.3% |
-| Yaya Touré | 87 | Premier League | 622k coins | +28.2% | +32.6% |
-| Felix Nmecha | 95 | — | 45k coins | +27.5% | -4.7% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 46k coins | +27.4% | +28.2% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 140k coins | +26.1% | +2.7% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 52k coins | +25.6% | +55.4% |
+| Julia Zigiotti | 84 | Barclays WSL | 35k coins | +31.1% | +104.4% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 49k coins | +30.7% | +9.5% |
+| Sandro Tonali | 88 | Premier League | 287k coins | +30.5% | +6.3% |
+| Gennaro Gattuso | 86 | Icons | 92k coins | +26.1% | +30.3% |
+| Elliot Anderson | 86 | Premier League | 47k coins | +26% | -1% |
+| Yaya Touré | 87 | Premier League | 620k coins | +25.5% | +32.2% |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 46k coins | +23% | +39.6% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 105k coins | +22.8% | +75% |
+| Natalia Ramos | 87 | — | 38k coins | +19.7% | +13.9% |
+| Aleksandar Stanković | 87 | 1A Pro League | 219k coins | +19.7% | +17.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Julie Swierot (90)** subiu **+49.2%** em 24h, a **44k coins** (faixa do dia: 25k–45k). Está +30% acima da média de 7 dias (aquecida).
+- **Julia Zigiotti (84)** subiu **+31.1%** em 24h, a **35k coins** (faixa do dia: 22k–40k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Sandro Tonali (88)** subiu **+45%** em 24h, a **287k coins** (faixa do dia: 177k–290k). Está em linha com a média de 7 dias (+4%).
+- **İsmail Yüksek (83)** subiu **+30.7%** em 24h, a **49k coins** (faixa do dia: 35k–49k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Ryan Gravenberch (87)** subiu **+44.2%** em 24h, a **58k coins** (faixa do dia: 33k–85k). Está +17% acima da média de 7 dias (aquecida).
+- **Sandro Tonali (88)** subiu **+30.5%** em 24h, a **287k coins** (faixa do dia: 220k–290k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 65k coins | -45.7% | -20% |
-| Billy Gilmour | 87 | Serie A TIM | 24k coins | -40.8% | -40.1% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 88k coins | -39.9% | +98.4% |
-| Aurélien Tchouaméni | 96 | — | 25k coins | -36.9% | — |
-| Aurélien Tchouaméni | 92 | — | 122k coins | -31.6% | -61.4% |
-| Patri Guijarro | 91 | Liga F | 90k coins | -28.3% | +114.1% |
-| Manuel Locatelli | 86 | Serie A TIM | 40k coins | -23.6% | +10.5% |
-| Richard Ríos | 87 | Liga Portugal | 285k coins | -22.1% | +81.5% |
-| Claude Makélélé | 87 | Icons | 74k coins | -21.1% | +7.1% |
-| Victor Lindelöf | 96 | — | 94k coins | -19.7% | -32.9% |
+| Patrick Berg | 95 | — | 25k coins | -37.1% | -46% |
+| Gilberto Silva | 87 | Premier League | 38k coins | -31.4% | +87.9% |
+| Aurélien Tchouaméni | 92 | — | 117k coins | -31.4% | -58.5% |
+| Aurélien Tchouaméni | 96 | — | 25k coins | -30.3% | — |
+| Granit Xhaka | 97 | — | 295k coins | -28.9% | — |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 34k coins | -24.3% | -22.2% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 199k coins | -20.6% | -26.5% |
+| Richard Ríos | 87 | Liga Portugal | 278k coins | -19.7% | +77.1% |
+| Ryan Wintle | 94 | — | 21k coins | -16.2% | -9.8% |
+| Moisés Caicedo | 88 | Premier League | 42k coins | -15.5% | +7.6% |
 
 
 ### Análise das baixas
 
-- **Granit Xhaka (89)** caiu **-45.7%** em 24h, a **65k coins** (faixa do dia: 38k–70k). Está +20% acima da média de 7 dias (aquecida).
+- **Patrick Berg (95)** caiu **-37.1%** em 24h, a **25k coins** (faixa do dia: 22k–42k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Billy Gilmour (87)** caiu **-40.8%** em 24h, a **24k coins** (faixa do dia: 19.250–47k). Está -26% abaixo da média de 7 dias (descontada).
+- **Gilberto Silva (87)** caiu **-31.4%** em 24h, a **38k coins** (faixa do dia: 27k–40k). Está +52% acima da média de 7 dias (aquecida).
 
-- **Gabriel Sara (89)** caiu **-39.9%** em 24h, a **88k coins** (faixa do dia: 58k–96k). Está +53% acima da média de 7 dias (aquecida).
+- **Aurélien Tchouaméni (92)** caiu **-31.4%** em 24h, a **117k coins** (faixa do dia: 108k–189k). Está -52% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Julie Swierot já avançou 49.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Julia Zigiotti já avançou 31.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Granit Xhaka recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Patrick Berg recuou -37.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Julie Swierot (90, sem liga), com +49.2% em 24h, a 44k coins no Console (PS).
+Julia Zigiotti (84, Barclays WSL), com +31.1% em 24h, a 35k coins no Console (PS).
 
 **E a maior queda do dia?**
-Granit Xhaka (89), -45.7% em 24h, a 65k coins.
+Patrick Berg (95), -37.1% em 24h, a 25k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 85 em queda (média -0.69%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 51 cartas em alta contra 84 em queda (média -2.29%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -130,7 +130,6 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Volantes em 19/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-19-ps/)
 - [Investimentos EA FC: Volantes em 19/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-19-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

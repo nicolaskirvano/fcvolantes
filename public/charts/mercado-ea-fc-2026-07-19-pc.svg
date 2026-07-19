@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Lemina</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Stanković</text>
-<rect x="285" y="153" width="387" height="28" rx="7" fill="#22c55e"/>
-<text x="682" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jorthy Mokio</text>
-<rect x="285" y="211" width="375" height="28" rx="7" fill="#22c55e"/>
-<text x="670" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Tielemans</text>
-<rect x="285" y="269" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Natalia Ramos</text>
-<rect x="285" y="327" width="322" height="28" rx="7" fill="#22c55e"/>
-<text x="617" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="385" width="319" height="28" rx="7" fill="#22c55e"/>
-<text x="614" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nabil Bentaleb</text>
+<rect x="285" y="153" width="353" height="28" rx="7" fill="#22c55e"/>
+<text x="648" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
+<rect x="285" y="211" width="309" height="28" rx="7" fill="#22c55e"/>
+<text x="604" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Natalia Ramos</text>
+<rect x="285" y="269" width="305" height="28" rx="7" fill="#22c55e"/>
+<text x="600" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julia Zigiotti</text>
+<rect x="285" y="327" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lena Oberdorf</text>
+<rect x="285" y="385" width="295" height="28" rx="7" fill="#22c55e"/>
+<text x="590" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.8%</text>
 </svg>
