@@ -5,18 +5,18 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
-<rect x="285" y="95" width="429" height="28" rx="7" fill="#38bdf8"/>
-<text x="724" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
+<rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="153" width="110" height="28" rx="7" fill="#38bdf8"/>
-<text x="405" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.200</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="211" width="75" height="28" rx="7" fill="#38bdf8"/>
-<text x="370" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.200</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="269" width="79" height="28" rx="7" fill="#38bdf8"/>
-<text x="374" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.300</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esteban Cambiasso</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<rect x="285" y="153" width="106" height="28" rx="7" fill="#38bdf8"/>
+<text x="401" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.100</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="211" width="55" height="28" rx="7" fill="#38bdf8"/>
+<text x="350" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.600</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
+<rect x="285" y="269" width="72" height="28" rx="7" fill="#38bdf8"/>
+<text x="367" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.100</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aurélien Tchouaméni</text>
+<rect x="285" y="327" width="65" height="28" rx="7" fill="#38bdf8"/>
+<text x="360" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.900</text>
 </svg>
