@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:17:10.000Z
+pubDatetime: 2026-07-20T16:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.125 coins.
-- **Posição mais frequente:** CDM, com 4 cartas.
-- **Faixa real:** 3.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 10.200 coins.
+- **Posição mais frequente:** CDM, com 6 cartas.
+- **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,20 +41,24 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | +1.9% |
-| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 13.500 coins | -2.5% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.500 coins | -1.7% |
-| Zubimendi | 83 | CDM | LALIGA EA SPORTS | 3.000 coins | +52.9% |
+| Peer Koopmeiners | 89 | CDM | — | 14.750 coins | +13.5% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14.000 coins | +1.6% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13.750 coins | -3.3% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3.300 coins | +7.1% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 1.900 coins | -9.5% |
 
 
 ## 📈 Destaques
 
 - **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.500 coins**
 
-- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Peer Koopmeiners (89, CDM)** da —, a apenas **14.750 coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14.000 coins**
 
-- **Zubimendi (83, CDM)** da LALIGA EA SPORTS, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
