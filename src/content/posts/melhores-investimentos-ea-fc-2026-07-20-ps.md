@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:17:09.000Z
+pubDatetime: 2026-07-20T13:17:09.000Z
 title: "Investimentos EA FC: Volantes em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Denise O'Sullivan (91, Barclays WSL) lidera, com +83.5% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (90, Liga F) lidera, com +87.8% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Denise O'Sullivan (91) acumula **+83.5% em 7 dias** a 88k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+87.8% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.0% em 24h** e **+30.4% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.0% em 24h** e **+20.1% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Denise O'Sullivan | 91 | Barclays WSL | 88k coins | +4.1% | +83.5% | Esticada |
-| Ryan Christie | 90 | Premier League | 55k coins | +16.4% | +58.3% | Momentum moderado |
-| Ramires | 86 | Premier League | 138k coins | +2.2% | +57.3% | Momentum moderado |
-| Julia Zigiotti | 84 | Barclays WSL | 35k coins | +14.8% | +52.2% | Momentum moderado |
-| Carlos Baleba | 90 | Premier League | 117k coins | +6.4% | +36.8% | Momentum moderado |
-| Frank Rijkaard | 89 | Icons | 129k coins | +3.1% | +32% | Momentum moderado |
-| Jaelin Howell | 89 | NWSL | 24k coins | +7% | +30.5% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 206k coins | +15.1% | +30.4% | Momentum moderado |
-| Angelo Stiller | 85 | Bundesliga | 22k coins | +1.2% | +27.9% | Momentum moderado |
-| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +13.2% | +25% | Momentum moderado |
-| Sandro Tonali | 87 | Premier League | 39k coins | +21.2% | +23.5% | Esticada |
-| Taylor Flint | 88 | NWSL | 158k coins | +7.5% | +23.4% | Momentum moderado |
-| Michaël Essien | 86 | Icons | 78k coins | +6.2% | +22.3% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 51k coins | +28.2% | +22% | Esticada |
-| Jorthy Mokio | 86 | Eredivisie | 20k coins | +3.8% | +19.6% | Entrada a observar |
+| Patri Guijarro | 90 | Liga F | 90k coins | +15% | +87.8% | Esticada |
+| Ryan Christie | 90 | Premier League | 54k coins | +16.4% | +63% | Esticada |
+| Ramires | 86 | Premier League | 128k coins | +17.3% | +51.8% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 98k coins | +5.4% | +36.8% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 241k coins | +10.2% | +28% | Momentum moderado |
+| Kevin De Bruyne | 89 | Serie A TIM | 120k coins | +24% | +24% | Esticada |
+| Jorthy Mokio | 86 | Eredivisie | 29k coins | +2.8% | +22% | Entrada a observar |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +32.6% | +20.1% | Esticada |
+| Ryan Gravenberch | 87 | Premier League | 44k coins | +15.2% | +19.2% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +25.3% | +19% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 214k coins | +10.4% | +15.4% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 39k coins | +11.1% | +15.1% | Momentum moderado |
+| Moisés Caicedo | 88 | Premier League | 46k coins | +13% | +15.1% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 46k coins | +18.1% | +13.7% | Momentum moderado |
+| Michaël Essien | 86 | Icons | 74k coins | +2.7% | +11.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Denise O'Sullivan (91)** — 88k coins, **+83.5% em 7 dias** (+4.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 90k coins, **+87.8% em 7 dias** (+15% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Christie (90)** — 55k coins, **+58.3% em 7 dias** (+16.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Christie (90)** — 54k coins, **+63% em 7 dias** (+16.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramires (86)** — 138k coins, **+57.3% em 7 dias** (+2.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ramires (86)** — 128k coins, **+51.8% em 7 dias** (+17.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julia Zigiotti (84)** — 35k coins, **+52.2% em 7 dias** (+14.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 98k coins, **+36.8% em 7 dias** (+5.4% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Baleba (90)** — 117k coins, **+36.8% em 7 dias** (+6.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (89)** — 241k coins, **+28% em 7 dias** (+10.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Denise O'Sullivan (91, Barclays WSL) lidera, com +83.5% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (90, Liga F) lidera, com +87.8% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
