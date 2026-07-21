@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:17:08.000Z
+pubDatetime: 2026-07-21T13:17:09.000Z
 title: "Investimentos EA FC: Volantes em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +80.9% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mario Lemina (89, Trendyol Süper Lig) lidera, com +57.7% em 7 dias a 127k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mattéo Guendouzi (91) acumula **+80.9% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mario Lemina (89) acumula **+57.7% em 7 dias** a 127k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.1% em 24h** e **+33.8% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.9% em 24h** e **+29.1% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 60k coins | +12.8% | +80.9% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 24k coins | +1.1% | +72.7% | Esticada |
-| Patri Guijarro | 91 | Liga F | 96k coins | +15.3% | +68.6% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 56k coins | +38.3% | +61.2% | Esticada |
-| Ramires | 86 | Premier League | 140k coins | +4.3% | +54.8% | Momentum moderado |
-| Esteban Cambiasso | 91 | — | 34k coins | +5.2% | +45.5% | Momentum moderado |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 20k coins | +34.3% | +42.4% | Esticada |
-| Gennaro Gattuso | 86 | Icons | 111k coins | +23% | +33.8% | Esticada |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +3.8% | +31% | Momentum moderado |
-| Sandro Tonali | 87 | Premier League | 46k coins | +28.3% | +30% | Esticada |
-| Julia Zigiotti | 84 | Barclays WSL | 44k coins | +36.4% | +29.1% | Esticada |
-| Josip Mišić | 85 | Liga Hrvatska | 91k coins | +6.4% | +24.7% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 125k coins | +16.2% | +23.2% | Momentum moderado |
-| Ryan Gravenberch | 93 | Premier League | 140k coins | +13.1% | +19.2% | Momentum moderado |
-| Kevin De Bruyne | 89 | Serie A TIM | 146k coins | +6.7% | +18.5% | Momentum moderado |
+| Mario Lemina | 89 | Trendyol Süper Lig | 127k coins | +27.8% | +57.7% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 48k coins | +28.4% | +51.8% | Esticada |
+| Angelo Stiller | 85 | Bundesliga | 26k coins | +25.9% | +48.6% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 58k coins | +30.1% | +35.2% | Esticada |
+| Matheus Dias | 87 | Liga Portugal | 24k coins | +4.3% | +34.2% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 121k coins | +26.5% | +31.2% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 140k coins | +8.5% | +29.6% | Momentum moderado |
+| Julia Zigiotti | 84 | Barclays WSL | 48k coins | +36.4% | +29.1% | Esticada |
+| Sandro Tonali | 91 | Premier League | 139k coins | +25% | +26.9% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 90k coins | +30.7% | +23.6% | Esticada |
+| Sandro Tonali | 87 | Premier League | 70k coins | +17.1% | +23.3% | Momentum moderado |
+| Granit Xhaka | 89 | Premier League | 47k coins | +31.5% | +20.6% | Esticada |
+| Josip Mišić | 85 | Liga Hrvatska | 89k coins | +4.1% | +20.3% | Entrada a observar |
+| Ryan Yates | 85 | Premier League | 28k coins | +5.5% | +13.7% | Momentum moderado |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 192k coins | +7.9% | +12.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mattéo Guendouzi (91)** — 60k coins, **+80.9% em 7 dias** (+12.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mario Lemina (89)** — 127k coins, **+57.7% em 7 dias** (+27.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofie Junge Pedersen (86)** — 24k coins, **+72.7% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 48k coins, **+51.8% em 7 dias** (+28.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (91)** — 96k coins, **+68.6% em 7 dias** (+15.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (85)** — 26k coins, **+48.6% em 7 dias** (+25.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 56k coins, **+61.2% em 7 dias** (+38.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 58k coins, **+35.2% em 7 dias** (+30.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramires (86)** — 140k coins, **+54.8% em 7 dias** (+4.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matheus Dias (87)** — 24k coins, **+34.2% em 7 dias** (+4.3% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +80.9% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mario Lemina (89, Trendyol Süper Lig) lidera, com +57.7% em 7 dias a 127k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

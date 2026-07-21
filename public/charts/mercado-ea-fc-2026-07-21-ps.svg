@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Adam Wharton</text>
-<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
-<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="211" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="269" width="448" height="28" rx="7" fill="#22c55e"/>
-<text x="743" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Lemina</text>
-<rect x="285" y="327" width="440" height="28" rx="7" fill="#22c55e"/>
-<text x="735" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Lenini</text>
-<rect x="285" y="385" width="358" height="28" rx="7" fill="#22c55e"/>
-<text x="653" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
+<rect x="285" y="153" width="472" height="28" rx="7" fill="#22c55e"/>
+<text x="767" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edson Álvarez</text>
+<rect x="285" y="211" width="445" height="28" rx="7" fill="#22c55e"/>
+<text x="740" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
+<rect x="285" y="269" width="405" height="28" rx="7" fill="#22c55e"/>
+<text x="700" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lena Oberdorf</text>
+<rect x="285" y="327" width="371" height="28" rx="7" fill="#22c55e"/>
+<text x="666" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julia Zigiotti</text>
+<rect x="285" y="385" width="329" height="28" rx="7" fill="#22c55e"/>
+<text x="624" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
 </svg>
