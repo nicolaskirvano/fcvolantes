@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Lemina</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Casemiro</text>
-<rect x="285" y="153" width="432" height="28" rx="7" fill="#22c55e"/>
-<text x="727" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.0%</text>
+<rect x="285" y="153" width="393" height="28" rx="7" fill="#22c55e"/>
+<text x="688" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.0%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ahmed Fathi</text>
-<rect x="285" y="211" width="372" height="28" rx="7" fill="#22c55e"/>
-<text x="667" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
+<rect x="285" y="211" width="326" height="28" rx="7" fill="#22c55e"/>
+<text x="621" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.3%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moisés Caicedo</text>
-<rect x="285" y="269" width="345" height="28" rx="7" fill="#22c55e"/>
-<text x="640" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
-<rect x="285" y="327" width="323" height="28" rx="7" fill="#22c55e"/>
-<text x="618" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matt Grimes</text>
-<rect x="285" y="385" width="298" height="28" rx="7" fill="#22c55e"/>
-<text x="593" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.0%</text>
+<rect x="285" y="269" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico González</text>
+<rect x="285" y="327" width="291" height="28" rx="7" fill="#22c55e"/>
+<text x="586" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
+<rect x="285" y="385" width="284" height="28" rx="7" fill="#22c55e"/>
+<text x="579" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
 </svg>

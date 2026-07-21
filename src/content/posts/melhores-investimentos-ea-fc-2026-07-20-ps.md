@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:17:09.000Z
+pubDatetime: 2026-07-21T01:17:09.000Z
 title: "Investimentos EA FC: Volantes em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Granit Xhaka (91, sem liga) lidera, com +84.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +69.1% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Granit Xhaka (91) acumula **+84.3% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mattéo Guendouzi (91) acumula **+69.1% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+26.5% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.2% em 24h** e **+20.5% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 91 | — | 45k coins | +6.5% | +84.3% | Esticada |
-| Elliot Anderson | 89 | Premier League | 125k coins | +31.2% | +63.4% | Esticada |
-| Julia Zigiotti | 84 | Barclays WSL | 25k coins | +14.8% | +52.2% | Momentum moderado |
-| Denise O'Sullivan | 85 | NWSL | 24k coins | +29.7% | +41.2% | Esticada |
-| Jorthy Mokio | 86 | Eredivisie | 23k coins | +8.6% | +38.5% | Momentum moderado |
-| Aleksandar Pavlović | 89 | Bundesliga | 25k coins | +9.7% | +37.8% | Momentum moderado |
-| Carlos Baleba | 90 | Premier League | 131k coins | +15.5% | +36.8% | Momentum moderado |
-| Esteban Cambiasso | 86 | Serie A TIM | 15.500 coins | +8.8% | +26.5% | Momentum moderado |
-| Han-Noah Massengo | 84 | Bundesliga | 38k coins | +8.4% | +25.4% | Momentum moderado |
-| Rúben Neves | 86 | Brasileirão | 48k coins | +27.6% | +25.2% | Esticada |
-| Nabil Bentaleb | 87 | — | 40k coins | +15.9% | +15.1% | Momentum moderado |
-| Taylor Flint | 88 | NWSL | 130k coins | +9.6% | +15.1% | Momentum moderado |
-| Angelo Stiller | 85 | Bundesliga | 22k coins | +14.7% | +14.7% | Momentum moderado |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 44k coins | +10.1% | +13.2% | Momentum moderado |
-| Ryan Gravenberch | 93 | Premier League | 128k coins | +1.5% | +8% | Entrada a observar |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 60k coins | +6.1% | +69.1% | Esticada |
+| Ramires | 86 | Premier League | 125k coins | +1.5% | +68.5% | Esticada |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 44k coins | +11.2% | +50.8% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 52k coins | +30.5% | +47.3% | Esticada |
+| Carlos Baleba | 90 | Premier League | 128k coins | +12.2% | +46.6% | Momentum moderado |
+| Elliot Anderson | 89 | Premier League | 119k coins | +22% | +46.1% | Esticada |
+| Sandro Tonali | 87 | Premier League | 40k coins | +21.1% | +21.9% | Esticada |
+| Melle Meulensteen | 84 | Eredivisie | 47k coins | +18.2% | +20.5% | Momentum moderado |
+| Angelo Stiller | 85 | Bundesliga | 28k coins | +27.9% | +17.6% | Esticada |
+| Ryan Gravenberch | 87 | Premier League | 45k coins | +28.9% | +14.4% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 78k coins | +5.7% | +13.7% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 39k coins | +12.9% | +12.1% | Momentum moderado |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 40k coins | +1.3% | +11.1% | Entrada a observar |
+| Ibrahim Sangaré | 86 | Premier League | 54k coins | +12% | +10.9% | Momentum moderado |
+| Elliot Anderson | 96 | — | 94k coins | +6.2% | +6.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Granit Xhaka (91)** — 45k coins, **+84.3% em 7 dias** (+6.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mattéo Guendouzi (91)** — 60k coins, **+69.1% em 7 dias** (+6.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elliot Anderson (89)** — 125k coins, **+63.4% em 7 dias** (+31.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ramires (86)** — 125k coins, **+68.5% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julia Zigiotti (84)** — 25k coins, **+52.2% em 7 dias** (+14.8% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edson Álvarez (86)** — 44k coins, **+50.8% em 7 dias** (+11.2% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denise O'Sullivan (85)** — 24k coins, **+41.2% em 7 dias** (+29.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 52k coins, **+47.3% em 7 dias** (+30.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 23k coins, **+38.5% em 7 dias** (+8.6% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 128k coins, **+46.6% em 7 dias** (+12.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Granit Xhaka (91, sem liga) lidera, com +84.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +69.1% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

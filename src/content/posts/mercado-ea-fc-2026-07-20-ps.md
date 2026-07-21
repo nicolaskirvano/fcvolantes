@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:17:07.000Z
+pubDatetime: 2026-07-21T01:17:07.000Z
 title: "Mercado EA FC em 20/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Granit Xhaka (89, Premier League), com +37.9% em 24h, a 46k coins no Console (PS)."
+    a: "Rúben Neves (86, Brasileirão), com +45.7% em 24h, a 52k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Elliot Anderson (86), -44% em 24h, a 23k coins."
+    a: "Ramires (88), -48.5% em 24h, a 168k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 69 cartas em alta contra 79 em queda (média -3.14%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 80 cartas em alta contra 53 em queda (média 1.3%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **20/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **69 em alta** e **79 em queda**, média de **-3.14%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **20/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **80 em alta** e **53 em queda**, média de **1.3%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Granit Xhaka (89) **+37.9%** · 🔴 **Maior baixa:** Elliot Anderson (86) **-44%**
+> 🟢 **Maior alta:** Rúben Neves (86) **+45.7%** · 🔴 **Maior baixa:** Ramires (88) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.6% entre as cartas que se moveram; o universo observado reúne 161 cartas.
-- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 60.2% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 46k coins | +37.9% | -9.9% |
-| Elliot Anderson | 89 | Premier League | 125k coins | +31.2% | +63.4% |
-| Denise O'Sullivan | 85 | NWSL | 24k coins | +29.7% | +41.2% |
-| Rúben Neves | 86 | Brasileirão | 48k coins | +27.6% | +25.2% |
-| Daniele De Rossi | 87 | Serie A TIM | 24k coins | +22.3% | -17.9% |
-| Kim Little | 87 | Barclays WSL | 22k coins | +21.1% | -17.9% |
-| Ramires | 93 | — | 329k coins | +18.3% | +10.9% |
-| Nabil Bentaleb | 87 | — | 40k coins | +15.9% | +15.1% |
-| Callum McGregor | 87 | Scottish Premiership | 200k coins | +15.6% | -6.1% |
-| Carlos Baleba | 90 | Premier League | 131k coins | +15.5% | +36.8% |
+| Rúben Neves | 86 | Brasileirão | 52k coins | +45.7% | +31.6% |
+| Felix Nmecha | 86 | Bundesliga | 195k coins | +40.1% | +19.3% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 22k coins | +35.8% | -16.3% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 52k coins | +30.5% | +47.3% |
+| Ryan Gravenberch | 87 | Premier League | 45k coins | +28.9% | +14.4% |
+| Melle Meulensteen | 91 | — | 45k coins | +24.4% | +158.4% |
+| Ryan Yates | 85 | Premier League | 26k coins | +24.1% | +1% |
+| Matt Grimes | 94 | — | 24k coins | +22.5% | +5.4% |
+| Julie Swierot | 90 | — | 54k coins | +22.5% | +172.5% |
+| Elliot Anderson | 89 | Premier League | 119k coins | +22% | +46.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Granit Xhaka (89)** subiu **+37.9%** em 24h, a **46k coins** (faixa do dia: 13.750–66k). Está -11% abaixo da média de 7 dias (descontada).
+- **Rúben Neves (86)** subiu **+45.7%** em 24h, a **52k coins** (faixa do dia: 35k–52k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Elliot Anderson (89)** subiu **+31.2%** em 24h, a **125k coins** (faixa do dia: 99k–144k). Está -9% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** subiu **+40.1%** em 24h, a **195k coins** (faixa do dia: 108k–217k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Denise O'Sullivan (85)** subiu **+29.7%** em 24h, a **24k coins** (faixa do dia: 18.000–24k). Está +11% acima da média de 7 dias (aquecida).
+- **Tyler Morton (83)** subiu **+35.8%** em 24h, a **22k coins** (faixa do dia: 13.250–26k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 86 | Premier League | 23k coins | -44% | -53.3% |
-| Richard Ríos | 87 | Liga Portugal | 130k coins | -43.5% | -36.6% |
-| Ryan Gravenberch | 86 | Premier League | 38k coins | -37.6% | -17% |
-| Nico González | 86 | Premier League | 25k coins | -35.7% | -15.6% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 56k coins | -31.8% | +31.8% |
-| Joshua Kimmich | 90 | Bundesliga | 50k coins | -30.4% | +18.5% |
-| Dunga | 89 | Icons | 112k coins | -29.5% | -37.4% |
-| Casemiro | 89 | Premier League | 235k coins | -27.3% | -27.3% |
-| Ryan Yates | 85 | Premier League | 26k coins | -25.4% | +1% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 23k coins | -25% | -57.7% |
+| Ramires | 88 | Premier League | 168k coins | -48.5% | -41.1% |
+| Elliot Anderson | 86 | Premier League | 34k coins | -44.4% | -50.8% |
+| Richard Ríos | 87 | Liga Portugal | 150k coins | -34.8% | -26.8% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 20k coins | -32.8% | -59.4% |
+| Casemiro | 84 | Premier League | 50k coins | -30.2% | -28.3% |
+| Ramires | 93 | — | 321k coins | -25.5% | -6.6% |
+| Daniele De Rossi | 91 | Serie A TIM | 164k coins | -25.3% | -31.2% |
+| Denise O'Sullivan | 91 | Barclays WSL | 71k coins | -24.7% | +78.8% |
+| Frank Rijkaard | 89 | Icons | 110k coins | -23.5% | -3.4% |
+| Patri Guijarro | 90 | Liga F | 72k coins | -23.3% | +19% |
 
 
 ### Análise das baixas
 
-- **Elliot Anderson (86)** caiu **-44%** em 24h, a **23k coins** (faixa do dia: 23k–48k). Está -45% abaixo da média de 7 dias (descontada).
+- **Ramires (88)** caiu **-48.5%** em 24h, a **168k coins** (faixa do dia: 168k–330k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Richard Ríos (87)** caiu **-43.5%** em 24h, a **130k coins** (faixa do dia: 130k–272k). Está -51% abaixo da média de 7 dias (descontada).
+- **Elliot Anderson (86)** caiu **-44.4%** em 24h, a **34k coins** (faixa do dia: 23k–48k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Ryan Gravenberch (86)** caiu **-37.6%** em 24h, a **38k coins** (faixa do dia: 38k–63k). Está -20% abaixo da média de 7 dias (descontada).
+- **Richard Ríos (87)** caiu **-34.8%** em 24h, a **150k coins** (faixa do dia: 130k–217k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Granit Xhaka já avançou 37.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rúben Neves já avançou 45.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Elliot Anderson recuou -44%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ramires recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Granit Xhaka (89, Premier League), com +37.9% em 24h, a 46k coins no Console (PS).
+Rúben Neves (86, Brasileirão), com +45.7% em 24h, a 52k coins no Console (PS).
 
 **E a maior queda do dia?**
-Elliot Anderson (86), -44% em 24h, a 23k coins.
+Ramires (88), -48.5% em 24h, a 168k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 69 cartas em alta contra 79 em queda (média -3.14%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 80 cartas em alta contra 53 em queda (média 1.3%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
