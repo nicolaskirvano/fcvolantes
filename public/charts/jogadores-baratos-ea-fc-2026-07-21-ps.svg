@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="153" width="120" height="28" rx="7" fill="#38bdf8"/>
-<text x="415" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.700</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esteban Cambiasso</text>
-<rect x="285" y="211" width="456" height="28" rx="7" fill="#38bdf8"/>
-<text x="751" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">N&#x27;Golo Kanté</text>
-<rect x="285" y="269" width="107" height="28" rx="7" fill="#38bdf8"/>
-<text x="402" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.300</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominique Janssen</text>
-<rect x="285" y="327" width="52" height="28" rx="7" fill="#38bdf8"/>
-<text x="347" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.600</text>
+<rect x="285" y="153" width="125" height="28" rx="7" fill="#38bdf8"/>
+<text x="420" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.700</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="211" width="84" height="28" rx="7" fill="#38bdf8"/>
+<text x="379" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.500</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esteban Cambiasso</text>
+<rect x="285" y="269" width="455" height="28" rx="7" fill="#38bdf8"/>
+<text x="750" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aurélien Tchouaméni</text>
+<rect x="285" y="327" width="94" height="28" rx="7" fill="#38bdf8"/>
+<text x="389" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.800</text>
 </svg>
