@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:17:07.000Z
+pubDatetime: 2026-07-21T22:17:07.000Z
 title: "Mercado EA FC em 21/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Wouter Burger (87, Bundesliga), com +56% em 24h, a 46k coins no Console (PS)."
+    a: "Sofyan Amrabat (91, LALIGA EA SPORTS), com +56.8% em 24h, a 76k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Elliot Anderson (86), -40.4% em 24h, a 23k coins."
+    a: "Declan Rice (89), -43.8% em 24h, a 48k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 61 cartas em alta contra 58 em queda (média 0.99%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 67 cartas em alta contra 73 em queda (média -0.62%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **21/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **61 cartas subiram** e **58 caíram** (80+ acima de 5k coins), variação média de **0.99%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **21/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **67 cartas subiram** e **73 caíram** (80+ acima de 5k coins), variação média de **-0.62%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Wouter Burger (87) **+56%** · 🔴 **Maior baixa:** Elliot Anderson (86) **-40.4%**
+> 🟢 **Maior alta:** Sofyan Amrabat (91) **+56.8%** · 🔴 **Maior baixa:** Declan Rice (89) **-43.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **21/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.3% entre as cartas que se moveram; o universo observado reúne 132 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.9% entre as cartas que se moveram; o universo observado reúne 153 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wouter Burger | 87 | Bundesliga | 46k coins | +56% | +106.6% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 180k coins | +46% | +206.7% |
-| Billy Gilmour | 87 | Serie A TIM | 32k coins | +34.7% | -7% |
-| Julie Swierot | 90 | — | 55k coins | +31.7% | +124.5% |
-| Kevin Lenini | 95 | — | 42k coins | +28.7% | +35.8% |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 49k coins | +26.5% | +22.5% |
-| Carlos Baleba | 90 | Premier League | 149k coins | +25.2% | +73.3% |
-| Ramires | 88 | Premier League | 241k coins | +22.7% | -9.4% |
-| Aurélien Tchouaméni | 92 | — | 130k coins | +22.6% | -55.2% |
-| Ryan Gravenberch | 86 | Premier League | 47k coins | +21.8% | -2.6% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 76k coins | +56.8% | -0.6% |
+| Ramires | 88 | Premier League | 235k coins | +43.9% | -13.1% |
+| Adam Wharton | 88 | Premier League | 32k coins | +43.6% | +28.3% |
+| Emily van Egmond | 88 | Barclays WSL | 140k coins | +41.4% | +48.1% |
+| Carlos Baleba | 90 | Premier League | 171k coins | +34.1% | +101.2% |
+| Wouter Burger | 87 | Bundesliga | 56k coins | +34.1% | +56.3% |
+| Patrick Berg | 95 | — | 35k coins | +19.8% | -17.3% |
+| Ryan Gravenberch | 86 | Premier League | 46k coins | +19.5% | -6.1% |
+| Sandro Tonali | 91 | Premier League | 124k coins | +17.6% | +32.3% |
+| Casemiro | 84 | Premier League | 58k coins | +17.3% | +10.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **21/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Wouter Burger (87)** subiu **+56%** em 24h, a **46k coins** (faixa do dia: 28k–79k). Está -24% abaixo da média de 7 dias (descontada).
+- **Sofyan Amrabat (91)** subiu **+56.8%** em 24h, a **76k coins** (faixa do dia: 47k–97k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (89)** subiu **+46%** em 24h, a **180k coins** (faixa do dia: 90k–220k). Está +83% acima da média de 7 dias (aquecida).
+- **Ramires (88)** subiu **+43.9%** em 24h, a **235k coins** (faixa do dia: 168k–272k). Está em linha com a média de 7 dias (-7%).
 
-- **Billy Gilmour (87)** subiu **+34.7%** em 24h, a **32k coins** (faixa do dia: 24k–48k). Está em linha com a média de 7 dias (+8%).
+- **Adam Wharton (88)** subiu **+43.6%** em 24h, a **32k coins** (faixa do dia: 20k–50k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 86 | Premier League | 23k coins | -40.4% | -51.8% |
-| Melle Meulensteen | 91 | — | 38k coins | -29.3% | +22.8% |
-| Rúben Neves | 86 | Brasileirão | 35k coins | -29.1% | -10.9% |
-| Matheus Dias | 87 | Liga Portugal | 24k coins | -24.5% | +2.8% |
-| Daniele De Rossi | 91 | Serie A TIM | 140k coins | -24.3% | -36.1% |
-| Nicolas Madsen | 84 | EFL Championship | 40k coins | -20% | -5.3% |
-| Gilberto Silva | 87 | Premier League | 26k coins | -18.8% | +57.6% |
-| Sandro Tonali | 88 | Premier League | 207k coins | -17% | -25.3% |
-| Daniele De Rossi | 95 | — | 344k coins | -16.2% | -41.9% |
-| Patri Guijarro | 90 | Liga F | 50k coins | -15% | -2.9% |
+| Declan Rice | 89 | Premier League | 48k coins | -43.8% | -29.4% |
+| Hakan Çalhanoğlu | 95 | — | 102k coins | -25.8% | -40.1% |
+| Patri Guijarro | 96 | — | 150k coins | -24.3% | -41% |
+| Patri Guijarro | 91 | Liga F | 66k coins | -23.4% | -11.8% |
+| Jordan Henderson | 85 | Premier League | 96k coins | -23.3% | -37.3% |
+| N'Golo Kanté | 96 | — | 140k coins | -21.6% | -35.8% |
+| Kevin Lenini | 95 | — | 34k coins | -21.1% | -20.6% |
+| Rúben Neves | 86 | Brasileirão | 39k coins | -20.4% | 0% |
+| Lena Oberdorf | 86 | GPFBL | 40k coins | -20% | -10.6% |
+| Jorthy Mokio | 84 | Eredivisie | 45k coins | -19% | -1.2% |
 
 
 ### Análise das baixas
 
-- **Elliot Anderson (86)** caiu **-40.4%** em 24h, a **23k coins** (faixa do dia: 23k–46k). Está -42% abaixo da média de 7 dias (descontada).
+- **Declan Rice (89)** caiu **-43.8%** em 24h, a **48k coins** (faixa do dia: 43k–88k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Melle Meulensteen (91)** caiu **-29.3%** em 24h, a **38k coins** (faixa do dia: 35k–50k). Está em linha com a média de 7 dias (-1%).
+- **Hakan Çalhanoğlu (95)** caiu **-25.8%** em 24h, a **102k coins** (faixa do dia: 87k–150k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Rúben Neves (86)** caiu **-29.1%** em 24h, a **35k coins** (faixa do dia: 35k–51k). Está -14% abaixo da média de 7 dias (descontada).
+- **Patri Guijarro (96)** caiu **-24.3%** em 24h, a **150k coins** (faixa do dia: 115k–158k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wouter Burger já avançou 56% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sofyan Amrabat já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Elliot Anderson recuou -40.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Declan Rice recuou -43.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,6 +107,7 @@ O mercado do **EA FC** abre **21/07/2026** no Console (PS) com mercado **lateral
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Volantes em 21/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-21-ps/)
 - [Investimentos EA FC: Volantes em 21/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-21-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -118,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Wouter Burger (87, Bundesliga), com +56% em 24h, a 46k coins no Console (PS).
+Sofyan Amrabat (91, LALIGA EA SPORTS), com +56.8% em 24h, a 76k coins no Console (PS).
 
 **E a maior queda do dia?**
-Elliot Anderson (86), -40.4% em 24h, a 23k coins.
+Declan Rice (89), -43.8% em 24h, a 48k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 61 cartas em alta contra 58 em queda (média 0.99%).
+Hoje o mercado está lateral — sem direção clara, com 67 cartas em alta contra 73 em queda (média -0.62%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

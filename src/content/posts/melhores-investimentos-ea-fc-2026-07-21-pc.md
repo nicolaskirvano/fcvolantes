@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:17:18.000Z
+pubDatetime: 2026-07-21T22:17:18.000Z
 title: "Investimentos EA FC: Volantes em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "James Garner (90, sem liga) lidera, com +73.6% em 7 dias a 39k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Angelo Stiller (91, Bundesliga) lidera, com +58.7% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** James Garner (90) acumula **+73.6% em 7 dias** a 39k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Angelo Stiller (91) acumula **+58.7% em 7 dias** a 56k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+43.6% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.6% em 24h** e **+37.0% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| James Garner | 90 | — | 39k coins | +15% | +73.6% | Esticada |
-| Granit Xhaka | 91 | — | 41k coins | +1.7% | +73.1% | Esticada |
-| Julie Swierot | 90 | — | 40k coins | +16.4% | +71.6% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 64k coins | +21.9% | +70.7% | Esticada |
-| Dunga | 87 | Icons | 106k coins | +17.1% | +60.6% | Esticada |
-| Jaelin Howell | 89 | NWSL | 33k coins | +36.7% | +54% | Esticada |
-| Georgia Stanway | 88 | Liga F | 65k coins | +13.6% | +46.2% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 125k coins | +26.2% | +43.6% | Esticada |
-| Lena Oberdorf | 86 | GPFBL | 53k coins | +10.4% | +40.4% | Momentum moderado |
-| Emily van Egmond | 88 | Barclays WSL | 66k coins | +20.2% | +37% | Esticada |
-| Aleksandar Pavlović | 94 | — | 15.000 coins | +12.3% | +28% | Momentum moderado |
-| Taylor Flint | 88 | NWSL | 250k coins | +11.6% | +24.4% | Momentum moderado |
-| Dunga | 89 | Icons | 160k coins | +8.1% | +23.1% | Momentum moderado |
-| Elliot Anderson | 96 | — | 79k coins | +4.7% | +14.1% | Entrada a observar |
-| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +10.2% | +13.7% | Momentum moderado |
+| Angelo Stiller | 91 | Bundesliga | 56k coins | +19.6% | +58.7% | Momentum moderado |
+| Georgia Stanway | 88 | Liga F | 65k coins | +36.8% | +47.7% | Esticada |
+| Frank Rijkaard | 87 | Icons | 106k coins | +18.6% | +47.5% | Momentum moderado |
+| James Garner | 90 | — | 43k coins | +1.2% | +46.8% | Momentum moderado |
+| Aleksandar Pavlović | 89 | Bundesliga | 54k coins | +34.1% | +45.5% | Esticada |
+| Lena Oberdorf | 86 | GPFBL | 54k coins | +12.5% | +43% | Momentum moderado |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 58k coins | +31.9% | +37.9% | Esticada |
+| Rúben Neves | 86 | Brasileirão | 50k coins | +39.9% | +37% | Esticada |
+| Emily van Egmond | 88 | Barclays WSL | 64k coins | +33% | +33% | Esticada |
+| Piotr Zieliński | 93 | — | 32k coins | +37.2% | +29% | Esticada |
+| Aleksandar Pavlović | 94 | — | 16.000 coins | +5% | +26% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 106k coins | +31.7% | +25.7% | Esticada |
+| Daniele De Rossi | 89 | Serie A TIM | 199k coins | +7.9% | +18.4% | Momentum moderado |
+| Dunga | 89 | Icons | 152k coins | +1.3% | +16.9% | Entrada a observar |
+| Emmanuel Petit | 87 | Icons | 148k coins | +10.4% | +15.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **James Garner (90)** — 39k coins, **+73.6% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 56k coins, **+58.7% em 7 dias** (+19.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (91)** — 41k coins, **+73.1% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (88)** — 65k coins, **+47.7% em 7 dias** (+36.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Swierot (90)** — 40k coins, **+71.6% em 7 dias** (+16.4% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (87)** — 106k coins, **+47.5% em 7 dias** (+18.6% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 64k coins, **+70.7% em 7 dias** (+21.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Garner (90)** — 43k coins, **+46.8% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dunga (87)** — 106k coins, **+60.6% em 7 dias** (+17.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (89)** — 54k coins, **+45.5% em 7 dias** (+34.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-James Garner (90, sem liga) lidera, com +73.6% em 7 dias a 39k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Angelo Stiller (91, Bundesliga) lidera, com +58.7% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
