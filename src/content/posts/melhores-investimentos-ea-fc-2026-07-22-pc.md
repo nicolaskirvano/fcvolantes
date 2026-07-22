@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:38:54.000Z
+pubDatetime: 2026-07-22T10:17:18.000Z
 title: "Investimentos EA FC: Volantes em 22/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.9% em 24h** e **+19.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.6% em 24h** e **+19.6% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 91 | — | 55k coins | +17% | +89.7% | Esticada |
-| Ahmed Fathi | 91 | — | 50k coins | +10.4% | +88.8% | Esticada |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 45k coins | +30.2% | +42% | Esticada |
-| Peer Koopmeiners | 89 | — | 32k coins | +20.2% | +39.3% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 118k coins | +22.6% | +37.1% | Esticada |
+| Melle Meulensteen | 91 | — | 55k coins | +14.6% | +89.7% | Esticada |
+| Ahmed Fathi | 91 | — | 50k coins | +12.2% | +88.8% | Esticada |
 | Sandro Tonali | 91 | Premier League | 170k coins | +24.1% | +34.9% | Esticada |
-| Daniele De Rossi | 89 | Serie A TIM | 177k coins | +4.1% | +29.2% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 130k coins | +18.6% | +32.6% | Momentum moderado |
+| Kevin Lenini | 95 | — | 52k coins | +25.3% | +30.8% | Esticada |
+| Daniele De Rossi | 89 | Serie A TIM | 158k coins | +4.1% | +29.2% | Momentum moderado |
+| Piotr Zieliński | 93 | — | 29k coins | +12% | +19.8% | Momentum moderado |
+| Peer Koopmeiners | 89 | — | 37k coins | +3.2% | +19.6% | Entrada a observar |
 | Taylor Flint | 88 | NWSL | 250k coins | +25% | +19% | Esticada |
-| Claude Makélélé | 87 | Icons | 103k coins | +21.4% | +18.6% | Esticada |
-| Patri Guijarro | 90 | Liga F | 85k coins | +1.2% | +15.6% | Entrada a observar |
-| Patri Guijarro | 91 | Liga F | 75k coins | +26.1% | +15.4% | Esticada |
+| Claude Makélélé | 87 | Icons | 102k coins | +19.8% | +16.4% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 75k coins | +35.1% | +15.4% | Esticada |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 53k coins | +30.9% | +15.2% | Esticada |
 | Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +11.1% | +12.5% | Momentum moderado |
-| Ryan Yates | 92 | — | 94k coins | +18.9% | +10.5% | Momentum moderado |
-| Cristian Roldan | 94 | — | 27k coins | +2.9% | +10.2% | Entrada a observar |
-| Emmanuel Petit | 87 | Icons | 120k coins | +7.1% | +10% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 120k coins | +11.1% | +12.1% | Momentum moderado |
+| Ryan Yates | 92 | — | 70k coins | +18.9% | +10.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Melle Meulensteen (91)** — 55k coins, **+89.7% em 7 dias** (+17% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (91)** — 55k coins, **+89.7% em 7 dias** (+14.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Fathi (91)** — 50k coins, **+88.8% em 7 dias** (+10.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmed Fathi (91)** — 50k coins, **+88.8% em 7 dias** (+12.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nabil Bentaleb (86)** — 45k coins, **+42% em 7 dias** (+30.2% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (91)** — 170k coins, **+34.9% em 7 dias** (+24.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Peer Koopmeiners (89)** — 32k coins, **+39.3% em 7 dias** (+20.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 130k coins, **+32.6% em 7 dias** (+18.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 118k coins, **+37.1% em 7 dias** (+22.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 52k coins, **+30.8% em 7 dias** (+25.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

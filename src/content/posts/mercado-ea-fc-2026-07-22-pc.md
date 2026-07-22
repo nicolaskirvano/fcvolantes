@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:38:53.000Z
+pubDatetime: 2026-07-22T10:17:16.000Z
 title: "Mercado EA FC em 22/07: Volantes — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
     a: "Aurélien Tchouaméni (86, LALIGA EA SPORTS), com +51.7% em 24h, a 741k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Stephen Eustáquio (95), -47.1% em 24h, a 23k coins."
+    a: "Stephen Eustáquio (95), -46.8% em 24h, a 40k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 75 em queda (média 4.21%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 72 em queda (média 5.05%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **53 valorizações** contra **75 quedas** entre as cartas relevantes, com média de **4.21%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **57 valorizações** contra **72 quedas** entre as cartas relevantes, com média de **5.05%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Aurélien Tchouaméni (86) **+51.7%** · 🔴 **Maior baixa:** Stephen Eustáquio (95) **-47.1%**
+> 🟢 **Maior alta:** Aurélien Tchouaméni (86) **+51.7%** · 🔴 **Maior baixa:** Stephen Eustáquio (95) **-46.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,9 +35,9 @@ Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.4% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** Barclays WSL aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.2% entre as cartas que se moveram; o universo observado reúne 159 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -46,13 +46,13 @@ Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 741k coins | +51.7% | 0% |
 | Sandro Tonali | 87 | Premier League | 55k coins | +49.7% | +23.6% |
 | Denise O'Sullivan | 91 | Barclays WSL | 80k coins | +45.5% | +46.8% |
+| Aleksandar Stanković | 87 | 1A Pro League | 155k coins | +41.8% | +20% |
 | Emily van Egmond | 88 | Barclays WSL | 70k coins | +41% | +41% |
-| Amadou Onana | 96 | — | 340k coins | +40.5% | +33.3% |
-| Tommaso Pobega | 83 | Serie A TIM | 40k coins | +37.6% | 0% |
-| Aurélien Tchouaméni | 95 | — | 52k coins | +36.2% | -83.7% |
-| Jorthy Mokio | 86 | Eredivisie | 27k coins | +33.8% | -9.3% |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 45k coins | +30.2% | +42% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 164k coins | +27.9% | +5.3% |
+| Amadou Onana | 96 | — | 319k coins | +40.5% | +33.3% |
+| Aurélien Tchouaméni | 95 | — | 47k coins | +36.2% | -83.7% |
+| Jorthy Mokio | 86 | Eredivisie | 27k coins | +35.4% | -9.3% |
+| Patri Guijarro | 91 | Liga F | 75k coins | +35.1% | +15.4% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 53k coins | +30.9% | +15.2% |
 
 
 ### Análise das altas
@@ -72,23 +72,23 @@ Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | — | 23k coins | -47.1% | -57.8% |
-| Granit Xhaka | 97 | — | 175k coins | -43.7% | — |
+| Stephen Eustáquio | 95 | — | 40k coins | -46.8% | -57.8% |
+| Ayyoub Bouaddi | 95 | — | 24k coins | -43% | -23.7% |
 | Xabi Alonso | 87 | Icons | 66k coins | -42.6% | -16.5% |
-| Ayyoub Bouaddi | 95 | — | 22k coins | -42.4% | -22.9% |
-| Victor Lindelöf | 96 | — | 144k coins | -36.9% | -38.6% |
+| Granit Xhaka | 97 | — | 194k coins | -40.3% | — |
 | Victor Torp | 80 | EFL Championship | 30k coins | -36.8% | -6.2% |
-| João Neves | 97 | — | 364k coins | -36% | -42.2% |
-| Keira Walsh | 89 | Barclays WSL | 22k coins | -34.3% | -5.4% |
+| João Neves | 97 | — | 367k coins | -36.7% | -43.7% |
+| Victor Lindelöf | 96 | — | 140k coins | -36% | -37.7% |
 | Angelo Stiller | 91 | Bundesliga | 43k coins | -34.2% | +25.7% |
-| Aleksandar Pavlović | 89 | Bundesliga | 54k coins | -28.5% | +41.2% |
+| Aleksandar Pavlović | 89 | Bundesliga | 52k coins | -28.9% | +41.2% |
+| Douglas Luiz | 90 | Premier League | 62k coins | -28.9% | +15.2% |
 
 
 ### Análise das baixas
 
-- **Stephen Eustáquio (95)** caiu **-47.1%** em 24h, a **23k coins** (faixa do dia: 23k–43k). Está -57% abaixo da média de 7 dias (descontada).
+- **Stephen Eustáquio (95)** caiu **-46.8%** em 24h, a **40k coins** (faixa do dia: 23k–43k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Granit Xhaka (97)** caiu **-43.7%** em 24h, a **175k coins** (faixa do dia: 171k–300k). Está -47% abaixo da média de 7 dias (descontada).
+- **Ayyoub Bouaddi (95)** caiu **-43%** em 24h, a **24k coins** (faixa do dia: 22k–44k). Está -34% abaixo da média de 7 dias (descontada).
 
 - **Xabi Alonso (87)** caiu **-42.6%** em 24h, a **66k coins** (faixa do dia: 66k–117k). Está -23% abaixo da média de 7 dias (descontada).
 
@@ -97,7 +97,7 @@ Resumo de **22/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 - **Evite perseguir topo:** Aurélien Tchouaméni já avançou 51.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Stephen Eustáquio recuou -47.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Stephen Eustáquio recuou -46.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Aurélien Tchouaméni (86, LALIGA EA SPORTS), com +51.7% em 24h, a 741k coins no PC.
 
 **E a maior queda do dia?**
-Stephen Eustáquio (95), -47.1% em 24h, a 23k coins.
+Stephen Eustáquio (95), -46.8% em 24h, a 40k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 75 em queda (média 4.21%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 72 em queda (média 5.05%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
