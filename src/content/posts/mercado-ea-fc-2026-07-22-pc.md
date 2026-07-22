@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:17:17.000Z
+pubDatetime: 2026-07-22T19:17:17.000Z
 title: "Mercado EA FC em 22/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Rúben Neves (95, sem liga), com +59.6% em 24h, a 85k coins no PC."
+    a: "Dunga (87, Icons), com +58.2% em 24h, a 169k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ayyoub Bouaddi (95), -44.4% em 24h, a 23k coins."
+    a: "Aleksandar Pavlović (89), -45% em 24h, a 34k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 55 cartas em alta contra 85 em queda (média 0.6%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 52 cartas em alta contra 86 em queda (média 1.23%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **22/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **55 valorizações** contra **85 quedas** entre as cartas relevantes, com média de **0.6%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **52 valorizações** contra **86 quedas** entre as cartas relevantes, com média de **1.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rúben Neves (95) **+59.6%** · 🔴 **Maior baixa:** Ayyoub Bouaddi (95) **-44.4%**
+> 🟢 **Maior alta:** Dunga (87) **+58.2%** · 🔴 **Maior baixa:** Aleksandar Pavlović (89) **-45%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.3% entre as cartas que se moveram; o universo observado reúne 170 cartas.
+- **Amplitude do dia:** 103.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.7% entre as cartas que se moveram; o universo observado reúne 164 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rúben Neves | 95 | — | 85k coins | +59.6% | +93.3% |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 92k coins | +54.2% | -61.5% |
-| Aleksandar Stanković | 87 | 1A Pro League | 149k coins | +53.8% | +15.4% |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 735k coins | +50.5% | -0.8% |
-| Denise O'Sullivan | 91 | Barclays WSL | 80k coins | +45.5% | +46.8% |
-| Daniele De Rossi | 87 | Serie A TIM | 29k coins | +37.6% | +0.9% |
-| Sandro Tonali | 87 | Premier League | 49k coins | +37.4% | +13.5% |
+| Dunga | 87 | Icons | 169k coins | +58.2% | +114.8% |
+| Aleksandar Stanković | 87 | 1A Pro League | 140k coins | +55.6% | +13.1% |
+| Rúben Neves | 95 | — | 76k coins | +53% | +77.9% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 732k coins | +49.9% | -1.2% |
+| Denise O'Sullivan | 91 | Barclays WSL | 80k coins | +45.5% | +52.4% |
+| Granit Xhaka | 89 | Premier League | 60k coins | +45.4% | +54.7% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 29k coins | +45% | +70.6% |
+| Kim Little | 87 | Barclays WSL | 36k coins | +41% | -16.9% |
 | Melle Meulensteen | 84 | Eredivisie | 54k coins | +37.1% | -0.9% |
-| Kenza Dali | 94 | — | 44k coins | +36.7% | +1.7% |
-| Dunga | 87 | Icons | 155k coins | +34% | +82.1% |
+| David Ayala | 91 | — | 52k coins | +34.2% | +98.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rúben Neves (95)** subiu **+59.6%** em 24h, a **85k coins** (faixa do dia: 40k–87k). Está +73% acima da média de 7 dias (aquecida).
+- **Dunga (87)** subiu **+58.2%** em 24h, a **169k coins** (faixa do dia: 68k–182k). Está +70% acima da média de 7 dias (aquecida).
 
-- **Pierre-Emile Højbjerg (85)** subiu **+54.2%** em 24h, a **92k coins** (faixa do dia: 50k–92k). Está -57% abaixo da média de 7 dias (descontada).
+- **Aleksandar Stanković (87)** subiu **+55.6%** em 24h, a **140k coins** (faixa do dia: 89k–169k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Aleksandar Stanković (87)** subiu **+53.8%** em 24h, a **149k coins** (faixa do dia: 89k–169k). Está +16% acima da média de 7 dias (aquecida).
+- **Rúben Neves (95)** subiu **+53%** em 24h, a **76k coins** (faixa do dia: 40k–87k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ayyoub Bouaddi | 95 | — | 23k coins | -44.4% | -31.7% |
-| Lena Oberdorf | 86 | GPFBL | 30k coins | -42.3% | -24.5% |
-| Aleksandar Pavlović | 89 | Bundesliga | 35k coins | -41.9% | -10% |
+| Aleksandar Pavlović | 89 | Bundesliga | 34k coins | -45% | -17.5% |
+| Daniele De Rossi | 89 | Serie A TIM | 119k coins | -39.4% | -15.5% |
 | Victor Torp | 80 | EFL Championship | 30k coins | -36.8% | -6.2% |
-| Ryan Christie | 90 | Premier League | 50k coins | -36.7% | +11.1% |
-| Rodri | 99 | — | 3.30M coins | -34% | — |
-| Carlos Baleba | 90 | Premier League | 60k coins | -33.3% | -33.3% |
-| Felix Nmecha | 95 | — | 38k coins | -31.8% | -41.4% |
-| João Neves | 97 | — | 360k coins | -29.5% | -41.5% |
-| Declan Rice | 89 | Premier League | 110k coins | -27.1% | +25.2% |
+| Esteban Cambiasso | 86 | Serie A TIM | 30k coins | -35.1% | +4.3% |
+| N'Golo Kanté | 96 | — | 136k coins | -32% | -45.4% |
+| Ryan Christie | 90 | Premier League | 52k coins | -30.7% | +21.6% |
+| Billy Gilmour | 87 | Serie A TIM | 27k coins | -29.1% | -10.1% |
+| Gilberto Silva | 87 | Premier League | 28k coins | -28.7% | +16.3% |
+| Ryan Gravenberch | 93 | Premier League | 250k coins | -26.5% | +39.7% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 40k coins | -26.2% | +5.2% |
 
 
 ### Análise das baixas
 
-- **Ayyoub Bouaddi (95)** caiu **-44.4%** em 24h, a **23k coins** (faixa do dia: 19.500–40k). Está -35% abaixo da média de 7 dias (descontada).
+- **Aleksandar Pavlović (89)** caiu **-45%** em 24h, a **34k coins** (faixa do dia: 33k–61k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Lena Oberdorf (86)** caiu **-42.3%** em 24h, a **30k coins** (faixa do dia: 30k–54k). Está -35% abaixo da média de 7 dias (descontada).
+- **Daniele De Rossi (89)** caiu **-39.4%** em 24h, a **119k coins** (faixa do dia: 119k–209k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Aleksandar Pavlović (89)** caiu **-41.9%** em 24h, a **35k coins** (faixa do dia: 28k–68k). Está -10% abaixo da média de 7 dias (descontada).
+- **Victor Torp (80)** caiu **-36.8%** em 24h, a **30k coins** (faixa do dia: 30k–48k). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rúben Neves já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dunga já avançou 58.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ayyoub Bouaddi recuou -44.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Aleksandar Pavlović recuou -45%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Rúben Neves (95, sem liga), com +59.6% em 24h, a 85k coins no PC.
+Dunga (87, Icons), com +58.2% em 24h, a 169k coins no PC.
 
 **E a maior queda do dia?**
-Ayyoub Bouaddi (95), -44.4% em 24h, a 23k coins.
+Aleksandar Pavlović (89), -45% em 24h, a 34k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 55 cartas em alta contra 85 em queda (média 0.6%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 52 cartas em alta contra 86 em queda (média 1.23%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
