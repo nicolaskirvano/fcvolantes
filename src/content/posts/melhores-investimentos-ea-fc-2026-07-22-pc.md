@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:17:18.000Z
+pubDatetime: 2026-07-22T13:17:18.000Z
 title: "Investimentos EA FC: Volantes em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Yui Hasegawa (87, Barclays WSL) lidera, com +86.7% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+89.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Yui Hasegawa (87) acumula **+86.7% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+19.6% em 7 dias**.
+- A mediana é de **+15.6% em 24h** e **+39.3% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 91 | — | 55k coins | +14.6% | +89.7% | Esticada |
-| Ahmed Fathi | 91 | — | 50k coins | +12.2% | +88.8% | Esticada |
-| Sandro Tonali | 91 | Premier League | 170k coins | +24.1% | +34.9% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 130k coins | +18.6% | +32.6% | Momentum moderado |
-| Kevin Lenini | 95 | — | 52k coins | +25.3% | +30.8% | Esticada |
-| Daniele De Rossi | 89 | Serie A TIM | 158k coins | +4.1% | +29.2% | Momentum moderado |
-| Piotr Zieliński | 93 | — | 29k coins | +12% | +19.8% | Momentum moderado |
-| Peer Koopmeiners | 89 | — | 37k coins | +3.2% | +19.6% | Entrada a observar |
-| Taylor Flint | 88 | NWSL | 250k coins | +25% | +19% | Esticada |
-| Claude Makélélé | 87 | Icons | 102k coins | +19.8% | +16.4% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 75k coins | +35.1% | +15.4% | Esticada |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 53k coins | +30.9% | +15.2% | Esticada |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +11.1% | +12.5% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 120k coins | +11.1% | +12.1% | Momentum moderado |
-| Ryan Yates | 92 | — | 70k coins | +18.9% | +10.5% | Momentum moderado |
+| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +1.4% | +86.7% | Esticada |
+| Sammy Braybrooke | 91 | — | 47k coins | +15.2% | +72.7% | Esticada |
+| Ahmed Fathi | 91 | — | 40k coins | +12.2% | +65.8% | Esticada |
+| David Ayala | 91 | — | 50k coins | +9.6% | +62.9% | Esticada |
+| Kevin Lenini | 95 | — | 64k coins | +19.6% | +53.5% | Momentum moderado |
+| Granit Xhaka | 91 | — | 44k coins | +10.6% | +52.6% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 70k coins | +6% | +41% | Momentum moderado |
+| Peer Koopmeiners | 89 | — | 37k coins | +8.8% | +39.3% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 170k coins | +24.1% | +36% | Esticada |
+| Dominique Janssen | 89 | Barclays WSL | 29k coins | +16% | +23% | Momentum moderado |
+| Taylor Flint | 88 | NWSL | 249k coins | +25% | +19% | Esticada |
+| Ryan Gravenberch | 86 | Premier League | 90k coins | +15.6% | +18.6% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 115k coins | +22.5% | +15.8% | Esticada |
+| Patri Guijarro | 91 | Liga F | 75k coins | +19% | +15.4% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 40k coins | +19.4% | +15.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Melle Meulensteen (91)** — 55k coins, **+89.7% em 7 dias** (+14.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 70k coins, **+86.7% em 7 dias** (+1.4% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Fathi (91)** — 50k coins, **+88.8% em 7 dias** (+12.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sammy Braybrooke (91)** — 47k coins, **+72.7% em 7 dias** (+15.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (91)** — 170k coins, **+34.9% em 7 dias** (+24.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmed Fathi (91)** — 40k coins, **+65.8% em 7 dias** (+12.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 130k coins, **+32.6% em 7 dias** (+18.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Ayala (91)** — 50k coins, **+62.9% em 7 dias** (+9.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin Lenini (95)** — 52k coins, **+30.8% em 7 dias** (+25.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 64k coins, **+53.5% em 7 dias** (+19.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Yui Hasegawa (87, Barclays WSL) lidera, com +86.7% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
