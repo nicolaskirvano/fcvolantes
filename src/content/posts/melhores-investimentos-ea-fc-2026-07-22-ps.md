@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:17:09.000Z
+pubDatetime: 2026-07-22T22:17:09.000Z
 title: "Investimentos EA FC: Volantes em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Julie Swierot (90, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Melle Meulensteen (91, sem liga) lidera, com +81.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Julie Swierot (90) acumula **+83.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+81.8% em 7 dias** a 50k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.6% em 24h** e **+25.4% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.6% em 24h** e **+33.6% em 7 dias**.
+- **10 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Julie Swierot | 90 | — | 55k coins | +14.6% | +83.3% | Esticada |
-| Melle Meulensteen | 91 | — | 50k coins | +11.1% | +80.2% | Esticada |
-| Wouter Burger | 90 | — | 55k coins | +25% | +77.4% | Esticada |
-| Ryan Christie | 90 | Premier League | 70k coins | +40% | +40% | Esticada |
-| James Garner | 90 | — | 55k coins | +27.9% | +37.5% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 21k coins | +3.7% | +25.4% | Momentum moderado |
-| Ayyoub Bouaddi | 95 | — | 32k coins | +9.5% | +22.1% | Momentum moderado |
-| Billy Gilmour | 87 | Serie A TIM | 44k coins | +38.3% | +20.4% | Esticada |
-| Dunga | 87 | Icons | 82k coins | +17.9% | +19.6% | Momentum moderado |
-| Matheus Dias | 87 | Liga Portugal | 20k coins | +7.1% | +15.4% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 42k coins | +3.7% | +5% | Entrada a observar |
+| Melle Meulensteen | 91 | — | 50k coins | +2.6% | +81.8% | Esticada |
+| Esteban Cambiasso | 91 | — | 52k coins | +21.3% | +80% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 32k coins | +12.6% | +75% | Esticada |
+| James Garner | 90 | — | 60k coins | +26.3% | +50% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 64k coins | +33.3% | +39.5% | Esticada |
+| Granit Xhaka | 91 | — | 49k coins | +20% | +38.5% | Esticada |
+| Douglas Luiz | 90 | Premier League | 45k coins | +35.6% | +34.3% | Esticada |
+| Sofie Junge Pedersen | 86 | Liga F | 22k coins | +22.4% | +32.9% | Esticada |
+| Joshua Kimmich | 90 | Bundesliga | 84k coins | +36.7% | +28.3% | Esticada |
+| Wouter Burger | 90 | — | 55k coins | +5.6% | +25.3% | Momentum moderado |
+| Ryan Christie | 90 | Premier League | 68k coins | +37% | +24.5% | Esticada |
+| Georgia Stanway | 88 | Liga F | 45k coins | +13.9% | +13.9% | Momentum moderado |
+| Ayyoub Bouaddi | 95 | — | 34k coins | +3.5% | +10.3% | Entrada a observar |
+| Angelo Stiller | 94 | — | 27k coins | +14% | +7.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Julie Swierot (90)** — 55k coins, **+83.3% em 7 dias** (+14.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (91)** — 50k coins, **+81.8% em 7 dias** (+2.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melle Meulensteen (91)** — 50k coins, **+80.2% em 7 dias** (+11.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (91)** — 52k coins, **+80% em 7 dias** (+21.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wouter Burger (90)** — 55k coins, **+77.4% em 7 dias** (+25% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 32k coins, **+75% em 7 dias** (+12.6% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Christie (90)** — 70k coins, **+40% em 7 dias** (+40% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Garner (90)** — 60k coins, **+50% em 7 dias** (+26.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 55k coins, **+37.5% em 7 dias** (+27.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 64k coins, **+39.5% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Julie Swierot (90, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Melle Meulensteen (91, sem liga) lidera, com +81.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
