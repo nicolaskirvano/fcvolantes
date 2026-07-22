@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:17:10.000Z
+pubDatetime: 2026-07-22T16:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS)."
+    a: "Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aleksandar Pavlović (94) por apenas 14.750 coins.
+> 💰 **Melhor pechincha:** Aleksandar Pavlović (94) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 22/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-22-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 6.689 coins.
+- **Preço médio das 9 opções:** 3.889 coins.
 - **Posição mais frequente:** CDM, com 9 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 94 | CDM | — | 14.750 coins | +3.4% |
-| Georgia Stanway | 88 | CDM | GPFBL | 14.500 coins | +15.3% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.400 coins | +6.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.500 coins | +41.7% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.750 coins | +3.6% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 1.500 coins | +25% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
-| Manuel Locatelli | 84 | CDM | Serie A Enilive | 2.500 coins | +46.7% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 3.700 coins | +13.3% |
-| Angelo Stiller | 83 | CDM | Bundesliga | 2.500 coins | +18.8% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.100 coins | -13.3% |
+| Manuel Locatelli | 84 | CDM | Serie A Enilive | 2.200 coins | +8.3% |
+| Sjoeke Nüsken | 84 | CDM | Barclays WSL | 2.300 coins | +28.6% |
+| Palhinha | 83 | CDM | Bundesliga | 2.000 coins | -6.7% |
 
 
 ## 📈 Destaques
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Sandro Tonali (86, CDM)** da —, a apenas **3.800 coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14.750 coins**
-
-- **Granit Xhaka (85, CDM)** da Bundesliga, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Georgia Stanway (85, CDM)** da —, a apenas **2.200 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Aleksandar Pavlović (94, CDM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Aleksandar Pavlović (94, CDM) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +85,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS).
+Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
