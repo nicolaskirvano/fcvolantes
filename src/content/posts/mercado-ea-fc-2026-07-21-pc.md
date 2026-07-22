@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:17:17.000Z
+pubDatetime: 2026-07-22T01:17:16.000Z
 title: "Mercado EA FC em 21/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Angelo Stiller (85, Bundesliga), com +49.2% em 24h, a 21k coins no PC."
+    a: "Sandro Tonali (87, Premier League), com +49.7% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Patrick Berg (95), -45.7% em 24h, a 35k coins."
+    a: "Claudio Marchisio (88), -46.6% em 24h, a 209k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 1.72%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 54 cartas em alta contra 80 em queda (média 0.97%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **21/07/2026** no PC com mercado **em alta** — predominam as valorizações: **59 cartas subiram** e **66 caíram** (80+ acima de 5k coins), variação média de **1.72%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **21/07/2026** no PC com mercado **lateral** — sem direção clara: **54 cartas subiram** e **80 caíram** (80+ acima de 5k coins), variação média de **0.97%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Angelo Stiller (85) **+49.2%** · 🔴 **Maior baixa:** Patrick Berg (95) **-45.7%**
+> 🟢 **Maior alta:** Sandro Tonali (87) **+49.7%** · 🔴 **Maior baixa:** Claudio Marchisio (88) **-46.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 152 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.3% entre as cartas que se moveram; o universo observado reúne 157 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 85 | Bundesliga | 21k coins | +49.2% | 0% |
-| Elliot Anderson | 86 | Premier League | 48k coins | +44% | -7.2% |
-| Rúben Neves | 86 | Brasileirão | 50k coins | +39.9% | +37% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 69k coins | +38.9% | -11.3% |
-| Piotr Zieliński | 93 | — | 32k coins | +37.2% | +29% |
-| Georgia Stanway | 88 | Liga F | 65k coins | +36.8% | +47.7% |
-| Billy Gilmour | 87 | Serie A TIM | 35k coins | +34.6% | -10.8% |
-| Aleksandar Pavlović | 89 | Bundesliga | 54k coins | +34.1% | +45.5% |
-| Emily van Egmond | 88 | Barclays WSL | 64k coins | +33% | +33% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 58k coins | +31.9% | +37.9% |
+| Sandro Tonali | 87 | Premier League | 55k coins | +49.7% | +23.6% |
+| Kenza Dali | 94 | — | 46k coins | +45.3% | +0.5% |
+| Georgia Stanway | 88 | Liga F | 58k coins | +36.8% | +47.7% |
+| Melle Meulensteen | 84 | Eredivisie | 49k coins | +32.9% | -0.9% |
+| Billy Gilmour | 87 | Serie A TIM | 34k coins | +32.7% | -5.5% |
+| Natalia Ramos | 87 | — | 47k coins | +32.4% | +11.9% |
+| Rúben Neves | 95 | — | 50k coins | +30.3% | -0.5% |
+| Victor Lindelöf | 96 | — | 167k coins | +30.2% | -23.6% |
+| Rúben Neves | 86 | Brasileirão | 50k coins | +26.6% | +24% |
+| Frank Rijkaard | 87 | Icons | 99k coins | +25.8% | +25% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Angelo Stiller (85)** subiu **+49.2%** em 24h, a **21k coins** (faixa do dia: 14.000–23k). Está em linha com a média de 7 dias (-4%).
+- **Sandro Tonali (87)** subiu **+49.7%** em 24h, a **55k coins** (faixa do dia: 36k–65k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Elliot Anderson (86)** subiu **+44%** em 24h, a **48k coins** (faixa do dia: 19.500–54k). Está +18% acima da média de 7 dias (aquecida).
+- **Kenza Dali (94)** subiu **+45.3%** em 24h, a **46k coins** (faixa do dia: 22k–48k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Rúben Neves (86)** subiu **+39.9%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +28% acima da média de 7 dias (aquecida).
+- **Georgia Stanway (88)** subiu **+36.8%** em 24h, a **58k coins** (faixa do dia: 43k–65k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Berg | 95 | — | 35k coins | -45.7% | -50% |
-| Rodri | 99 | — | 3.70M coins | -43.6% | -19% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 105k coins | -43.5% | -39% |
-| Daniele De Rossi | 91 | Serie A TIM | 209k coins | -41.3% | -29.9% |
-| Claudio Marchisio | 88 | Serie A TIM | 211k coins | -40% | -55.2% |
-| Matheus Dias | 87 | Liga Portugal | 30k coins | -40% | -0.8% |
-| Cristian Roldan | 94 | — | 22k coins | -39.3% | -17.8% |
-| Declan Rice | 91 | Premier League | 345k coins | -36.4% | -34.1% |
-| Manuel Locatelli | 86 | Serie A TIM | 35k coins | -28.2% | -28.2% |
-| David Ayala | 91 | — | 42k coins | -25.2% | +43.9% |
+| Claudio Marchisio | 88 | Serie A TIM | 209k coins | -46.6% | -55% |
+| Stephen Eustáquio | 95 | — | 26k coins | -45.4% | -50% |
+| Youri Tielemans | 96 | — | 265k coins | -45.4% | -24.9% |
+| João Neves | 88 | Ligue 1 McDonald's | 132k coins | -44.8% | -28.6% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 79k coins | -44.6% | +1.4% |
+| Sofie Junge Pedersen | 86 | Liga F | 24k coins | -42.9% | -8.9% |
+| Esteban Cambiasso | 86 | Serie A TIM | 30k coins | -41.1% | -45.6% |
+| Ryan Gravenberch | 86 | Premier League | 72k coins | -41.1% | -24.3% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 113k coins | -38.4% | -31.6% |
+| Kim Little | 87 | Barclays WSL | 24k coins | -33.3% | -52% |
 
 
 ### Análise das baixas
 
-- **Patrick Berg (95)** caiu **-45.7%** em 24h, a **35k coins** (faixa do dia: 32k–70k). Está -39% abaixo da média de 7 dias (descontada).
+- **Claudio Marchisio (88)** caiu **-46.6%** em 24h, a **209k coins** (faixa do dia: 176k–395k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Rodri (99)** caiu **-43.6%** em 24h, a **3.70M coins** (faixa do dia: 3.40M–6.20M). Está -17% abaixo da média de 7 dias (descontada).
+- **Stephen Eustáquio (95)** caiu **-45.4%** em 24h, a **26k coins** (faixa do dia: 26k–50k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (89)** caiu **-43.5%** em 24h, a **105k coins** (faixa do dia: 105k–190k). Está -30% abaixo da média de 7 dias (descontada).
+- **Youri Tielemans (96)** caiu **-45.4%** em 24h, a **265k coins** (faixa do dia: 202k–520k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Angelo Stiller já avançou 49.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sandro Tonali já avançou 49.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Patrick Berg recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Claudio Marchisio recuou -46.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Angelo Stiller (85, Bundesliga), com +49.2% em 24h, a 21k coins no PC.
+Sandro Tonali (87, Premier League), com +49.7% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**
-Patrick Berg (95), -45.7% em 24h, a 35k coins.
+Claudio Marchisio (88), -46.6% em 24h, a 209k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 1.72%).
+Hoje o mercado está lateral — sem direção clara, com 54 cartas em alta contra 80 em queda (média 0.97%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

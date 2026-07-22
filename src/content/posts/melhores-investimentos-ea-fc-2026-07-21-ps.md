@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:17:09.000Z
+pubDatetime: 2026-07-22T01:17:09.000Z
 title: "Investimentos EA FC: Volantes em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "David Ayala (91, sem liga) lidera, com +73% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gilberto Silva (87, Premier League) lidera, com +73.5% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** David Ayala (91) acumula **+73% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gilberto Silva (87) acumula **+73.5% em 7 dias** a 30k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+32.3% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.2% em 24h** e **+25.4% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| David Ayala | 91 | — | 45k coins | +7.5% | +73% | Esticada |
-| Granit Xhaka | 91 | — | 54k coins | +10% | +60% | Esticada |
-| Douglas Luiz | 90 | Premier League | 55k coins | +3.8% | +59.4% | Momentum moderado |
-| Esteban Cambiasso | 91 | — | 44k coins | +4.8% | +57.1% | Momentum moderado |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 64k coins | +6.9% | +56.5% | Momentum moderado |
-| Wouter Burger | 87 | Bundesliga | 56k coins | +34.1% | +56.3% | Esticada |
-| Ryan Christie | 90 | Premier League | 50k coins | +14.9% | +39.9% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 124k coins | +17.6% | +32.3% | Momentum moderado |
-| Dominique Janssen | 89 | Barclays WSL | 28k coins | +14.1% | +29.9% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 15.000 coins | +13% | +27.1% | Momentum moderado |
-| Nico González | 86 | Premier League | 18.000 coins | +30.9% | +20% | Esticada |
-| Joshua Kimmich | 90 | Bundesliga | 98k coins | +9.9% | +16.4% | Momentum moderado |
-| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +16.4% | +11.3% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 192k coins | +15% | +11% | Momentum moderado |
-| Casemiro | 84 | Premier League | 58k coins | +17.3% | +10.3% | Momentum moderado |
+| Gilberto Silva | 87 | Premier League | 30k coins | +5.4% | +73.5% | Esticada |
+| Esteban Cambiasso | 91 | — | 45k coins | +7.1% | +63.6% | Esticada |
+| Granit Xhaka | 91 | — | 48k coins | +14.6% | +63.5% | Esticada |
+| Sandro Tonali | 91 | Premier League | 130k coins | +12.9% | +41.6% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 129k coins | +31% | +37.9% | Esticada |
+| Patri Guijarro | 90 | Liga F | 66k coins | +6.5% | +29.7% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 54k coins | +39.2% | +28.7% | Esticada |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 50k coins | +10.5% | +22% | Momentum moderado |
+| Dunga | 87 | Icons | 74k coins | +4.6% | +18.5% | Entrada a observar |
+| Lewis Wing | 86 | 2. Bundesliga | 46k coins | +28.9% | +14.4% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +17.4% | +10.3% | Momentum moderado |
+| Benjamin André | 92 | — | 24k coins | +15.7% | +6.7% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 23k coins | +13.4% | +5.7% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 45k coins | +12.6% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **David Ayala (91)** — 45k coins, **+73% em 7 dias** (+7.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Silva (87)** — 30k coins, **+73.5% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (91)** — 54k coins, **+60% em 7 dias** (+10% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (91)** — 45k coins, **+63.6% em 7 dias** (+7.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Douglas Luiz (90)** — 55k coins, **+59.4% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 48k coins, **+63.5% em 7 dias** (+14.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Esteban Cambiasso (91)** — 44k coins, **+57.1% em 7 dias** (+4.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (91)** — 130k coins, **+41.6% em 7 dias** (+12.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattéo Guendouzi (91)** — 64k coins, **+56.5% em 7 dias** (+6.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emily van Egmond (88)** — 129k coins, **+37.9% em 7 dias** (+31% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-David Ayala (91, sem liga) lidera, com +73% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gilberto Silva (87, Premier League) lidera, com +73.5% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
