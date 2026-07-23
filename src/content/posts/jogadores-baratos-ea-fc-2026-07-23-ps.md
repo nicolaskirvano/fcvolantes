@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:17:10.000Z
+pubDatetime: 2026-07-23T22:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 6.533 coins.
+- **Preço médio das 6 opções:** 8.400 coins.
 - **Posição mais frequente:** CDM, com 6 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,23 +40,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Hamdy Fathy | 93 | CDM | — | 14.750 coins | -7.6% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14.750 coins | -3.3% |
+| Hamdy Fathy | 93 | CDM | — | 14.750 coins | -9.1% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 1.700 coins | +5.6% |
+| Nico González | 86 | CDM | Premier League | 13.000 coins | +20% |
+| Granit Xhaka | 85 | CDM | Bundesliga | 1.900 coins | 0% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | -8.7% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14.750 coins | +17.2% |
 
 
 ## 📈 Destaques
 
 - **Hamdy Fathy (93, CDM)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Sandro Tonali (86, CDM)** da —, a apenas **3.800 coins**
 
-- **Granit Xhaka (85, CDM)** da Bundesliga, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Nico González (86, CDM)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Granit Xhaka (85, CDM)** da Bundesliga, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Georgia Stanway (85, CDM)** da —, a apenas **2.200 coins**
 
