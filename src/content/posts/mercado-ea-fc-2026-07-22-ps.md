@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:17:07.000Z
+pubDatetime: 2026-07-23T01:17:07.000Z
 title: "Mercado EA FC em 22/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Billy Gilmour (87, Serie A TIM), com +51% em 24h, a 38k coins no Console (PS)."
+    a: "Douglas Luiz (90, Premier League), com +52.4% em 24h, a 80k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Declan Rice (91), -46.2% em 24h, a 181k coins."
+    a: "Julia Zigiotti (84), -48.7% em 24h, a 24k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 55 cartas em alta contra 87 em queda (média -0.62%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 98 em queda (média -3.36%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **22/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **55 valorizações** contra **87 quedas** entre as cartas relevantes, com média de **-0.62%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **22/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **46 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **-3.36%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Billy Gilmour (87) **+51%** · 🔴 **Maior baixa:** Declan Rice (91) **-46.2%**
+> 🟢 **Maior alta:** Douglas Luiz (90) **+52.4%** · 🔴 **Maior baixa:** Julia Zigiotti (84) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no Console (PS): clima **vendedor** — a maioria das c
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.7% entre as cartas que se moveram; o universo observado reúne 156 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 31.9% entre as cartas que se moveram; o universo observado reúne 164 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Billy Gilmour | 87 | Serie A TIM | 38k coins | +51% | +7.5% |
-| Ryan Yates | 92 | — | 68k coins | +47.1% | +98% |
-| Patri Guijarro | 90 | Liga F | 88k coins | +43.4% | +47.1% |
-| Sandro Tonali | 88 | Premier League | 277k coins | +37.4% | -0.7% |
-| Ryan Christie | 90 | Premier League | 68k coins | +37% | +24.5% |
-| Joshua Kimmich | 90 | Bundesliga | 84k coins | +36.7% | +28.3% |
-| Aleksandar Stanković | 87 | 1A Pro League | 171k coins | +32.3% | -15.7% |
-| Daniele De Rossi | 91 | Serie A TIM | 211k coins | +30% | -5.9% |
-| James Garner | 90 | — | 60k coins | +26.3% | +50% |
-| Sammy Braybrooke | 91 | — | 55k coins | +25% | +122.2% |
+| Douglas Luiz | 90 | Premier League | 80k coins | +52.4% | +33.3% |
+| Patri Guijarro | 90 | Liga F | 88k coins | +29.8% | +42.9% |
+| Daniele De Rossi | 91 | Serie A TIM | 220k coins | +29.4% | -0.5% |
+| Esteban Cambiasso | 91 | — | 58k coins | +28.9% | +48.7% |
+| Sofie Junge Pedersen | 86 | Liga F | 21k coins | +28.4% | -13.1% |
+| Aleksandar Pavlović | 89 | Bundesliga | 30k coins | +27.1% | +35.6% |
+| Sammy Braybrooke | 91 | — | 54k coins | +23.6% | +83.3% |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 20k coins | +23.5% | -19.2% |
+| Richard Ríos | 87 | Liga Portugal | 155k coins | +22.3% | -42.4% |
+| James Garner | 90 | — | 60k coins | +20% | +50% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no Console (PS): clima **vendedor** — a maioria das c
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Billy Gilmour (87)** subiu **+51%** em 24h, a **38k coins** (faixa do dia: 22k–60k). Está +26% acima da média de 7 dias (aquecida).
+- **Douglas Luiz (90)** subiu **+52.4%** em 24h, a **80k coins** (faixa do dia: 50k–80k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Ryan Yates (92)** subiu **+47.1%** em 24h, a **68k coins** (faixa do dia: 37k–100k). Está +30% acima da média de 7 dias (aquecida).
+- **Patri Guijarro (90)** subiu **+29.8%** em 24h, a **88k coins** (faixa do dia: 60k–92k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Patri Guijarro (90)** subiu **+43.4%** em 24h, a **88k coins** (faixa do dia: 58k–92k). Está +19% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (91)** subiu **+29.4%** em 24h, a **220k coins** (faixa do dia: 162k–360k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 91 | Premier League | 181k coins | -46.2% | -45% |
-| Aurélien Tchouaméni | 92 | — | 61k coins | -45.6% | -76.9% |
-| Ramires | 88 | Premier League | 155k coins | -42.3% | -51.9% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 74k coins | -40% | +81.6% |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 276k coins | -26.8% | -23.2% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 33k coins | -26.3% | -59.5% |
-| Zubimendi | 99 | — | 401k coins | -22.9% | — |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 100k coins | -22.9% | -37.8% |
-| Daniele De Rossi | 87 | Serie A TIM | 26k coins | -20.3% | -2.9% |
-| Granit Xhaka | 89 | Premier League | 35k coins | -19.9% | -22.4% |
+| Julia Zigiotti | 84 | Barclays WSL | 24k coins | -48.7% | -13.3% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 72k coins | -42.9% | +61.8% |
+| Andrea Pirlo | 91 | Icons | 550k coins | -39.5% | -39% |
+| Claudio Marchisio | 88 | Serie A TIM | 170k coins | -36.1% | -54.1% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 104k coins | -35.4% | -41.9% |
+| Adam Wharton | 96 | — | 588k coins | -33.7% | -39.2% |
+| Moisés Caicedo | 88 | Premier League | 38k coins | -31.5% | -1.2% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 405k coins | -30.4% | -26.9% |
+| Jaelin Howell | 89 | NWSL | 20k coins | -29.2% | -42.9% |
+| Carlos Baleba | 90 | Premier League | 146k coins | -26% | +64.1% |
 
 
 ### Análise das baixas
 
-- **Declan Rice (91)** caiu **-46.2%** em 24h, a **181k coins** (faixa do dia: 150k–324k). Está -35% abaixo da média de 7 dias (descontada).
+- **Julia Zigiotti (84)** caiu **-48.7%** em 24h, a **24k coins** (faixa do dia: 12.000–48k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (92)** caiu **-45.6%** em 24h, a **61k coins** (faixa do dia: 61k–126k). Está -62% abaixo da média de 7 dias (descontada).
+- **Mario Lemina (89)** caiu **-42.9%** em 24h, a **72k coins** (faixa do dia: 70k–115k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Ramires (88)** caiu **-42.3%** em 24h, a **155k coins** (faixa do dia: 136k–409k). Está -35% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (91)** caiu **-39.5%** em 24h, a **550k coins** (faixa do dia: 464k–900k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Billy Gilmour já avançou 51% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Douglas Luiz já avançou 52.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Declan Rice recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julia Zigiotti recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Billy Gilmour (87, Serie A TIM), com +51% em 24h, a 38k coins no Console (PS).
+Douglas Luiz (90, Premier League), com +52.4% em 24h, a 80k coins no Console (PS).
 
 **E a maior queda do dia?**
-Declan Rice (91), -46.2% em 24h, a 181k coins.
+Julia Zigiotti (84), -48.7% em 24h, a 24k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 55 cartas em alta contra 87 em queda (média -0.62%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 98 em queda (média -3.36%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

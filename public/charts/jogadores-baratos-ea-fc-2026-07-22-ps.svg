@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="153" width="137" height="28" rx="7" fill="#38bdf8"/>
-<text x="432" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.200</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
+<rect x="285" y="153" width="325" height="28" rx="7" fill="#38bdf8"/>
+<text x="620" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">10.000</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="211" width="146" height="28" rx="7" fill="#38bdf8"/>
-<text x="441" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.500</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="269" width="456" height="28" rx="7" fill="#38bdf8"/>
-<text x="751" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<rect x="285" y="211" width="130" height="28" rx="7" fill="#38bdf8"/>
+<text x="425" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.000</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="269" width="150" height="28" rx="7" fill="#38bdf8"/>
+<text x="445" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.600</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
 <rect x="285" y="327" width="124" height="28" rx="7" fill="#38bdf8"/>
 <text x="419" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.800</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esteban Cambiasso</text>
-<rect x="285" y="385" width="464" height="28" rx="7" fill="#38bdf8"/>
-<text x="759" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="385" width="65" height="28" rx="7" fill="#38bdf8"/>
+<text x="360" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.000</text>
 </svg>

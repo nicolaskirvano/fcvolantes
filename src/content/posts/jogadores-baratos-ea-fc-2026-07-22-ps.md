@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:17:10.000Z
+pubDatetime: 2026-07-23T01:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 6.789 coins.
-- **Posição mais frequente:** CDM, com 9 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 5.907 coins.
+- **Posição mais frequente:** CDM, com 7 cartas.
+- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,13 +41,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Aleksandar Pavlović | 94 | CDM | — | 14.750 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 4.200 coins | +17.9% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.500 coins | +16.2% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14.000 coins | -12.5% |
+| Rodri | 90 | CDM | Premier League | 10.000 coins | +31.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.000 coins | +23.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.600 coins | +25.7% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.250 coins | +15.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 1.500 coins | -15% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 1.900 coins | 0% |
+| Granit Xhaka | 85 | CDM | Bundesliga | 2.000 coins | +25% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
 
 
@@ -55,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Aleksandar Pavlović (94, CDM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Sandro Tonali (86, CDM)** da —, a apenas **3.800 coins**
 
