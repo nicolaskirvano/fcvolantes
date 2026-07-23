@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:17:19.000Z
+pubDatetime: 2026-07-23T16:17:19.000Z
 title: "Jogadores baratos EA FC: Volantes em 23/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 4.640 coins.
-- **Posição mais frequente:** CDM, com 5 cartas.
-- **Faixa real:** 2.200 a 10.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 4.467 coins.
+- **Posição mais frequente:** CDM, com 6 cartas.
+- **Faixa real:** 1.500 a 10.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,24 +40,25 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 10.000 coins | +26.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.000 coins | +22.7% |
+| Rodri | 90 | CDM | Premier League | 10.000 coins | +28.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.000 coins | +2.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.300 coins | +13% |
+| Moisés Caicedo | 87 | CDM | Premier League | 1.500 coins | 0% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.200 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Moisés Caicedo (87, CDM)** da Premier League, a apenas **1.500 coins**
 
 - **Sandro Tonali (86, CDM)** da —, a apenas **3.800 coins**
-
-- **Georgia Stanway (85, CDM)** da —, a apenas **2.200 coins**
-
-- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **2.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
