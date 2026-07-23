@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:38:19.000Z
+pubDatetime: 2026-07-23T10:17:19.000Z
 title: "Investimentos EA FC: Volantes em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.3% em 24h** e **+37.7% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.0% em 24h** e **+38.5% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ahmed Fathi | 91 | — | 55k coins | +12.2% | +83.3% | Esticada |
-| Sandro Tonali | 87 | Premier League | 64k coins | +17.3% | +67.5% | Esticada |
-| Georgia Stanway | 86 | GPFBL | 47k coins | +14.4% | +57.9% | Momentum moderado |
-| David Ayala | 91 | — | 60k coins | +36.8% | +50% | Esticada |
+| Sandro Tonali | 87 | Premier League | 52k coins | +17.3% | +67.5% | Esticada |
+| Esteban Cambiasso | 86 | Serie A TIM | 25k coins | +5.3% | +54.7% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 46k coins | +12% | +54.5% | Momentum moderado |
+| David Ayala | 91 | — | 60k coins | +39.2% | +54.5% | Esticada |
+| Wouter Burger | 90 | — | 65k coins | +4.8% | +53.8% | Momentum moderado |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 110k coins | +1.9% | +42.9% | Momentum moderado |
-| Ryan Christie | 90 | Premier League | 48k coins | +28.3% | +39.5% | Esticada |
-| Sammy Braybrooke | 91 | — | 54k coins | +13.7% | +38.5% | Momentum moderado |
+| Sammy Braybrooke | 91 | — | 55k coins | +13.7% | +38.5% | Momentum moderado |
 | Rúben Neves | 86 | Brasileirão | 48k coins | +18.8% | +37.7% | Momentum moderado |
-| Douglas Luiz | 90 | Premier League | 67k coins | +32.1% | +34.6% | Esticada |
-| Rúben Neves | 95 | — | 51k coins | +2% | +29.9% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +21.1% | +19.5% | Esticada |
+| Rúben Neves | 95 | — | 51k coins | +2.5% | +29.9% | Momentum moderado |
+| Douglas Luiz | 90 | Premier League | 67k coins | +26.4% | +28.8% | Esticada |
+| Aleksandar Pavlović | 94 | — | 15.500 coins | +1.7% | +27.7% | Momentum moderado |
+| Esteban Cambiasso | 91 | — | 47k coins | +25.4% | +23.5% | Esticada |
 | Julia Zigiotti | 84 | Barclays WSL | 25k coins | +8.7% | +17.6% | Momentum moderado |
-| Xabi Alonso | 87 | Icons | 84k coins | +27.3% | +9.8% | Esticada |
-| Benjamin André | 92 | — | 26k coins | +26.5% | +9.4% | Esticada |
-| Michaël Essien | 86 | Icons | 107k coins | +11.9% | +8% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 48k coins | +11.8% | +11.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Ahmed Fathi (91)** — 55k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 64k coins, **+67.5% em 7 dias** (+17.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (87)** — 52k coins, **+67.5% em 7 dias** (+17.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (86)** — 47k coins, **+57.9% em 7 dias** (+14.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (86)** — 25k coins, **+54.7% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Ayala (91)** — 60k coins, **+50% em 7 dias** (+36.8% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 46k coins, **+54.5% em 7 dias** (+12% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofyan Amrabat (91)** — 110k coins, **+42.9% em 7 dias** (+1.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Ayala (91)** — 60k coins, **+54.5% em 7 dias** (+39.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

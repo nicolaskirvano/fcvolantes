@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:38:07.000Z
+pubDatetime: 2026-07-23T10:17:07.000Z
 title: "Mercado EA FC em 23/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Edson Álvarez (86, Trendyol Süper Lig), com +32.3% em 24h, a 43k coins no Console (PS)."
+    a: "Daniele De Rossi (89, Serie A TIM), com +36.1% em 24h, a 245k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Claudio Marchisio (88), -42.4% em 24h, a 130k coins."
+    a: "Wouter Burger (87), -48.6% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 59 cartas em alta contra 82 em queda (média -0.63%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 63 cartas em alta contra 78 em queda (média 0.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **59 subiram**, **82 caíram** (80+ e 5k+ coins), média de **-0.63%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **63 subiram**, **78 caíram** (80+ e 5k+ coins), média de **0.21%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Edson Álvarez (86) **+32.3%** · 🔴 **Maior baixa:** Claudio Marchisio (88) **-42.4%**
+> 🟢 **Maior alta:** Daniele De Rossi (89) **+36.1%** · 🔴 **Maior baixa:** Wouter Burger (87) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 74.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.8% entre as cartas que se moveram; o universo observado reúne 156 cartas.
+- **Amplitude do dia:** 84.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.7% entre as cartas que se moveram; o universo observado reúne 153 cartas.
 - **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 43k coins | +32.3% | -46% |
-| Daniele De Rossi | 91 | Serie A TIM | 285k coins | +29.3% | +32.9% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 62k coins | +25.8% | +14.7% |
+| Daniele De Rossi | 89 | Serie A TIM | 245k coins | +36.1% | +41.5% |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 42k coins | +32.3% | -46% |
+| Victor Lindelöf | 96 | — | 113k coins | +32.2% | -28% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 22k coins | +28% | -33.8% |
+| Daniele De Rossi | 91 | Serie A TIM | 285k coins | +27.1% | +35.3% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 62k coins | +25.8% | +12.5% |
 | Granit Xhaka | 91 | — | 55k coins | +21.1% | +36.2% |
-| Taylor Flint | 88 | NWSL | 110k coins | +21.1% | -16.7% |
-| Patri Guijarro | 90 | Liga F | 89k coins | +17.9% | +56.9% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 44k coins | +17.9% | +8.5% |
-| Yui Hasegawa | 87 | Barclays WSL | 47k coins | +17.5% | +11.9% |
-| Richard Ríos | 87 | Liga Portugal | 166k coins | +17.5% | -32.3% |
-| Victor Torp | 80 | EFL Championship | 48k coins | +17.3% | 0% |
+| Taylor Flint | 88 | NWSL | 105k coins | +20.9% | -20.3% |
+| James Garner | 90 | — | 59k coins | +20% | +42.9% |
+| Moisés Caicedo | 88 | Premier League | 40k coins | +17.9% | +17.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Edson Álvarez (86)** subiu **+32.3%** em 24h, a **43k coins** (faixa do dia: 28k–44k). Está -19% abaixo da média de 7 dias (descontada).
+- **Daniele De Rossi (89)** subiu **+36.1%** em 24h, a **245k coins** (faixa do dia: 127k–310k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Daniele De Rossi (91)** subiu **+29.3%** em 24h, a **285k coins** (faixa do dia: 181k–360k). Está +40% acima da média de 7 dias (aquecida).
+- **Edson Álvarez (86)** subiu **+32.3%** em 24h, a **42k coins** (faixa do dia: 28k–44k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Javier Mascherano (89)** subiu **+25.8%** em 24h, a **62k coins** (faixa do dia: 42k–88k). Está em linha com a média de 7 dias (-1%).
+- **Victor Lindelöf (96)** subiu **+32.2%** em 24h, a **113k coins** (faixa do dia: 69k–117k). Está em linha com a média de 7 dias (-5%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 88 | Serie A TIM | 130k coins | -42.4% | -63.4% |
-| Jordan Henderson | 85 | Premier League | 73k coins | -41.2% | -48.1% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 37k coins | -38.4% | -21.4% |
+| Wouter Burger | 87 | Bundesliga | 30k coins | -48.6% | -63.6% |
+| Claudio Marchisio | 88 | Serie A TIM | 130k coins | -42.4% | -66.9% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 38k coins | -38.4% | -22.6% |
+| Sandro Tonali | 87 | Premier League | 44k coins | -37.1% | +10% |
 | Declan Rice | 91 | Premier League | 189k coins | -33.3% | -28.6% |
-| Sandro Tonali | 87 | Premier League | 44k coins | -29.3% | +23.8% |
-| Yaya Touré | 87 | Premier League | 338k coins | -28.2% | -42.3% |
-| Ryan Wintle | 94 | — | 23k coins | -24.8% | -15.4% |
-| Billy Gilmour | 87 | Serie A TIM | 42k coins | -24.1% | +49.2% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 78k coins | -24.1% | +87% |
-| Jorthy Mokio | 84 | Eredivisie | 40k coins | -23.1% | -14% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 78k coins | -31.6% | +68.6% |
+| Yaya Touré | 87 | Premier League | 359k coins | -25.4% | -38.2% |
+| Ryan Wintle | 94 | — | 30k coins | -24.8% | -12.9% |
+| Granit Xhaka | 97 | — | 133k coins | -24.1% | — |
+| Jorthy Mokio | 84 | Eredivisie | 42k coins | -23.1% | -14% |
 
 
 ### Análise das baixas
 
+- **Wouter Burger (87)** caiu **-48.6%** em 24h, a **30k coins** (faixa do dia: 18.000–40k). Está -49% abaixo da média de 7 dias (descontada).
+
 - **Claudio Marchisio (88)** caiu **-42.4%** em 24h, a **130k coins** (faixa do dia: 129k–265k). Está -56% abaixo da média de 7 dias (descontada).
 
-- **Jordan Henderson (85)** caiu **-41.2%** em 24h, a **73k coins** (faixa do dia: 49k–95k). Está -20% abaixo da média de 7 dias (descontada).
-
-- **Gabriel Sara (89)** caiu **-38.4%** em 24h, a **37k coins** (faixa do dia: 32k–62k). Está -44% abaixo da média de 7 dias (descontada).
+- **Gabriel Sara (89)** caiu **-38.4%** em 24h, a **38k coins** (faixa do dia: 32k–62k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Edson Álvarez já avançou 32.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Daniele De Rossi já avançou 36.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Claudio Marchisio recuou -42.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Wouter Burger recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Edson Álvarez (86, Trendyol Süper Lig), com +32.3% em 24h, a 43k coins no Console (PS).
+Daniele De Rossi (89, Serie A TIM), com +36.1% em 24h, a 245k coins no Console (PS).
 
 **E a maior queda do dia?**
-Claudio Marchisio (88), -42.4% em 24h, a 130k coins.
+Wouter Burger (87), -48.6% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 59 cartas em alta contra 82 em queda (média -0.63%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 63 cartas em alta contra 78 em queda (média 0.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

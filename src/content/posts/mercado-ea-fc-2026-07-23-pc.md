@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:38:17.000Z
+pubDatetime: 2026-07-23T10:17:17.000Z
 title: "Mercado EA FC em 23/07: Volantes — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
     a: "Claudio Marchisio (88, Serie A TIM), com +56.7% em 24h, a 337k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aleksandar Pavlović (89), -46.3% em 24h, a 29k coins."
+    a: "Kenza Dali (94), -48.4% em 24h, a 27k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 70 em queda (média 3.19%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 70 cartas em alta contra 64 em queda (média 4.12%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**23/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **65 subiram**, **70 caíram** (80+ e 5k+ coins), média de **3.19%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **70 subiram**, **64 caíram** (80+ e 5k+ coins), média de **4.12%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Claudio Marchisio (88) **+56.7%** · 🔴 **Maior baixa:** Aleksandar Pavlović (89) **-46.3%**
+> 🟢 **Maior alta:** Claudio Marchisio (88) **+56.7%** · 🔴 **Maior baixa:** Kenza Dali (94) **-48.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 165 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.2% entre as cartas que se moveram; o universo observado reúne 162 cartas.
+- **Concentração:** Bundesliga aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 88 | Serie A TIM | 337k coins | +56.7% | -13.6% |
+| Claudio Marchisio | 88 | Serie A TIM | 337k coins | +56.7% | -16.2% |
+| Ryan Christie | 90 | Premier League | 75k coins | +50% | +50% |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +49.1% | +40.4% |
 | Cristian Roldan | 94 | — | 40k coins | +48.1% | +60% |
-| Matt Grimes | 94 | — | 40k coins | +48.1% | +29% |
+| Matt Grimes | 94 | — | 40k coins | +47.2% | +28.2% |
 | Declan Rice | 91 | Premier League | 439k coins | +41.6% | +3.3% |
-| Angelo Stiller | 91 | Bundesliga | 60k coins | +40.4% | +57.9% |
+| Angelo Stiller | 91 | Bundesliga | 60k coins | +40.4% | +50% |
 | Andrea Pirlo | 91 | Icons | 1.10M coins | +39.2% | +10% |
-| Ryan Gravenberch | 93 | Premier League | 320k coins | +38.1% | +59% |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +37.5% | +4.8% |
-| David Ayala | 91 | — | 60k coins | +36.8% | +50% |
-| Daniele De Rossi | 91 | Serie A TIM | 282k coins | +34.9% | -11.9% |
+| David Ayala | 91 | — | 60k coins | +39.2% | +54.5% |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +38.4% | +4.8% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 - **Claudio Marchisio (88)** subiu **+56.7%** em 24h, a **337k coins** (faixa do dia: 136k–341k). Está em linha com a média de 7 dias (+2%).
 
-- **Cristian Roldan (94)** subiu **+48.1%** em 24h, a **40k coins** (faixa do dia: 20k–40k). Está +30% acima da média de 7 dias (aquecida).
+- **Ryan Christie (90)** subiu **+50%** em 24h, a **75k coins** (faixa do dia: 47k–75k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Matt Grimes (94)** subiu **+48.1%** em 24h, a **40k coins** (faixa do dia: 22k–46k). Está +46% acima da média de 7 dias (aquecida).
+- **Rani Khedira (84)** subiu **+49.1%** em 24h, a **60k coins** (faixa do dia: 30k–60k). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 89 | Bundesliga | 29k coins | -46.3% | -26.4% |
-| Kim Little | 87 | Barclays WSL | 22k coins | -45.3% | -31.9% |
-| Amadou Onana | 96 | — | 177k coins | -44.2% | -25.5% |
+| Kenza Dali | 94 | — | 27k coins | -48.4% | -38.5% |
+| Kim Little | 87 | Barclays WSL | 22k coins | -47.7% | -34.8% |
+| Amadou Onana | 96 | — | 180k coins | -44.3% | -25.9% |
+| Aleksandar Pavlović | 89 | Bundesliga | 29k coins | -44.3% | -24.5% |
+| Victor Lindelöf | 96 | — | 83k coins | -39.6% | -67.7% |
 | Emily van Egmond | 88 | Barclays WSL | 46k coins | -35.1% | -8.5% |
-| Declan Rice | 94 | Premier League | 170k coins | -33.7% | -7.5% |
-| Kevin Lenini | 95 | — | 40k coins | -31.4% | -5.7% |
+| Joshua Kimmich | 90 | Bundesliga | 80k coins | -34.7% | -1.2% |
+| Dominique Janssen | 89 | Barclays WSL | 30k coins | -34.6% | -17% |
+| Declan Rice | 94 | Premier League | 185k coins | -32.7% | -8.4% |
 | Manuel Locatelli | 86 | Serie A TIM | 35k coins | -30% | -29.6% |
-| Dunga | 87 | Icons | 103k coins | -29.9% | +21.9% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 68k coins | -26.8% | -22.3% |
-| Emmanuel Petit | 87 | Icons | 86k coins | -26.7% | -26.1% |
 
 
 ### Análise das baixas
 
-- **Aleksandar Pavlović (89)** caiu **-46.3%** em 24h, a **29k coins** (faixa do dia: 23k–52k). Está -23% abaixo da média de 7 dias (descontada).
+- **Kenza Dali (94)** caiu **-48.4%** em 24h, a **27k coins** (faixa do dia: 24k–44k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Kim Little (87)** caiu **-45.3%** em 24h, a **22k coins** (faixa do dia: 22k–45k). Está -30% abaixo da média de 7 dias (descontada).
+- **Kim Little (87)** caiu **-47.7%** em 24h, a **22k coins** (faixa do dia: 22k–45k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Amadou Onana (96)** caiu **-44.2%** em 24h, a **177k coins** (faixa do dia: 153k–319k). Está -22% abaixo da média de 7 dias (descontada).
+- **Amadou Onana (96)** caiu **-44.3%** em 24h, a **180k coins** (faixa do dia: 153k–319k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Claudio Marchisio já avançou 56.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aleksandar Pavlović recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kenza Dali recuou -48.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Claudio Marchisio (88, Serie A TIM), com +56.7% em 24h, a 337k coins no PC.
 
 **E a maior queda do dia?**
-Aleksandar Pavlović (89), -46.3% em 24h, a 29k coins.
+Kenza Dali (94), -48.4% em 24h, a 27k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 70 em queda (média 3.19%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 70 cartas em alta contra 64 em queda (média 4.12%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
