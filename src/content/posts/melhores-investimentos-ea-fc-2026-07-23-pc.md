@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:17:18.000Z
+pubDatetime: 2026-07-24T01:17:18.000Z
 title: "Investimentos EA FC: Volantes em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.0% em 24h** e **+27.6% em 7 dias**.
-- **4 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.4% em 24h** e **+37.5% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,29 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 110k coins | +13.4% | +83.3% | Esticada |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 38k coins | +6.8% | +79.5% | Esticada |
-| Sammy Braybrooke | 91 | — | 55k coins | +3.8% | +39.2% | Momentum moderado |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 166k coins | +21.9% | +38% | Esticada |
-| James Garner | 90 | — | 60k coins | +1.8% | +31.8% | Momentum moderado |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 50k coins | +17.8% | +27.6% | Momentum moderado |
-| Granit Xhaka | 89 | Premier League | 67k coins | +10.7% | +22.9% | Momentum moderado |
-| Julie Swierot | 90 | — | 54k coins | +8% | +20% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 95k coins | +5.4% | +19% | Momentum moderado |
-| Rafael Profini | 84 | A-League Men | 42k coins | +6.4% | +7.1% | Momentum moderado |
-| Aleksandar Pavlović | 93 | — | 22k coins | +25% | +5.3% | Esticada |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 27k coins | +38.8% | +68.2% | Esticada |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 36k coins | +14.1% | +65.9% | Esticada |
+| Dunga | 87 | Icons | 148k coins | +6.5% | +61.7% | Esticada |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 164k coins | +20.4% | +42.2% | Esticada |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 48k coins | +16.4% | +40.1% | Momentum moderado |
+| Patrick Berg | 95 | — | 45k coins | +18% | +39.8% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +3.8% | +37.5% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 50k coins | +35.1% | +29.9% | Esticada |
+| Julie Swierot | 90 | — | 56k coins | +11% | +23.3% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 48k coins | +31.9% | +21.8% | Esticada |
+| João Neves | 86 | Ligue 1 McDonald's | 44k coins | +16.4% | +11.3% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 49k coins | +9.1% | +8.1% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 85k coins | +2.3% | +8% | Entrada a observar |
+| Elliot Anderson | 96 | — | 92k coins | +28.7% | +5.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Sofyan Amrabat (91)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nabil Bentaleb (86)** — 38k coins, **+79.5% em 7 dias** (+6.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 27k coins, **+68.2% em 7 dias** (+38.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sammy Braybrooke (91)** — 55k coins, **+39.2% em 7 dias** (+3.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nabil Bentaleb (86)** — 36k coins, **+65.9% em 7 dias** (+14.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edson Álvarez (86)** — 166k coins, **+38% em 7 dias** (+21.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dunga (87)** — 148k coins, **+61.7% em 7 dias** (+6.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Garner (90)** — 60k coins, **+31.8% em 7 dias** (+1.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edson Álvarez (86)** — 164k coins, **+42.2% em 7 dias** (+20.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
