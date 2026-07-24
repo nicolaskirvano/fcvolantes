@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:17:09.000Z
+pubDatetime: 2026-07-24T13:17:09.000Z
 title: "Investimentos EA FC: Volantes em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Patri Guijarro (91, Liga F) lidera, com +43.8% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Moisés Caicedo (88, Premier League) lidera, com +56.2% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patri Guijarro (91) acumula **+43.8% em 7 dias** a 128k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Moisés Caicedo (88) acumula **+56.2% em 7 dias** a 56k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.5% em 24h** e **+11.8% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.2% em 24h** e **+20.4% em 7 dias**.
+- **2 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 91 | Liga F | 128k coins | +28% | +43.8% | Esticada |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 44k coins | +6.6% | +29% | Momentum moderado |
-| Rafael Profini | 84 | A-League Men | 45k coins | +23.1% | +20.7% | Esticada |
-| Rúben Neves | 86 | Brasileirão | 46k coins | +22.4% | +12% | Esticada |
-| Adam Wharton | 88 | Premier League | 31k coins | +14.7% | +11.6% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 47k coins | +11.3% | +8.1% | Momentum moderado |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 25k coins | +12% | +7.3% | Momentum moderado |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 110k coins | +34.1% | +7.3% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 56k coins | +19.4% | +56.2% | Momentum moderado |
+| Julie Swierot | 90 | — | 60k coins | +9.1% | +37.1% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 124k coins | +24% | +36.3% | Esticada |
+| Ryan Gravenberch | 86 | Premier League | 50k coins | +21.3% | +29.2% | Esticada |
+| Sandro Tonali | 87 | Premier League | 38k coins | +17.8% | +20.9% | Momentum moderado |
+| Croix Bethune | 84 | NWSL | 40k coins | +3.6% | +19.9% | Entrada a observar |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 41k coins | +16% | +17.6% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 44k coins | +12.5% | +15.4% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 45k coins | +2.2% | +10.7% | Entrada a observar |
+| João Neves | 86 | Ligue 1 McDonald's | 38k coins | +7.9% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (91)** — 128k coins, **+43.8% em 7 dias** (+28% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 56k coins, **+56.2% em 7 dias** (+19.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Martínez (84)** — 44k coins, **+29% em 7 dias** (+6.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Swierot (90)** — 60k coins, **+37.1% em 7 dias** (+9.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Profini (84)** — 45k coins, **+20.7% em 7 dias** (+23.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (91)** — 124k coins, **+36.3% em 7 dias** (+24% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (86)** — 46k coins, **+12% em 7 dias** (+22.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (86)** — 50k coins, **+29.2% em 7 dias** (+21.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adam Wharton (88)** — 31k coins, **+11.6% em 7 dias** (+14.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (87)** — 38k coins, **+20.9% em 7 dias** (+17.8% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +83,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Patri Guijarro (91, Liga F) lidera, com +43.8% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Moisés Caicedo (88, Premier League) lidera, com +56.2% em 7 dias a 56k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
