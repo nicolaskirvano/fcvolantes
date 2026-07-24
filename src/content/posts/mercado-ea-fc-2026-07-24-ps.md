@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:17:07.000Z
+pubDatetime: 2026-07-24T22:17:08.000Z
 title: "Mercado EA FC em 24/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Callum McGregor (87, Scottish Premiership), com +44.9% em 24h, a 155k coins no Console (PS)."
+    a: "Callum McGregor (87, Scottish Premiership), com +48% em 24h, a 99k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jaelin Howell (89), -38% em 24h, a 22k coins."
+    a: "Ayyoub Bouaddi (95), -48.7% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 41 em queda (média 1.95%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 47 cartas em alta contra 58 em queda (média -5.25%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **54 subiram** e **41 caíram**, com variação média de **1.95%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **47 subiram** e **58 caíram**, com variação média de **-5.25%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Callum McGregor (87) **+44.9%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-38%**
+> 🟢 **Maior alta:** Callum McGregor (87) **+48%** · 🔴 **Maior baixa:** Ayyoub Bouaddi (95) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 82.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.8% entre as cartas que se moveram; o universo observado reúne 110 cartas.
-- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.8% entre as cartas que se moveram; o universo observado reúne 116 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Callum McGregor | 87 | Scottish Premiership | 155k coins | +44.9% | -11.4% |
-| Denise O'Sullivan | 85 | NWSL | 24k coins | +43.3% | +2.1% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 140k coins | +39.1% | +13.2% |
-| Richard Ríos | 87 | Liga Portugal | 298k coins | +38.8% | +18.9% |
-| Elliot Anderson | 86 | Premier League | 32k coins | +35% | +0.7% |
-| Granit Xhaka | 89 | Premier League | 40k coins | +22.1% | -42.9% |
-| Han-Noah Massengo | 84 | Bundesliga | 39k coins | +20% | 0% |
-| Yaya Touré | 87 | Premier League | 364k coins | +19.7% | -25.4% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 45k coins | +19.1% | +9.5% |
-| Gilberto Silva | 87 | Premier League | 33k coins | +18.8% | -14.7% |
+| Callum McGregor | 87 | Scottish Premiership | 99k coins | +48% | -15.9% |
+| Peer Koopmeiners | 89 | — | 22k coins | +41.9% | +35.4% |
+| Victor Torp | 80 | EFL Championship | 48k coins | +28.4% | 0% |
+| Nabil Bentaleb | 87 | — | 37k coins | +28.1% | +26.3% |
+| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +25% | +7.1% |
+| Rúben Neves | 86 | Brasileirão | 38k coins | +24.5% | +9.6% |
+| Casemiro | 84 | Premier League | 58k coins | +22.9% | -1.7% |
+| Daniele De Rossi | 91 | Serie A TIM | 211k coins | +17.4% | +11.7% |
+| Claude Makélélé | 94 | — | 320k coins | +16.7% | -18.6% |
+| Lewis Wing | 86 | 2. Bundesliga | 47k coins | +16.3% | +11.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Callum McGregor (87)** subiu **+44.9%** em 24h, a **155k coins** (faixa do dia: 93k–190k). Está -16% abaixo da média de 7 dias (descontada).
+- **Callum McGregor (87)** subiu **+48%** em 24h, a **99k coins** (faixa do dia: 93k–190k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Denise O'Sullivan (85)** subiu **+43.3%** em 24h, a **24k coins** (faixa do dia: 13.750–30k). Está +13% acima da média de 7 dias (aquecida).
+- **Peer Koopmeiners (89)** subiu **+41.9%** em 24h, a **22k coins** (faixa do dia: 13.000–25k). Está +32% acima da média de 7 dias (aquecida).
 
-- **N'Golo Kanté (89)** subiu **+39.1%** em 24h, a **140k coins** (faixa do dia: 59k–140k). Está +13% acima da média de 7 dias (aquecida).
+- **Victor Torp (80)** subiu **+28.4%** em 24h, a **48k coins** (faixa do dia: 37k–48k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaelin Howell | 89 | NWSL | 22k coins | -38% | 0% |
-| Elliot Anderson | 89 | Premier League | 60k coins | -34.4% | -67% |
-| Daniele De Rossi | 87 | Serie A TIM | 30k coins | -31% | +5.5% |
-| Victor Lindelöf | 96 | — | 110k coins | -24.8% | -45% |
-| Patrick Berg | 95 | — | 22k coins | -24.4% | -45.8% |
-| Moisés Caicedo | 88 | Premier League | 56k coins | -18% | -1.3% |
-| Yaya Touré | 93 | Premier League | 800k coins | -17.1% | -50.1% |
-| Emily van Egmond | 88 | Barclays WSL | 150k coins | -16.9% | +16.9% |
-| Korbin Shrader | 84 | D1 Arkema | 41k coins | -16.8% | +2.5% |
-| Ryan Gravenberch | 93 | Premier League | 140k coins | -16.2% | -30.1% |
+| Ayyoub Bouaddi | 95 | — | 22k coins | -48.7% | -38.1% |
+| David Ayala | 91 | — | 29k coins | -43.4% | -25% |
+| Ramires | 88 | Premier League | 161k coins | -43.2% | -27.7% |
+| Joshua Kimmich | 96 | — | 169k coins | -34.9% | -40.9% |
+| Granit Xhaka | 97 | — | 112k coins | -33.7% | -73.1% |
+| Patrick Berg | 95 | — | 23k coins | -32.8% | -50.3% |
+| Declan Rice | 97 | — | 214k coins | -32.3% | -53.3% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 20k coins | -24.1% | -62% |
+| Declan Rice | 94 | Premier League | 88k coins | -18.4% | -42.9% |
+| Michaël Essien | 86 | Icons | 66k coins | -17% | -12% |
 
 
 ### Análise das baixas
 
-- **Jaelin Howell (89)** caiu **-38%** em 24h, a **22k coins** (faixa do dia: 16.000–31k). Está em linha com a média de 7 dias (-3%).
+- **Ayyoub Bouaddi (95)** caiu **-48.7%** em 24h, a **22k coins** (faixa do dia: 17.500–45k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Elliot Anderson (89)** caiu **-34.4%** em 24h, a **60k coins** (faixa do dia: 60k–115k). Está -50% abaixo da média de 7 dias (descontada).
+- **David Ayala (91)** caiu **-43.4%** em 24h, a **29k coins** (faixa do dia: 28k–55k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Daniele De Rossi (87)** caiu **-31%** em 24h, a **30k coins** (faixa do dia: 25k–46k). Está em linha com a média de 7 dias (+1%).
+- **Ramires (88)** caiu **-43.2%** em 24h, a **161k coins** (faixa do dia: 161k–316k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Callum McGregor já avançou 44.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Callum McGregor já avançou 48% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaelin Howell recuou -38%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ayyoub Bouaddi recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Callum McGregor (87, Scottish Premiership), com +44.9% em 24h, a 155k coins no Console (PS).
+Callum McGregor (87, Scottish Premiership), com +48% em 24h, a 99k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jaelin Howell (89), -38% em 24h, a 22k coins.
+Ayyoub Bouaddi (95), -48.7% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 41 em queda (média 1.95%).
+Hoje o mercado está em baixa — predominam as quedas, com 47 cartas em alta contra 58 em queda (média -5.25%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,6 +130,7 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Volantes em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Investimentos EA FC: Volantes em 24/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

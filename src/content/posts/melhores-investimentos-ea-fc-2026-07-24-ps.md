@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:17:09.000Z
+pubDatetime: 2026-07-24T22:17:09.000Z
 title: "Investimentos EA FC: Volantes em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "James Garner (90, sem liga) lidera, com +38.7% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Georgia Stanway (86, GPFBL) lidera, com +28.6% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** James Garner (90) acumula **+38.7% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Georgia Stanway (86) acumula **+28.6% em 7 dias** a 45k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+13.2% em 7 dias**.
-- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.7% em 24h** e **+11.7% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| James Garner | 90 | — | 55k coins | +1.7% | +38.7% | Momentum moderado |
-| Julie Swierot | 90 | — | 40k coins | +9.2% | +34.5% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 45k coins | +10.9% | +31.1% | Momentum moderado |
-| Croix Bethune | 84 | NWSL | 45k coins | +7.5% | +17.8% | Momentum moderado |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 140k coins | +39.1% | +13.2% | Esticada |
-| Manuel Locatelli | 86 | Serie A TIM | 45k coins | +17.7% | +12% | Momentum moderado |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 45k coins | +19.1% | +9.5% | Momentum moderado |
-| Sandro Tonali | 87 | Premier League | 40k coins | +6.5% | +9.3% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 62k coins | +9.1% | +8% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 45k coins | +15.4% | +28.6% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 70k coins | +2.2% | +28.2% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 37k coins | +28.1% | +26.3% | Esticada |
+| Croix Bethune | 84 | NWSL | 45k coins | +1.1% | +24% | Entrada a observar |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 38k coins | +13.1% | +18.8% | Momentum moderado |
+| Ryan Gravenberch | 86 | Premier League | 48k coins | +11.7% | +17% | Momentum moderado |
+| Korbin Shrader | 84 | D1 Arkema | 46k coins | +10.7% | +16.2% | Momentum moderado |
+| Daniele De Rossi | 91 | Serie A TIM | 211k coins | +17.4% | +11.7% | Momentum moderado |
+| Lewis Wing | 86 | 2. Bundesliga | 47k coins | +16.3% | +11.2% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 38k coins | +24.5% | +9.6% | Esticada |
+| Melle Meulensteen | 84 | Eredivisie | 40k coins | +12.7% | +8.1% | Momentum moderado |
+| Hamdy Fathy | 93 | — | 16.250 coins | +11.7% | +8.1% | Momentum moderado |
+| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +25% | +7.1% | Esticada |
+| Xabi Alonso | 87 | Icons | 68k coins | +6.3% | +7% | Momentum moderado |
+| Pathé Ciss | 92 | — | 16.000 coins | +9.8% | +6.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **James Garner (90)** — 55k coins, **+38.7% em 7 dias** (+1.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 45k coins, **+28.6% em 7 dias** (+15.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Swierot (90)** — 40k coins, **+34.5% em 7 dias** (+9.2% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mattéo Guendouzi (91)** — 70k coins, **+28.2% em 7 dias** (+2.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (86)** — 45k coins, **+31.1% em 7 dias** (+10.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nabil Bentaleb (87)** — 37k coins, **+26.3% em 7 dias** (+28.1% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (84)** — 45k coins, **+17.8% em 7 dias** (+7.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (84)** — 45k coins, **+24% em 7 dias** (+1.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **N'Golo Kanté (89)** — 140k coins, **+13.2% em 7 dias** (+39.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marshall Munetsi (84)** — 38k coins, **+18.8% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-James Garner (90, sem liga) lidera, com +38.7% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Georgia Stanway (86, GPFBL) lidera, com +28.6% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -100,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Volantes em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Mercado EA FC em 24/07: Volantes — Console (PS)](/posts/mercado-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
