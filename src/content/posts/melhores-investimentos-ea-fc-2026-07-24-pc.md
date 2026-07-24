@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:17:18.000Z
+pubDatetime: 2026-07-24T19:17:19.000Z
 title: "Investimentos EA FC: Volantes em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Edson Álvarez (86, Trendyol Süper Lig) lidera, com +79.4% em 7 dias a 147k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Emmanuel Petit (87, Icons) lidera, com +72.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Edson Álvarez (86) acumula **+79.4% em 7 dias** a 147k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Emmanuel Petit (87) acumula **+72.2% em 7 dias** a 185k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+13.8% em 7 dias**.
-- **8 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Trendyol Süper Lig** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.0% em 24h** e **+37.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,33 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 147k coins | +5% | +79.4% | Esticada |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 64k coins | +26.9% | +72.5% | Esticada |
-| Wouter Burger | 90 | — | 58k coins | +3.2% | +68.6% | Esticada |
-| Ryan Yates | 92 | — | 96k coins | +18.4% | +45.1% | Momentum moderado |
-| Dunga | 87 | Icons | 117k coins | +23.2% | +36.8% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 92k coins | +18.8% | +18.8% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 80k coins | +26.1% | +15.5% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 23k coins | +27.8% | +12.2% | Esticada |
-| Nabil Bentaleb | 87 | — | 44k coins | +18.2% | +12.2% | Momentum moderado |
-| Felix Nmecha | 95 | — | 59k coins | +20.9% | +11.2% | Esticada |
-| Xabi Alonso | 87 | Icons | 86k coins | +6.5% | +9.8% | Momentum moderado |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 42k coins | +5.3% | +9.1% | Momentum moderado |
-| Hamdy Fathy | 93 | — | 15.750 coins | +17.9% | +8.2% | Momentum moderado |
-| Nico González | 86 | Premier League | 40k coins | +21.2% | +7% | Esticada |
+| Emmanuel Petit | 87 | Icons | 185k coins | +24% | +72.2% | Esticada |
+| Granit Xhaka | 89 | Premier League | 66k coins | +10.8% | +60.2% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 130k coins | +31.8% | +49.1% | Esticada |
+| Esteban Cambiasso | 91 | — | 60k coins | +6.7% | +46.8% | Momentum moderado |
+| Granit Xhaka | 91 | — | 58k coins | +24% | +40.8% | Esticada |
+| Nico González | 86 | Premier League | 34k coins | +29.9% | +39% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +34.1% | +37.5% | Esticada |
+| Emily van Egmond | 88 | Barclays WSL | 66k coins | +9.6% | +37% | Momentum moderado |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 95k coins | +1.1% | +34.8% | Momentum moderado |
+| Ryan Yates | 92 | — | 96k coins | +20% | +34.3% | Esticada |
+| Claude Makélélé | 87 | Icons | 97k coins | +38.3% | +31.8% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +30% | +30% | Esticada |
+| Sandro Tonali | 87 | Premier League | 37k coins | +6.1% | +22.4% | Momentum moderado |
+| Ryan Yates | 85 | Premier League | 29k coins | +4.4% | +21.6% | Entrada a observar |
+| Julia Zigiotti | 84 | Barclays WSL | 32k coins | +13% | +17.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Edson Álvarez (86)** — 147k coins, **+79.4% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 185k coins, **+72.2% em 7 dias** (+24% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hakan Çalhanoğlu (88)** — 64k coins, **+72.5% em 7 dias** (+26.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (89)** — 66k coins, **+60.2% em 7 dias** (+10.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wouter Burger (90)** — 58k coins, **+68.6% em 7 dias** (+3.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Stanković (87)** — 130k coins, **+49.1% em 7 dias** (+31.8% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Yates (92)** — 96k coins, **+45.1% em 7 dias** (+18.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (91)** — 60k coins, **+46.8% em 7 dias** (+6.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dunga (87)** — 117k coins, **+36.8% em 7 dias** (+23.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 58k coins, **+40.8% em 7 dias** (+24% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Edson Álvarez (86, Trendyol Süper Lig) lidera, com +79.4% em 7 dias a 147k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Emmanuel Petit (87, Icons) lidera, com +72.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -105,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Volantes em 24/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-24-pc/)
 - [Mercado EA FC em 24/07: Volantes — PC](/posts/mercado-ea-fc-2026-07-24-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
