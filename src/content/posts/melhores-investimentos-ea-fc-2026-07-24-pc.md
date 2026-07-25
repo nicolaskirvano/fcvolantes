@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:17:18.000Z
+pubDatetime: 2026-07-25T01:17:18.000Z
 title: "Investimentos EA FC: Volantes em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +78.8% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Emmanuel Petit (87, Icons) lidera, com +52.1% em 7 dias a 179k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pierre Lees-Melou (87) acumula **+78.8% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Emmanuel Petit (87) acumula **+52.1% em 7 dias** a 179k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.6% em 24h** e **+30.2% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.4% em 24h** e **+14.8% em 7 dias**.
+- **8 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 28k coins | +6.3% | +78.8% | Esticada |
-| Emmanuel Petit | 87 | Icons | 183k coins | +23.5% | +68.8% | Esticada |
-| Granit Xhaka | 89 | Premier League | 66k coins | +10.8% | +62.2% | Esticada |
-| Sandro Tonali | 87 | Premier League | 64k coins | +31.8% | +54.2% | Esticada |
-| Lena Oberdorf | 86 | GPFBL | 54k coins | +7.9% | +37.1% | Momentum moderado |
-| Yui Hasegawa | 87 | Barclays WSL | 50k coins | +24.9% | +35.8% | Esticada |
-| Esteban Cambiasso | 91 | — | 50k coins | +12% | +35.8% | Momentum moderado |
-| Granit Xhaka | 91 | — | 50k coins | +14.6% | +30.2% | Momentum moderado |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 90k coins | +1.1% | +30.1% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 179k coins | +20.7% | +52.1% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 154k coins | +2.6% | +38.6% | Momentum moderado |
+| Lena Oberdorf | 86 | GPFBL | 49k coins | +2.5% | +35.6% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 120k coins | +39.5% | +33.3% | Esticada |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +30% | +30% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 25k coins | +32.9% | +26.2% | Esticada |
-| Callum McGregor | 87 | Scottish Premiership | 163k coins | +2.5% | +25.4% | Momentum moderado |
-| Ryan Yates | 85 | Premier League | 28k coins | +31.5% | +20.6% | Esticada |
-| Rafael Profini | 84 | A-League Men | 48k coins | +13.1% | +18.8% | Momentum moderado |
-| Claude Makélélé | 87 | Icons | 83k coins | +18.4% | +12.8% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 48k coins | +22% | +25.6% | Esticada |
+| Callum McGregor | 87 | Scottish Premiership | 162k coins | +3.2% | +15.6% | Entrada a observar |
+| Yui Hasegawa | 94 | — | 20k coins | +10.4% | +14% | Momentum moderado |
+| Ryan Yates | 85 | Premier League | 28k coins | +30.3% | +13.7% | Esticada |
+| Manuel Locatelli | 86 | Serie A TIM | 46k coins | +32.9% | +9.4% | Esticada |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 44k coins | +9.3% | +6.6% | Momentum moderado |
+| Korbin Shrader | 84 | D1 Arkema | 48k coins | +26.3% | +5.5% | Esticada |
+| Lewis Wing | 86 | 2. Bundesliga | 46k coins | +23.4% | +5.4% | Esticada |
+| Nicolas Madsen | 84 | EFL Championship | 49k coins | +8.7% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Pierre Lees-Melou (87)** — 28k coins, **+78.8% em 7 dias** (+6.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 179k coins, **+52.1% em 7 dias** (+20.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Petit (87)** — 183k coins, **+68.8% em 7 dias** (+23.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Stanković (87)** — 154k coins, **+38.6% em 7 dias** (+2.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (89)** — 66k coins, **+62.2% em 7 dias** (+10.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lena Oberdorf (86)** — 49k coins, **+35.6% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 64k coins, **+54.2% em 7 dias** (+31.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 120k coins, **+33.3% em 7 dias** (+39.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lena Oberdorf (86)** — 54k coins, **+37.1% em 7 dias** (+7.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 130k coins, **+30% em 7 dias** (+30% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +78.8% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Emmanuel Petit (87, Icons) lidera, com +52.1% em 7 dias a 179k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
