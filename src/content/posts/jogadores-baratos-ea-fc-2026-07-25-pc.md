@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:17:20.000Z
+pubDatetime: 2026-07-25T13:17:20.000Z
 title: "Jogadores baratos EA FC: Volantes em 25/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 5.960 coins.
-- **Posição mais frequente:** CDM, com 5 cartas.
+- **Preço médio das 4 opções:** 8.375 coins.
+- **Posição mais frequente:** CDM, com 4 cartas.
 - **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,20 +40,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jesper Karlström | 93 | CDM | — | 14.000 coins | -4.7% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.800 coins | +6.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.000 coins | +22.5% |
+| Jesper Karlström | 93 | CDM | — | 14.000 coins | -14.1% |
+| Pathé Ciss | 92 | CDM | — | 13.500 coins | -11.5% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jesper Karlström (93, CDM)** da —, a apenas **14.000 coins**
+- **Jesper Karlström (93, CDM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Pathé Ciss (92, CDM)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sandro Tonali (86, CDM)** da —, a apenas **3.800 coins**
 
