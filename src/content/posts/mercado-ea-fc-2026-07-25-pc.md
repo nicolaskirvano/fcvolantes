@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:17:17.000Z
+pubDatetime: 2026-07-25T16:17:17.000Z
 title: "Mercado EA FC em 25/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Rani Khedira (84, Bundesliga), com +51.9% em 24h, a 54k coins no PC."
+    a: "Michaël Essien (86, Icons), com +48.9% em 24h, a 105k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Declan Rice (89), -47.9% em 24h, a 88k coins."
+    a: "Declan Rice (89), -49.2% em 24h, a 77k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 33 cartas em alta contra 108 em queda (média -17.59%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 30 cartas em alta contra 103 em queda (média -16.23%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **25/07/2026** (PC): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **33 em alta** e **108 em queda**, média de **-17.59%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **25/07/2026** (PC): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **30 em alta** e **103 em queda**, média de **-16.23%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Rani Khedira (84) **+51.9%** · 🔴 **Maior baixa:** Declan Rice (89) **-47.9%**
+> 🟢 **Maior alta:** Michaël Essien (86) **+48.9%** · 🔴 **Maior baixa:** Declan Rice (89) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **25/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 23.4% entre as cartas que se moveram; o universo observado reúne 154 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 22.6% entre as cartas que se moveram; o universo observado reúne 151 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rani Khedira | 84 | Bundesliga | 54k coins | +51.9% | +9.1% |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 42k coins | +44.1% | +6.2% |
-| Gennaro Gattuso | 86 | Icons | 96k coins | +33.3% | +8.5% |
-| Frank Rijkaard | 89 | Icons | 129k coins | +29.9% | -11.5% |
-| Granit Xhaka | 89 | Premier League | 79k coins | +29.5% | +91.5% |
-| Ramires | 86 | Premier League | 107k coins | +21.5% | -24.6% |
-| Manuel Locatelli | 86 | Serie A TIM | 35k coins | +16.9% | -26.8% |
-| Han-Noah Massengo | 84 | Bundesliga | 42k coins | +16.9% | +18.6% |
-| Ryan Christie | 90 | Premier League | 58k coins | +16.2% | +4.5% |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 749k coins | +16.1% | +53.2% |
+| Michaël Essien | 86 | Icons | 105k coins | +48.9% | -3.7% |
+| Daniele De Rossi | 89 | Serie A TIM | 111k coins | +35.3% | -21.6% |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 217k coins | +28.8% | -5.6% |
+| Dominique Janssen | 89 | Barclays WSL | 30k coins | +28.7% | +24.7% |
+| Ryan Yates | 85 | Premier League | 37k coins | +25.6% | +44.1% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 603k coins | +24.4% | +52.4% |
+| Granit Xhaka | 89 | Premier League | 81k coins | +21.8% | +70.5% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 106k coins | +19.8% | -50.8% |
+| Kevin De Bruyne | 89 | Serie A TIM | 167k coins | +16.3% | -20.2% |
+| Rafael Profini | 84 | A-League Men | 46k coins | +14.9% | +15.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **25/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rani Khedira (84)** subiu **+51.9%** em 24h, a **54k coins** (faixa do dia: 35k–60k). Está +23% acima da média de 7 dias (aquecida).
+- **Michaël Essien (86)** subiu **+48.9%** em 24h, a **105k coins** (faixa do dia: 70k–130k). Está em linha com a média de 7 dias (+2%).
 
-- **Marshall Munetsi (84)** subiu **+44.1%** em 24h, a **42k coins** (faixa do dia: 30k–45k). Está em linha com a média de 7 dias (+1%).
+- **Daniele De Rossi (89)** subiu **+35.3%** em 24h, a **111k coins** (faixa do dia: 102k–210k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Gennaro Gattuso (86)** subiu **+33.3%** em 24h, a **96k coins** (faixa do dia: 65k–108k). Está em linha com a média de 7 dias (+1%).
+- **N'Golo Kanté (93)** subiu **+28.8%** em 24h, a **217k coins** (faixa do dia: 179k–241k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 88k coins | -47.9% | -44% |
-| Esteban Cambiasso | 91 | — | 27k coins | -45.4% | -27% |
-| Amadou Onana | 96 | — | 90k coins | -44% | -57.3% |
-| Dunga | 87 | Icons | 66k coins | -41.6% | 0% |
-| Granit Xhaka | 91 | — | 34k coins | -41.4% | -19% |
-| Emily van Egmond | 88 | Barclays WSL | 44k coins | -40.6% | -11.5% |
-| Elliot Anderson | 96 | — | 66k coins | -37.8% | -28.2% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 109k coins | -35.5% | -45% |
-| Claude Makélélé | 87 | Icons | 66k coins | -35.3% | -29.8% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 58k coins | -35% | -29.2% |
+| Declan Rice | 89 | Premier League | 77k coins | -49.2% | -44.8% |
+| Amadou Onana | 96 | — | 88k coins | -49.1% | -59.4% |
+| Blaise Matuidi | 95 | — | 28k coins | -48.2% | -49% |
+| Gilberto Silva | 87 | Premier League | 24k coins | -43.4% | -38.4% |
+| Rúben Neves | 95 | — | 24k coins | -42.3% | -44.9% |
+| Elliot Anderson | 96 | — | 50k coins | -41.9% | -36.7% |
+| Jorthy Mokio | 86 | Eredivisie | 42k coins | -41.2% | -13.8% |
+| Dunga | 87 | Icons | 66k coins | -38.3% | 0% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 60k coins | -36.2% | -36.8% |
+| Ryan Gravenberch | 87 | Premier League | 76k coins | -33.1% | -55.2% |
 
 
 ### Análise das baixas
 
-- **Declan Rice (89)** caiu **-47.9%** em 24h, a **88k coins** (faixa do dia: 49k–94k). Está em linha com a média de 7 dias (+0%).
+- **Declan Rice (89)** caiu **-49.2%** em 24h, a **77k coins** (faixa do dia: 48k–94k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Esteban Cambiasso (91)** caiu **-45.4%** em 24h, a **27k coins** (faixa do dia: 22k–94k). Está -47% abaixo da média de 7 dias (descontada).
+- **Amadou Onana (96)** caiu **-49.1%** em 24h, a **88k coins** (faixa do dia: 70k–174k). Está -55% abaixo da média de 7 dias (descontada).
 
-- **Amadou Onana (96)** caiu **-44%** em 24h, a **90k coins** (faixa do dia: 88k–176k). Está -55% abaixo da média de 7 dias (descontada).
+- **Blaise Matuidi (95)** caiu **-48.2%** em 24h, a **28k coins** (faixa do dia: 21k–53k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rani Khedira já avançou 51.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Michaël Essien já avançou 48.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Declan Rice recuou -47.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Declan Rice recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Rani Khedira (84, Bundesliga), com +51.9% em 24h, a 54k coins no PC.
+Michaël Essien (86, Icons), com +48.9% em 24h, a 105k coins no PC.
 
 **E a maior queda do dia?**
-Declan Rice (89), -47.9% em 24h, a 88k coins.
+Declan Rice (89), -49.2% em 24h, a 77k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 33 cartas em alta contra 108 em queda (média -17.59%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 30 cartas em alta contra 103 em queda (média -16.23%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

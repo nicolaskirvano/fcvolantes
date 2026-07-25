@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
-<rect x="285" y="153" width="249" height="28" rx="7" fill="#22c55e"/>
-<text x="544" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
-<rect x="285" y="211" width="133" height="28" rx="7" fill="#22c55e"/>
-<text x="428" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Han-Noah Massengo</text>
-<rect x="285" y="269" width="104" height="28" rx="7" fill="#22c55e"/>
-<text x="399" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Profini</text>
-<rect x="285" y="327" width="95" height="28" rx="7" fill="#22c55e"/>
-<text x="390" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="385" width="87" height="28" rx="7" fill="#22c55e"/>
-<text x="382" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="153" width="455" height="28" rx="7" fill="#22c55e"/>
+<text x="750" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
+<rect x="285" y="211" width="285" height="28" rx="7" fill="#22c55e"/>
+<text x="580" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Natalia Ramos</text>
+<rect x="285" y="269" width="267" height="28" rx="7" fill="#22c55e"/>
+<text x="562" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominique Janssen</text>
+<rect x="285" y="327" width="160" height="28" rx="7" fill="#22c55e"/>
+<text x="455" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sofie Junge Pedersen</text>
+<rect x="285" y="385" width="146" height="28" rx="7" fill="#22c55e"/>
+<text x="441" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.6%</text>
 </svg>
