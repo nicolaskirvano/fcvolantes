@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:17:09.000Z
+pubDatetime: 2026-07-26T01:17:09.000Z
 title: "Investimentos EA FC: Volantes em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Georgia Stanway (88, Liga F) lidera, com +38.9% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rani Khedira (84, Bundesliga) lidera, com +38.8% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Georgia Stanway (88) acumula **+38.9% em 7 dias** a 65k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rani Khedira (84) acumula **+38.8% em 7 dias** a 59k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.4% em 24h** e **+18.1% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+15.1% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Georgia Stanway | 88 | Liga F | 65k coins | +36.2% | +38.9% | Esticada |
-| Josip Mišić | 85 | Liga Hrvatska | 79k coins | +1.3% | +21.5% | Entrada a observar |
-| Lena Oberdorf | 86 | GPFBL | 43k coins | +33% | +19% | Esticada |
-| Manuel Locatelli | 86 | Serie A TIM | 38k coins | +11.8% | +17.1% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 15.000 coins | +5.1% | +17% | Momentum moderado |
-| Melle Meulensteen | 84 | Eredivisie | 43k coins | +4.3% | +6.2% | Entrada a observar |
+| Rani Khedira | 84 | Bundesliga | 59k coins | +24.2% | +38.8% | Esticada |
+| Carlos Baleba | 90 | Premier League | 179k coins | +11.2% | +25.2% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 46k coins | +15.7% | +15.7% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 50k coins | +10% | +15.1% | Momentum moderado |
+| Daniele De Rossi | 91 | Serie A TIM | 160k coins | +14.9% | +13.1% | Momentum moderado |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 44k coins | +13.8% | +8% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 43k coins | +3% | +6.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Georgia Stanway (88)** — 65k coins, **+38.9% em 7 dias** (+36.2% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rani Khedira (84)** — 59k coins, **+38.8% em 7 dias** (+24.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Josip Mišić (85)** — 79k coins, **+21.5% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 179k coins, **+25.2% em 7 dias** (+11.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lena Oberdorf (86)** — 43k coins, **+19% em 7 dias** (+33% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (86)** — 46k coins, **+15.7% em 7 dias** (+15.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 38k coins, **+17.1% em 7 dias** (+11.8% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 50k coins, **+15.1% em 7 dias** (+10% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 15.000 coins, **+17% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (91)** — 160k coins, **+13.1% em 7 dias** (+14.9% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Georgia Stanway (88, Liga F) lidera, com +38.9% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rani Khedira (84, Bundesliga) lidera, com +38.8% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
