@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:17:07.000Z
+pubDatetime: 2026-07-26T22:17:07.000Z
 title: "Mercado EA FC em 26/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Victor Lindelöf (96, sem liga), com +47.5% em 24h, a 60k coins no Console (PS)."
+    a: "Julie Swierot (90, sem liga), com +54.2% em 24h, a 27k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ryan Christie (90), -48.8% em 24h, a 21k coins."
+    a: "Declan Rice (91), -35.1% em 24h, a 199k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 47 cartas em alta contra 59 em queda (média 0.83%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 63 em queda (média 3.94%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **26/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **47 cartas subiram** e **59 caíram** (80+ acima de 5k coins), variação média de **0.83%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **65 cartas subiram** e **63 caíram** (80+ acima de 5k coins), variação média de **3.94%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Victor Lindelöf (96) **+47.5%** · 🔴 **Maior baixa:** Ryan Christie (90) **-48.8%**
+> 🟢 **Maior alta:** Julie Swierot (90) **+54.2%** · 🔴 **Maior baixa:** Declan Rice (91) **-35.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com dia **indefinido*
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.3% entre as cartas que se moveram; o universo observado reúne 129 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 89.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.8% entre as cartas que se moveram; o universo observado reúne 155 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Victor Lindelöf | 96 | — | 60k coins | +47.5% | -45.4% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 67k coins | +36% | +23.6% |
-| Rúben Neves | 86 | Brasileirão | 53k coins | +32.5% | +50.4% |
-| Dunga | 89 | Icons | 88k coins | +29.4% | -31.2% |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 53k coins | +23.2% | +16.3% |
-| Ryan Wintle | 94 | — | 20k coins | +21.9% | -10.3% |
-| Sandro Tonali | 87 | Premier League | 48k coins | +21.4% | +33.3% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 20k coins | +20.6% | -30.5% |
-| Sofie Junge Pedersen | 86 | Liga F | 25k coins | +20.2% | +14.1% |
-| Lewis Wing | 86 | 2. Bundesliga | 54k coins | +16.6% | +36.2% |
+| Julie Swierot | 90 | — | 27k coins | +54.2% | -38% |
+| Claude Makélélé | 94 | — | 420k coins | +28% | +0.5% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 23k coins | +27.4% | -27.3% |
+| Yaya Touré | 87 | Premier League | 450k coins | +26.6% | -15.8% |
+| Ryan Wintle | 94 | — | 22k coins | +25.4% | +2.3% |
+| Ryan Gravenberch | 96 | — | 66k coins | +23.1% | -48% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 20k coins | +22.9% | -23.2% |
+| Andrea Pirlo | 91 | Icons | 755k coins | +19.9% | -5.6% |
+| Granit Xhaka | 97 | — | 150k coins | +19.2% | -48% |
+| Daniele De Rossi | 89 | Serie A TIM | 198k coins | +18.3% | +4.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com dia **indefinido*
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Victor Lindelöf (96)** subiu **+47.5%** em 24h, a **60k coins** (faixa do dia: 36k–69k). Está -31% abaixo da média de 7 dias (descontada).
+- **Julie Swierot (90)** subiu **+54.2%** em 24h, a **27k coins** (faixa do dia: 13.250–30k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Edson Álvarez (86)** subiu **+36%** em 24h, a **67k coins** (faixa do dia: 43k–88k). Está +37% acima da média de 7 dias (aquecida).
+- **Claude Makélélé (94)** subiu **+28%** em 24h, a **420k coins** (faixa do dia: 294k–420k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Rúben Neves (86)** subiu **+32.5%** em 24h, a **53k coins** (faixa do dia: 39k–53k). Está +27% acima da média de 7 dias (aquecida).
+- **Abdoulaye Doucouré (87)** subiu **+27.4%** em 24h, a **23k coins** (faixa do dia: 15.500–65k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Christie | 90 | Premier League | 21k coins | -48.8% | -57.7% |
-| Angelo Stiller | 91 | Bundesliga | 22k coins | -47% | -57.7% |
-| Ramires | 86 | Premier League | 57k coins | -42.7% | -56.2% |
-| Kevin De Bruyne | 89 | Serie A TIM | 58k coins | -41.5% | -46.8% |
-| Ryan Yates | 92 | — | 30k coins | -38% | -40.5% |
-| Felix Nmecha | 86 | Bundesliga | 94k coins | -33.8% | -36.9% |
-| Ryan Gravenberch | 87 | Premier League | 40k coins | -30.4% | -8.6% |
-| Jordan Henderson | 85 | Premier League | 48k coins | -29.3% | -53.7% |
-| Patrick Berg | 95 | — | 30k coins | -25.9% | -30.6% |
-| Patri Guijarro | 91 | Liga F | 85k coins | -25.2% | -6.1% |
+| Declan Rice | 91 | Premier League | 199k coins | -35.1% | -28.4% |
+| Jordan Henderson | 85 | Premier League | 41k coins | -35% | -58.3% |
+| Felix Nmecha | 86 | Bundesliga | 81k coins | -32.5% | -45.6% |
+| Callum McGregor | 87 | Scottish Premiership | 158k coins | -31.8% | -48.8% |
+| Diego Chará | 83 | MLS | 20k coins | -26.4% | -42.6% |
+| Adam Wharton | 96 | — | 374k coins | -20.2% | -64.8% |
+| Patri Guijarro | 96 | — | 30k coins | -19.3% | -83.8% |
+| Gennaro Gattuso | 86 | Icons | 75k coins | -16.1% | -11.7% |
+| Lena Oberdorf | 86 | GPFBL | 50k coins | -16% | +17.6% |
+| Daniele De Rossi | 95 | — | 535k coins | -15.9% | +33.4% |
 
 
 ### Análise das baixas
 
-- **Ryan Christie (90)** caiu **-48.8%** em 24h, a **21k coins** (faixa do dia: 20k–43k). Está -63% abaixo da média de 7 dias (descontada).
+- **Declan Rice (91)** caiu **-35.1%** em 24h, a **199k coins** (faixa do dia: 199k–397k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Angelo Stiller (91)** caiu **-47%** em 24h, a **22k coins** (faixa do dia: 17.250–48k). Está -54% abaixo da média de 7 dias (descontada).
+- **Jordan Henderson (85)** caiu **-35%** em 24h, a **41k coins** (faixa do dia: 40k–96k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Ramires (86)** caiu **-42.7%** em 24h, a **57k coins** (faixa do dia: 54k–126k). Está -47% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** caiu **-32.5%** em 24h, a **81k coins** (faixa do dia: 66k–169k). Está -45% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Victor Lindelöf já avançou 47.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Julie Swierot já avançou 54.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ryan Christie recuou -48.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Declan Rice recuou -35.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Victor Lindelöf (96, sem liga), com +47.5% em 24h, a 60k coins no Console (PS).
+Julie Swierot (90, sem liga), com +54.2% em 24h, a 27k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ryan Christie (90), -48.8% em 24h, a 21k coins.
+Declan Rice (91), -35.1% em 24h, a 199k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 47 cartas em alta contra 59 em queda (média 0.83%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 63 em queda (média 3.94%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
