@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:17:10.000Z
+pubDatetime: 2026-07-26T16:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no Console (PS)."
+    a: "Moisés Caicedo (95, sem liga) aparece como melhor custo-benefício, a 14.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Georgia Stanway (95) por apenas 14.500 coins.
+> 💰 **Melhor pechincha:** Moisés Caicedo (95) por apenas 14.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 26/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-26-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.787 coins.
+- **Preço médio das 15 opções:** 13.700 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Georgia Stanway | 95 | CDM | — | 14.500 coins | -8.1% |
-| Franck Yannick Kessié | 95 | CDM | — | 14.750 coins | -6.6% |
-| Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | -3.6% |
-| Sander Berge | 94 | CDM | — | 14.000 coins | -7% |
-| Sphephelo Sithole | 94 | CDM | — | 14.500 coins | -6.7% |
-| Edson Álvarez | 94 | CDM | — | 14.750 coins | +6.7% |
-| Aleksandar Pavlović | 93 | CDM | — | 13.750 coins | -3.6% |
-| Jesper Karlström | 93 | CDM | — | 14.500 coins | 0% |
-| Hamdy Fathy | 93 | CDM | — | 14.750 coins | -5.5% |
-| Pathé Ciss | 92 | CDM | — | 14.000 coins | -3.7% |
-| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Moisés Caicedo | 95 | CDM | — | 14.250 coins | -13.4% |
+| Georgia Stanway | 95 | CDM | — | 14.250 coins | -10.9% |
+| Franck Yannick Kessié | 95 | CDM | — | 14.500 coins | -6.5% |
+| Sander Berge | 94 | CDM | — | 13.500 coins | +1.9% |
+| Aleksandar Pavlović | 94 | CDM | — | 14.500 coins | +1.8% |
+| Yui Hasegawa | 94 | CDM | — | 14.750 coins | -14.3% |
+| Sphephelo Sithole | 94 | CDM | — | 14.750 coins | 0% |
+| Edson Álvarez | 94 | CDM | — | 14.750 coins | -4.8% |
+| Jesper Karlström | 93 | CDM | — | 13.000 coins | -1.9% |
+| Hamdy Fathy | 93 | CDM | — | 13.250 coins | 0% |
+| Aleksandar Pavlović | 93 | CDM | — | 13.500 coins | -1.8% |
+| Pathé Ciss | 92 | CDM | — | 13.500 coins | -1.9% |
+| Máximo Perrone | 92 | CDM | — | 14.000 coins | -6.2% |
+| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.500 coins | -4.2% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
-| Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.300 coins | -14.3% |
 
 
 ## 📈 Destaques
 
-- **Georgia Stanway (95, CDM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Moisés Caicedo (95, CDM)** da —, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Franck Yannick Kessié (95, CDM)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Georgia Stanway (95, CDM)** da —, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.500 coins**
+- **Franck Yannick Kessié (95, CDM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sander Berge (94, CDM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sander Berge (94, CDM)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sphephelo Sithole (94, CDM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleksandar Pavlović (94, CDM)** da —, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Georgia Stanway (95, CDM) por 14.500 coins é a referência de rating deste recorte.
+- **Meio:** Moisés Caicedo (95, CDM) por 14.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -101,7 +101,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no Console (PS).
+Moisés Caicedo (95, sem liga) aparece como melhor custo-benefício, a 14.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
