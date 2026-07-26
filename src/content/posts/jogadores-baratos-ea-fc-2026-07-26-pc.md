@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:17:20.000Z
+pubDatetime: 2026-07-26T13:17:20.000Z
 title: "Jogadores baratos EA FC: Volantes em 26/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.250 coins no PC."
+    a: "Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aleksandar Pavlović (94) por apenas 13.250 coins.
+> 💰 **Melhor pechincha:** Georgia Stanway (95) por apenas 14.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 26/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-26-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.170 coins.
+- **Preço médio das 15 opções:** 11.257 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | -1.9% |
-| Edson Álvarez | 94 | CDM | — | 13.500 coins | -10% |
-| Aleksandar Pavlović | 93 | CDM | — | 12.500 coins | +2% |
-| Jesper Karlström | 93 | CDM | — | 13.500 coins | -10% |
-| Hamdy Fathy | 93 | CDM | — | 14.000 coins | +1.8% |
-| Pathé Ciss | 92 | CDM | — | 13.750 coins | +5.8% |
-| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Georgia Stanway | 95 | CDM | — | 14.500 coins | -10% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.000 coins | -1.9% |
+| Edson Álvarez | 94 | CDM | — | 13.000 coins | -11.5% |
+| Sander Berge | 94 | CDM | — | 13.250 coins | +9.1% |
+| Aleksandar Pavlović | 93 | CDM | — | 12.500 coins | -5.7% |
+| Hamdy Fathy | 93 | CDM | — | 13.000 coins | 0% |
+| Jesper Karlström | 93 | CDM | — | 13.500 coins | -1.8% |
+| Pathé Ciss | 92 | CDM | — | 13.500 coins | +1.9% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
+| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Rodri | 90 | CDM | Premier League | 2.600 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.000 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.300 coins | -5.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.500 coins | +6.1% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Kim Little | 87 | CDM | Barclays WSL | 13.250 coins | -5.4% |
 
 
 ## 📈 Destaques
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.250 coins**
+- **Georgia Stanway (95, CDM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edson Álvarez (94, CDM)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.000 coins**
+
+- **Edson Álvarez (94, CDM)** da —, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sander Berge (94, CDM)** da —, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Aleksandar Pavlović (93, CDM)** da —, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jesper Karlström (93, CDM)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Hamdy Fathy (93, CDM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Aleksandar Pavlović (94, CDM) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Georgia Stanway (95, CDM) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -101,7 +101,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Aleksandar Pavlović (94, sem liga) aparece como melhor custo-benefício, a 13.250 coins no PC.
+Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
