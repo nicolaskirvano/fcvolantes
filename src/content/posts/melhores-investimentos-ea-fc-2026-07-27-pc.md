@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:17:18.000Z
+pubDatetime: 2026-07-27T16:17:18.000Z
 title: "Investimentos EA FC: Volantes em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Patrick Berg (95, sem liga) lidera, com +59% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patrick Berg (95, sem liga) lidera, com +59% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patrick Berg (95) acumula **+59% em 7 dias** a 75k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patrick Berg (95) acumula **+59% em 7 dias** a 76k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+24.5% em 7 dias**.
-- **5 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.7% em 24h** e **+11.3% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,30 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patrick Berg | 95 | — | 75k coins | +22.3% | +59% | Esticada |
-| Rani Khedira | 84 | Bundesliga | 52k coins | +1.9% | +45.8% | Momentum moderado |
-| Granit Xhaka | 89 | Premier League | 85k coins | +12.1% | +39.2% | Momentum moderado |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 88k coins | +32.8% | +37% | Esticada |
-| Nicolas Madsen | 84 | EFL Championship | 40k coins | +2.6% | +32.5% | Momentum moderado |
-| Ryan Yates | 92 | — | 86k coins | +23.6% | +24.5% | Esticada |
-| Rúben Neves | 86 | Brasileirão | 43k coins | +14.8% | +19.6% | Momentum moderado |
-| Casemiro | 86 | Premier League | 50k coins | +5.3% | +9.1% | Momentum moderado |
-| Piotr Zieliński | 93 | — | 24k coins | +34.7% | +7.8% | Esticada |
-| Kristijan Jakić | 92 | — | 22k coins | +32.8% | +6.2% | Esticada |
-| Ryan Gravenberch | 87 | Premier League | 74k coins | +16.7% | +6.1% | Momentum moderado |
+| Patrick Berg | 95 | — | 76k coins | +24.2% | +59% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 67k coins | +7% | +27.8% | Momentum moderado |
+| Granit Xhaka | 89 | Premier League | 73k coins | +6.4% | +26.1% | Momentum moderado |
+| Peer Koopmeiners | 89 | — | 35k coins | +15.7% | +19.7% | Momentum moderado |
+| Ryan Gravenberch | 87 | Premier League | 84k coins | +29.8% | +11.3% | Esticada |
+| Kristijan Jakić | 92 | — | 22k coins | +24.6% | +7.5% | Esticada |
+| Benjamin André | 92 | — | 22k coins | +7.6% | +6.2% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 45k coins | +2.8% | +5.8% | Entrada a observar |
+| Daniele De Rossi | 89 | Serie A TIM | 165k coins | +16.2% | +5.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Patrick Berg (95)** — 75k coins, **+59% em 7 dias** (+22.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Berg (95)** — 76k coins, **+59% em 7 dias** (+24.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rani Khedira (84)** — 52k coins, **+45.8% em 7 dias** (+1.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 67k coins, **+27.8% em 7 dias** (+7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (89)** — 85k coins, **+39.2% em 7 dias** (+12.1% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (89)** — 73k coins, **+26.1% em 7 dias** (+6.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattéo Guendouzi (91)** — 88k coins, **+37% em 7 dias** (+32.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Peer Koopmeiners (89)** — 35k coins, **+19.7% em 7 dias** (+15.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolas Madsen (84)** — 40k coins, **+32.5% em 7 dias** (+2.6% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (87)** — 84k coins, **+11.3% em 7 dias** (+29.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Patrick Berg (95, sem liga) lidera, com +59% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patrick Berg (95, sem liga) lidera, com +59% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
