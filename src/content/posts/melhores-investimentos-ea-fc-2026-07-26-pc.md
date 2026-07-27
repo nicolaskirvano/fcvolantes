@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:17:18.000Z
+pubDatetime: 2026-07-27T01:17:18.000Z
 title: "Investimentos EA FC: Volantes em 26/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.4% em 24h** e **+30.8% em 7 dias**.
-- **1 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+8.5% em 24h** e **+28.8% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,29 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 104k coins | +23.1% | +76.3% | Esticada |
-| Nabil Bentaleb | 87 | — | 50k coins | +6.4% | +46% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 50k coins | +8.7% | +39.9% | Momentum moderado |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +1.9% | +37.5% | Momentum moderado |
-| Patrick Berg | 95 | — | 80k coins | +4.5% | +31.1% | Momentum moderado |
-| Jorthy Mokio | 86 | Eredivisie | 42k coins | +2.4% | +30.8% | Momentum moderado |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +11.9% | +21.6% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 17.250 coins | +15.3% | +21.4% | Momentum moderado |
-| Daniele De Rossi | 91 | Serie A TIM | 175k coins | +5.9% | +18.9% | Momentum moderado |
-| Frank Rijkaard | 89 | Icons | 120k coins | +13.8% | +12% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 36k coins | +4.4% | +9.9% | Entrada a observar |
+| Moisés Caicedo | 88 | Premier League | 66k coins | +26.9% | +56.2% | Esticada |
+| Patrick Berg | 95 | — | 65k coins | +17.1% | +46.9% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 50k coins | +8.7% | +46% | Momentum moderado |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 25k coins | +4% | +42.5% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 50k coins | +2.6% | +39.9% | Momentum moderado |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +2.8% | +37.5% | Momentum moderado |
+| Denise O'Sullivan | 85 | NWSL | 39k coins | +6.2% | +28.8% | Momentum moderado |
+| Jorthy Mokio | 86 | Eredivisie | 42k coins | +7.6% | +25% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 42k coins | +3.7% | +23.2% | Entrada a observar |
+| Keira Walsh | 89 | Barclays WSL | 27k coins | +38.6% | +16.9% | Esticada |
+| Aleksandar Pavlović | 94 | — | 15.750 coins | +8.5% | +14.3% | Momentum moderado |
+| Lena Oberdorf | 86 | GPFBL | 54k coins | +10.8% | +12.5% | Momentum moderado |
+| Aleksandar Pavlović | 89 | Bundesliga | 40k coins | +15.3% | +10.9% | Momentum moderado |
+| Kristijan Jakić | 92 | — | 22k coins | +6.2% | +10.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nabil Bentaleb (87)** — 50k coins, **+46% em 7 dias** (+6.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 66k coins, **+56.2% em 7 dias** (+26.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolas Madsen (84)** — 50k coins, **+39.9% em 7 dias** (+8.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Berg (95)** — 65k coins, **+46.9% em 7 dias** (+17.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (84)** — 55k coins, **+37.5% em 7 dias** (+1.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nabil Bentaleb (87)** — 50k coins, **+46% em 7 dias** (+8.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Berg (95)** — 80k coins, **+31.1% em 7 dias** (+4.5% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 25k coins, **+42.5% em 7 dias** (+4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:17:09.000Z
+pubDatetime: 2026-07-27T01:17:09.000Z
 title: "Investimentos EA FC: Volantes em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Lewis Wing (86, 2. Bundesliga) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Emily van Egmond (88, Barclays WSL) lidera, com +57% em 7 dias a 213k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lewis Wing (86) acumula **+37.5% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Emily van Egmond (88) acumula **+57% em 7 dias** a 213k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.5% em 24h** e **+16.1% em 7 dias**.
-- **0 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **2. Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.5% em 24h** e **+18.4% em 7 dias**.
+- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lewis Wing | 86 | 2. Bundesliga | 55k coins | +18.3% | +37.5% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 16.250 coins | +11.9% | +29.4% | Momentum moderado |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 46k coins | +4% | +20.3% | Entrada a observar |
-| Sandro Tonali | 87 | Premier League | 65k coins | +9.6% | +19.6% | Momentum moderado |
-| Manuel Locatelli | 86 | Serie A TIM | 54k coins | +1.9% | +16.1% | Entrada a observar |
-| Croix Bethune | 84 | NWSL | 50k coins | +2.9% | +10.4% | Entrada a observar |
-| Jesper Karlström | 93 | — | 16.500 coins | +11.5% | +7.9% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 52k coins | +12.5% | +6.5% | Momentum moderado |
-| Sander Berge | 94 | — | 17.000 coins | +11.5% | +6.2% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 213k coins | +2.9% | +57% | Momentum moderado |
+| Croix Bethune | 84 | NWSL | 48k coins | +7.5% | +22.7% | Momentum moderado |
+| Yui Hasegawa | 87 | Barclays WSL | 50k coins | +23.4% | +21.8% | Esticada |
+| Aleksandar Pavlović | 94 | — | 15.750 coins | +14.5% | +21.2% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 42k coins | +4.7% | +18.4% | Entrada a observar |
+| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +7.1% | +18.4% | Momentum moderado |
+| Moisés Caicedo | 88 | Premier League | 56k coins | +28.4% | +18.3% | Esticada |
+| Natalia Ramos | 87 | — | 42k coins | +17.6% | +14.7% | Momentum moderado |
+| Angelo Stiller | 94 | — | 29k coins | +9.5% | +8.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lewis Wing (86)** — 55k coins, **+37.5% em 7 dias** (+18.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emily van Egmond (88)** — 213k coins, **+57% em 7 dias** (+2.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 16.250 coins, **+29.4% em 7 dias** (+11.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (84)** — 48k coins, **+22.7% em 7 dias** (+7.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marshall Munetsi (84)** — 46k coins, **+20.3% em 7 dias** (+4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 50k coins, **+21.8% em 7 dias** (+23.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 65k coins, **+19.6% em 7 dias** (+9.6% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (94)** — 15.750 coins, **+21.2% em 7 dias** (+14.5% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 54k coins, **+16.1% em 7 dias** (+1.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 42k coins, **+18.4% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +92,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Lewis Wing (86, 2. Bundesliga) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Emily van Egmond (88, Barclays WSL) lidera, com +57% em 7 dias a 213k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
