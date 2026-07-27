@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:17:10.000Z
+pubDatetime: 2026-07-27T19:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.343 coins.
+- **Preço médio das 15 opções:** 8.437 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
-| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 12.250 coins | +4.3% |
+| Rodri | 90 | CDM | Premier League | 2.600 coins | +8.3% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.900 coins | +14.7% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.900 coins | +15.2% |
-| Peer Koopmeiners | 89 | CDM | — | 12.000 coins | -9.4% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 13.500 coins | -6.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.700 coins | +15.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.800 coins | +11.8% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 12.500 coins | +7.4% |
+| Peer Koopmeiners | 89 | CDM | — | 14.750 coins | +6.7% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14.000 coins | +27.3% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 11.000 coins | 0% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 14.000 coins | +24.4% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | 0% |
-| Lucas Torreira | 83 | CDM | Trendyol Süper Lig | 1.600 coins | +36.4% |
+| Thomas Partey | 83 | CDM | Premier League | 2.200 coins | +40% |
 
 
 ## 📈 Destaques
 
 - **Denise O'Sullivan (91, CDM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sofyan Amrabat (91, CDM)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rodri (90, CDM)** da Premier League, a apenas **2.600 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
