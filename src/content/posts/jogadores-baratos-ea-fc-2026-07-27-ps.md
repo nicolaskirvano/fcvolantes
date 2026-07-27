@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:17:10.000Z
+pubDatetime: 2026-07-27T13:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Sofyan Amrabat (91, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Denise O'Sullivan (91, Barclays WSL) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sofyan Amrabat (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Denise O'Sullivan (91) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 27/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 8.112 coins.
-- **Posição mais frequente:** CDM, com 12 cartas.
-- **Faixa real:** 2.200 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.323 coins.
+- **Posição mais frequente:** CDM, com 15 cartas.
+- **Faixa real:** 2.200 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,36 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.500 coins | +6.5% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
-| Sammy Braybrooke | 91 | CDM | — | 13.750 coins | -12.1% |
-| Rodri | 90 | CDM | Premier League | 2.600 coins | +13% |
+| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 11.750 coins | +8.7% |
+| Rodri | 90 | CDM | Premier League | 3.000 coins | +25% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.400 coins | +13.8% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.100 coins | +33.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.200 coins | +27.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.400 coins | +40% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 14.000 coins | +25% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 13.250 coins | 0% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 14.250 coins | +23.9% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
+| Nico González | 86 | CDM | Premier League | 13.000 coins | +7.4% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Sofyan Amrabat (91, CDM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Denise O'Sullivan (91, CDM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sammy Braybrooke (91, CDM)** da —, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sofyan Amrabat (91, CDM)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2.600 coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **3.000 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Sofyan Amrabat (91, CDM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Denise O'Sullivan (91, CDM) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -88,7 +91,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Sofyan Amrabat (91, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Denise O'Sullivan (91, Barclays WSL) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

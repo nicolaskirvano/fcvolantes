@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick Berg</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Adam Wharton</text>
-<rect x="285" y="153" width="441" height="28" rx="7" fill="#22c55e"/>
-<text x="736" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
-<rect x="285" y="211" width="347" height="28" rx="7" fill="#22c55e"/>
-<text x="642" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
-<rect x="285" y="269" width="315" height="28" rx="7" fill="#22c55e"/>
-<text x="610" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nabil Bentaleb</text>
-<rect x="285" y="327" width="307" height="28" rx="7" fill="#22c55e"/>
-<text x="602" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
-<rect x="285" y="385" width="272" height="28" rx="7" fill="#22c55e"/>
-<text x="567" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
+<rect x="285" y="153" width="373" height="28" rx="7" fill="#22c55e"/>
+<text x="668" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="211" width="319" height="28" rx="7" fill="#22c55e"/>
+<text x="614" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mattéo Guendouzi</text>
+<rect x="285" y="269" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Madsen</text>
+<rect x="285" y="327" width="264" height="28" rx="7" fill="#22c55e"/>
+<text x="559" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
+<rect x="285" y="385" width="199" height="28" rx="7" fill="#22c55e"/>
+<text x="494" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.5%</text>
 </svg>
