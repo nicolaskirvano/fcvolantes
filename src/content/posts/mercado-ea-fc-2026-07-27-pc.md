@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:17:17.000Z
+pubDatetime: 2026-07-28T01:17:17.000Z
 title: "Mercado EA FC em 27/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Keira Walsh (89, Barclays WSL), com +58.9% em 24h, a 20k coins no PC."
+    a: "Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "N'Golo Kanté (89), -50% em 24h, a 124k coins."
+    a: "Stephen Eustáquio (95), -47.3% em 24h, a 58k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 30 cartas em alta contra 25 em queda (média 6.87%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 57 cartas em alta contra 54 em queda (média 4.09%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **27/07/2026** no PC: mercado **em alta** — predominam as valorizações. **30 valorizações** contra **25 quedas** entre as cartas relevantes, com média de **6.87%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **27/07/2026** no PC: mercado **em alta** — predominam as valorizações. **57 valorizações** contra **54 quedas** entre as cartas relevantes, com média de **4.09%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Keira Walsh (89) **+58.9%** · 🔴 **Maior baixa:** N'Golo Kanté (89) **-50%**
+> 🟢 **Maior alta:** Natalia Ramos (87) **+57.5%** · 🔴 **Maior baixa:** Stephen Eustáquio (95) **-47.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **27/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 63 cartas.
-- **Concentração:** Trendyol Süper Lig aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | Barclays WSL | 20k coins | +58.9% | +6% |
-| Tyler Morton | 83 | Ligue 1 McDonald's | 29k coins | +56.3% | +24.7% |
-| Daniele De Rossi | 87 | Serie A TIM | 29k coins | +48.1% | +30% |
-| Patri Guijarro | 96 | — | 68k coins | +38.4% | -78.7% |
-| Yui Hasegawa | 94 | — | 24k coins | +24.7% | +4.3% |
-| Manuel Locatelli | 86 | Serie A TIM | 43k coins | +22.9% | -9.9% |
-| Nico González | 86 | Premier League | 23k coins | +16.2% | -19.8% |
-| Dunga | 89 | Icons | 139k coins | +15.8% | -6.1% |
-| Edson Álvarez | 94 | — | 20k coins | +14.3% | -3.6% |
-| Georgia Stanway | 95 | — | 20k coins | +14.3% | -8% |
+| Natalia Ramos | 87 | — | 62k coins | +57.5% | +72.6% |
+| Rúben Neves | 87 | ROSHN Saudi League | 24k coins | +47.8% | -8.3% |
+| Declan Rice | 89 | Premier League | 50k coins | +42.3% | -27.8% |
+| Adam Wharton | 96 | — | 396k coins | +37.5% | -50.6% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 40k coins | +35.5% | -51.8% |
+| Rúben Neves | 86 | Brasileirão | 49k coins | +30.9% | +36.4% |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +25% | +9.1% |
+| Ryan Gravenberch | 96 | — | 100k coins | +25% | -44.4% |
+| Franck Yannick Kessié | 95 | — | 22k coins | +23.6% | -3.3% |
+| Manuel Locatelli | 86 | Serie A TIM | 43k coins | +22.9% | -9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **27/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Keira Walsh (89)** subiu **+58.9%** em 24h, a **20k coins** (faixa do dia: 11.250–27k). Está -13% abaixo da média de 7 dias (descontada).
+- **Natalia Ramos (87)** subiu **+57.5%** em 24h, a **62k coins** (faixa do dia: 37k–65k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Tyler Morton (83)** subiu **+56.3%** em 24h, a **29k coins** (faixa do dia: 17.750–29k). Está +22% acima da média de 7 dias (aquecida).
+- **Rúben Neves (87)** subiu **+47.8%** em 24h, a **24k coins** (faixa do dia: 16.750–25k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Daniele De Rossi (87)** subiu **+48.1%** em 24h, a **29k coins** (faixa do dia: 14.750–29k). Está +29% acima da média de 7 dias (aquecida).
+- **Declan Rice (89)** subiu **+42.3%** em 24h, a **50k coins** (faixa do dia: 32k–76k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 124k coins | -50% | -68.9% |
-| João Neves | 88 | Ligue 1 McDonald's | 92k coins | -35.7% | -80.9% |
-| Ahmed Fathi | 91 | — | 21k coins | -25% | -46.5% |
-| Rodri | 91 | Premier League | 375k coins | -22.7% | +10.3% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 40k coins | -22.6% | -69% |
-| Peer Koopmeiners | 89 | — | 30k coins | -11.1% | 0% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 115k coins | -10.2% | -35.4% |
-| Georgia Stanway | 88 | Liga F | 60k coins | -9.9% | +14.7% |
-| Emily van Egmond | 88 | Barclays WSL | 50k coins | -9.2% | -13.2% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 115k coins | -7.3% | -19.6% |
+| Stephen Eustáquio | 95 | — | 58k coins | -47.3% | +32.6% |
+| Yaya Touré | 96 | — | 1.23M coins | -34.6% | -37.1% |
+| Ryan Gravenberch | 93 | Premier League | 180k coins | -32.1% | +13.2% |
+| Angelo Stiller | 94 | — | 29k coins | -31.5% | -1.7% |
+| Wouter Burger | 87 | Bundesliga | 26k coins | -30.1% | -77.1% |
+| Michaël Essien | 86 | Icons | 70k coins | -28.7% | -44% |
+| Rúben Neves | 95 | — | 27k coins | -27.7% | -29.6% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 36k coins | -25.3% | -13.2% |
+| Ahmed Fathi | 91 | — | 24k coins | -24.2% | -47.8% |
+| Angelo Stiller | 91 | Bundesliga | 22k coins | -22.7% | -54% |
 
 
 ### Análise das baixas
 
-- **N'Golo Kanté (89)** caiu **-50%** em 24h, a **124k coins** (faixa do dia: 116k–195k). Está -50% abaixo da média de 7 dias (descontada).
+- **Stephen Eustáquio (95)** caiu **-47.3%** em 24h, a **58k coins** (faixa do dia: 58k–110k). Está +20% acima da média de 7 dias (aquecida).
 
-- **João Neves (88)** caiu **-35.7%** em 24h, a **92k coins** (faixa do dia: 46k–99k). Está -30% abaixo da média de 7 dias (descontada).
+- **Yaya Touré (96)** caiu **-34.6%** em 24h, a **1.23M coins** (faixa do dia: 898k–2.50M). Está em linha com a média de 7 dias (-6%).
 
-- **Ahmed Fathi (91)** caiu **-25%** em 24h, a **21k coins** (faixa do dia: 17.750–31k). Está -47% abaixo da média de 7 dias (descontada).
+- **Ryan Gravenberch (93)** caiu **-32.1%** em 24h, a **180k coins** (faixa do dia: 126k–270k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Keira Walsh já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Natalia Ramos já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** N'Golo Kanté recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Stephen Eustáquio recuou -47.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Keira Walsh (89, Barclays WSL), com +58.9% em 24h, a 20k coins no PC.
+Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC.
 
 **E a maior queda do dia?**
-N'Golo Kanté (89), -50% em 24h, a 124k coins.
+Stephen Eustáquio (95), -47.3% em 24h, a 58k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 30 cartas em alta contra 25 em queda (média 6.87%).
+Hoje o mercado está em alta — predominam as valorizações, com 57 cartas em alta contra 54 em queda (média 4.09%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,6 +130,7 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Volantes em 27/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-27-pc/)
 - [Investimentos EA FC: Volantes em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

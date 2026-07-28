@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:17:08.000Z
+pubDatetime: 2026-07-28T01:17:07.000Z
 title: "Mercado EA FC em 27/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Diego Chará (83, MLS), com +56% em 24h, a 33k coins no Console (PS)."
+    a: "Diego Chará (83, MLS), com +59.6% em 24h, a 38k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Youri Tielemans (96), -46.7% em 24h, a 150k coins."
+    a: "Carlos Baleba (90), -49.3% em 24h, a 68k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 75 cartas em alta contra 52 em queda (média 10.23%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 58 em queda (média 4.54%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **27/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **75 valorizações** contra **52 quedas** entre as cartas relevantes, com média de **10.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **27/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **77 valorizações** contra **58 quedas** entre as cartas relevantes, com média de **4.54%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Diego Chará (83) **+56%** · 🔴 **Maior baixa:** Youri Tielemans (96) **-46.7%**
+> 🟢 **Maior alta:** Diego Chará (83) **+59.6%** · 🔴 **Maior baixa:** Carlos Baleba (90) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **27/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.1% entre as cartas que se moveram; o universo observado reúne 143 cartas.
-- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.0% entre as cartas que se moveram; o universo observado reúne 156 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Chará | 83 | MLS | 33k coins | +56% | -12.7% |
-| Kevin De Bruyne | 89 | Serie A TIM | 68k coins | +45.9% | -46.4% |
-| Cristian Roldan | 94 | — | 22k coins | +41.7% | +13.3% |
-| Kevin Lenini | 95 | — | 44k coins | +41.6% | +1.1% |
-| Daniele De Rossi | 91 | Serie A TIM | 240k coins | +39.7% | +35.1% |
-| Claude Makélélé | 94 | — | 500k coins | +35.7% | +36.7% |
-| Yui Hasegawa | 87 | Barclays WSL | 59k coins | +34.1% | +53.2% |
-| Joshua Kimmich | 96 | — | 186k coins | +31.4% | +5.1% |
-| Victor Lindelöf | 96 | — | 51k coins | +27.6% | -39.3% |
-| Nicolas Madsen | 84 | EFL Championship | 60k coins | +26.3% | +50.9% |
+| Diego Chará | 83 | MLS | 38k coins | +59.6% | 0% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 40k coins | +53.8% | -25.9% |
+| Taylor Flint | 88 | NWSL | 77k coins | +47.5% | -38.4% |
+| Ryan Gravenberch | 86 | Premier League | 62k coins | +40.4% | +27.6% |
+| Declan Rice | 94 | Premier League | 130k coins | +38.5% | -6.2% |
+| Kevin Lenini | 95 | — | 44k coins | +37.9% | -8.6% |
+| Aurélien Tchouaméni | 95 | — | 44k coins | +32.1% | +52.6% |
+| Máximo Perrone | 92 | — | 21k coins | +31.3% | +4.8% |
+| Joshua Kimmich | 96 | — | 188k coins | +27.9% | +3.5% |
+| Hakan Çalhanoğlu | 95 | — | 70k coins | +26.4% | -36.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **27/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Diego Chará (83)** subiu **+56%** em 24h, a **33k coins** (faixa do dia: 18.875–35k). Está em linha com a média de 7 dias (+3%).
+- **Diego Chará (83)** subiu **+59.6%** em 24h, a **38k coins** (faixa do dia: 24k–38k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Kevin De Bruyne (89)** subiu **+45.9%** em 24h, a **68k coins** (faixa do dia: 40k–128k). Está -31% abaixo da média de 7 dias (descontada).
+- **Mattéo Guendouzi (91)** subiu **+53.8%** em 24h, a **40k coins** (faixa do dia: 22k–50k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Cristian Roldan (94)** subiu **+41.7%** em 24h, a **22k coins** (faixa do dia: 17.000–26k). Está em linha com a média de 7 dias (-1%).
+- **Taylor Flint (88)** subiu **+47.5%** em 24h, a **77k coins** (faixa do dia: 51k–99k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Youri Tielemans | 96 | — | 150k coins | -46.7% | -61.2% |
-| Denise O'Sullivan | 85 | NWSL | 24k coins | -38.9% | -31.2% |
-| Daniele De Rossi | 95 | — | 445k coins | -37.9% | +10.5% |
-| Georgia Stanway | 86 | GPFBL | 60k coins | -33.5% | +6.3% |
-| Yaya Touré | 87 | Premier League | 319k coins | -32.2% | -34% |
-| Carlos Baleba | 90 | Premier League | 76k coins | -22.5% | -39% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 121k coins | -21.4% | -5.7% |
-| Georgia Stanway | 88 | Liga F | 46k coins | -20.5% | +12.7% |
-| Josip Mišić | 85 | Liga Hrvatska | 62k coins | -19.1% | -29.3% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 52k coins | -17.7% | -3.6% |
+| Carlos Baleba | 90 | Premier League | 68k coins | -49.3% | -45.7% |
+| Joshua Kimmich | 90 | Bundesliga | 43k coins | -40.5% | -24.6% |
+| Daniele De Rossi | 87 | Serie A TIM | 26k coins | -36.7% | -14.7% |
+| Patri Guijarro | 91 | Liga F | 33k coins | -34.5% | -63.9% |
+| Denise O'Sullivan | 85 | NWSL | 22k coins | -34.3% | -26% |
+| Daniele De Rossi | 95 | — | 500k coins | -22.5% | +39.7% |
+| Callum McGregor | 87 | Scottish Premiership | 274k coins | -21.4% | +23.9% |
+| Josip Mišić | 85 | Liga Hrvatska | 68k coins | -20% | -31.8% |
+| Ryan Christie | 90 | Premier League | 35k coins | -19.2% | -34.4% |
+| Jorthy Mokio | 86 | Eredivisie | 32k coins | -15.4% | -8.3% |
 
 
 ### Análise das baixas
 
-- **Youri Tielemans (96)** caiu **-46.7%** em 24h, a **150k coins** (faixa do dia: 130k–240k). Está -17% abaixo da média de 7 dias (descontada).
+- **Carlos Baleba (90)** caiu **-49.3%** em 24h, a **68k coins** (faixa do dia: 50k–175k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Denise O'Sullivan (85)** caiu **-38.9%** em 24h, a **24k coins** (faixa do dia: 12.000–30k). Está +12% acima da média de 7 dias (aquecida).
+- **Joshua Kimmich (90)** caiu **-40.5%** em 24h, a **43k coins** (faixa do dia: 41k–126k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Daniele De Rossi (95)** caiu **-37.9%** em 24h, a **445k coins** (faixa do dia: 390k–680k). Está em linha com a média de 7 dias (+1%).
+- **Daniele De Rossi (87)** caiu **-36.7%** em 24h, a **26k coins** (faixa do dia: 22k–42k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Diego Chará já avançou 56% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Diego Chará já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Youri Tielemans recuou -46.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Carlos Baleba recuou -49.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Diego Chará (83, MLS), com +56% em 24h, a 33k coins no Console (PS).
+Diego Chará (83, MLS), com +59.6% em 24h, a 38k coins no Console (PS).
 
 **E a maior queda do dia?**
-Youri Tielemans (96), -46.7% em 24h, a 150k coins.
+Carlos Baleba (90), -49.3% em 24h, a 68k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 75 cartas em alta contra 52 em queda (média 10.23%).
+Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 58 em queda (média 4.54%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
