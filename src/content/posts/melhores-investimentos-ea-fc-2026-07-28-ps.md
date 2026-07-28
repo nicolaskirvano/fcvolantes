@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T13:17:09.000Z
+pubDatetime: 2026-07-28T16:17:09.000Z
 title: "Investimentos EA FC: Volantes em 28/07 — Console (PS)"
 draft: false
 featured: true
