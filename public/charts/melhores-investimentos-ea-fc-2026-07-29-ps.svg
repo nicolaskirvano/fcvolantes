@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Henderson</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lena Oberdorf</text>
-<rect x="285" y="153" width="324" height="28" rx="7" fill="#22c55e"/>
-<text x="619" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Madsen</text>
-<rect x="285" y="211" width="261" height="28" rx="7" fill="#22c55e"/>
-<text x="556" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ibrahim Sangaré</text>
-<rect x="285" y="269" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
-<rect x="285" y="327" width="200" height="28" rx="7" fill="#22c55e"/>
-<text x="495" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Martínez</text>
-<rect x="285" y="385" width="189" height="28" rx="7" fill="#22c55e"/>
-<text x="484" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
+<rect x="285" y="153" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aurélien Tchouaméni</text>
+<rect x="285" y="211" width="282" height="28" rx="7" fill="#22c55e"/>
+<text x="577" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pathé Ciss</text>
+<rect x="285" y="269" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lena Oberdorf</text>
+<rect x="285" y="327" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
+<rect x="285" y="385" width="203" height="28" rx="7" fill="#22c55e"/>
+<text x="498" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.5%</text>
 </svg>
