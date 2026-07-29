@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdoulaye Doucouré</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edson Álvarez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aurélien Tchouaméni</text>
-<rect x="285" y="153" width="305" height="28" rx="7" fill="#22c55e"/>
-<text x="600" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Madsen</text>
-<rect x="285" y="211" width="259" height="28" rx="7" fill="#22c55e"/>
-<text x="554" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
-<rect x="285" y="269" width="204" height="28" rx="7" fill="#22c55e"/>
-<text x="499" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
-<rect x="285" y="327" width="198" height="28" rx="7" fill="#22c55e"/>
-<text x="493" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Wing</text>
-<rect x="285" y="385" width="173" height="28" rx="7" fill="#22c55e"/>
-<text x="468" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denis Zakaria</text>
+<rect x="285" y="153" width="446" height="28" rx="7" fill="#22c55e"/>
+<text x="741" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
+<rect x="285" y="211" width="278" height="28" rx="7" fill="#22c55e"/>
+<text x="573" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="269" width="241" height="28" rx="7" fill="#22c55e"/>
+<text x="536" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="327" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
+<rect x="285" y="385" width="225" height="28" rx="7" fill="#22c55e"/>
+<text x="520" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.4%</text>
 </svg>

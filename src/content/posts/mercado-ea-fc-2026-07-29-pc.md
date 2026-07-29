@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:17:17.000Z
+pubDatetime: 2026-07-29T16:17:17.000Z
 title: "Mercado EA FC em 29/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC."
+    a: "Moisés Caicedo (95, sem liga), com +33.3% em 24h, a 23k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Stephen Eustáquio (95), -47.3% em 24h, a 58k coins."
+    a: "David Ayala (91), -16.5% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 57 cartas em alta contra 54 em queda (média 4.09%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 45 cartas em alta contra 32 em queda (média 1.32%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **54 caíram**, com variação média de **4.09%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **45 subiram** e **32 caíram**, com variação média de **1.32%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Natalia Ramos (87) **+57.5%** · 🔴 **Maior baixa:** Stephen Eustáquio (95) **-47.3%**
+> 🟢 **Maior alta:** Moisés Caicedo (95) **+33.3%** · 🔴 **Maior baixa:** David Ayala (91) **-16.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,24 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 150 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 49.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.4% entre as cartas que se moveram; o universo observado reúne 112 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Natalia Ramos | 87 | — | 62k coins | +57.5% | +72.6% |
-| Rúben Neves | 87 | ROSHN Saudi League | 24k coins | +47.8% | -8.3% |
-| Declan Rice | 89 | Premier League | 50k coins | +42.3% | -27.8% |
-| Adam Wharton | 96 | — | 396k coins | +37.5% | -50.6% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 40k coins | +35.5% | -51.8% |
-| Rúben Neves | 86 | Brasileirão | 49k coins | +30.9% | +36.4% |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +25% | +9.1% |
-| Ryan Gravenberch | 96 | — | 100k coins | +25% | -44.4% |
-| Franck Yannick Kessié | 95 | — | 22k coins | +23.6% | -3.3% |
-| Manuel Locatelli | 86 | Serie A TIM | 43k coins | +22.9% | -9% |
+| Moisés Caicedo | 95 | — | 23k coins | +33.3% | -14.8% |
+| Michaël Essien | 86 | Icons | 92k coins | +16.4% | +2.2% |
+| Felix Nmecha | 86 | Bundesliga | 550k coins | +14.8% | 0% |
+| Aleksandar Pavlović | 93 | — | 20k coins | +14.3% | 0% |
+| Ryan Wintle | 94 | — | 28k coins | +12.2% | +22.2% |
+| Angelo Stiller | 94 | — | 30k coins | +12.2% | +37.2% |
+| Kenza Dali | 94 | — | 31k coins | +11.6% | +6.8% |
+| Daniele De Rossi | 91 | Serie A TIM | 320k coins | +11.1% | +53.1% |
+| Rafael Profini | 84 | A-League Men | 47k coins | +10.6% | +14.6% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +10.5% | +14.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Natalia Ramos (87)** subiu **+57.5%** em 24h, a **62k coins** (faixa do dia: 37k–65k). Está +27% acima da média de 7 dias (aquecida).
+- **Moisés Caicedo (95)** subiu **+33.3%** em 24h, a **23k coins** (faixa do dia: 20k–23k). Está em linha com a média de 7 dias (+8%).
 
-- **Rúben Neves (87)** subiu **+47.8%** em 24h, a **24k coins** (faixa do dia: 16.750–25k). Está +23% acima da média de 7 dias (aquecida).
+- **Michaël Essien (86)** subiu **+16.4%** em 24h, a **92k coins** (faixa do dia: 82k–93k). Está em linha com a média de 7 dias (-2%).
 
-- **Declan Rice (89)** subiu **+42.3%** em 24h, a **50k coins** (faixa do dia: 32k–76k). Está -34% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** subiu **+14.8%** em 24h, a **550k coins** (faixa do dia: 479k–550k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | — | 58k coins | -47.3% | +32.6% |
-| Yaya Touré | 96 | — | 1.23M coins | -34.6% | -37.1% |
-| Ryan Gravenberch | 93 | Premier League | 180k coins | -32.1% | +13.2% |
-| Angelo Stiller | 94 | — | 29k coins | -31.5% | -1.7% |
-| Wouter Burger | 87 | Bundesliga | 26k coins | -30.1% | -77.1% |
-| Michaël Essien | 86 | Icons | 70k coins | -28.7% | -44% |
-| Rúben Neves | 95 | — | 27k coins | -27.7% | -29.6% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 36k coins | -25.3% | -13.2% |
-| Ahmed Fathi | 91 | — | 24k coins | -24.2% | -47.8% |
-| Angelo Stiller | 91 | Bundesliga | 22k coins | -22.7% | -54% |
+| David Ayala | 91 | — | 24k coins | -16.5% | -53.8% |
+| Nabil Bentaleb | 87 | — | 44k coins | -11% | +20.3% |
+| Callum McGregor | 87 | Scottish Premiership | 110k coins | -9.1% | -19.1% |
+| Casemiro | 86 | Premier League | 55k coins | -8.3% | -5.2% |
+| Ryan Yates | 85 | Premier League | 34k coins | -8.2% | +14.4% |
+| Lewis Wing | 86 | 2. Bundesliga | 46k coins | -7.5% | +17.8% |
+| Ahmed Fathi | 91 | — | 22k coins | -7.4% | -56.5% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 22k coins | -6.4% | -20.7% |
+| Sandro Tonali | 87 | Premier League | 61k coins | -6.2% | +10.9% |
+| Yaya Touré | 93 | Premier League | 1.65M coins | -3.8% | -28.1% |
 
 
 ### Análise das baixas
 
-- **Stephen Eustáquio (95)** caiu **-47.3%** em 24h, a **58k coins** (faixa do dia: 58k–110k). Está +20% acima da média de 7 dias (aquecida).
+- **David Ayala (91)** caiu **-16.5%** em 24h, a **24k coins** (faixa do dia: 24k–26k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Yaya Touré (96)** caiu **-34.6%** em 24h, a **1.23M coins** (faixa do dia: 898k–2.50M). Está em linha com a média de 7 dias (-6%).
+- **Nabil Bentaleb (87)** caiu **-11%** em 24h, a **44k coins** (faixa do dia: 44k–50k). Está em linha com a média de 7 dias (-3%).
 
-- **Ryan Gravenberch (93)** caiu **-32.1%** em 24h, a **180k coins** (faixa do dia: 126k–270k). Está -9% abaixo da média de 7 dias (descontada).
+- **Callum McGregor (87)** caiu **-9.1%** em 24h, a **110k coins** (faixa do dia: 110k–121k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Natalia Ramos já avançou 57.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Moisés Caicedo já avançou 33.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Stephen Eustáquio recuou -47.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** David Ayala recuou -16.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC.
+Moisés Caicedo (95, sem liga), com +33.3% em 24h, a 23k coins no PC.
 
 **E a maior queda do dia?**
-Stephen Eustáquio (95), -47.3% em 24h, a 58k coins.
+David Ayala (91), -16.5% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 57 cartas em alta contra 54 em queda (média 4.09%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 45 cartas em alta contra 32 em queda (média 1.32%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:17:20.000Z
+pubDatetime: 2026-07-29T16:17:19.000Z
 title: "Jogadores baratos EA FC: Volantes em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 8.792 coins.
-- **Posição mais frequente:** CDM, com 13 cartas.
-- **Faixa real:** 2.200 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 8.278 coins.
+- **Posição mais frequente:** CDM, com 9 cartas.
+- **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,16 +41,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
-| Sofyan Amrabat | 91 | CDM | LALIGA EA SPORTS | 13.000 coins | +16% |
-| Rodri | 90 | CDM | Premier League | 2.700 coins | +3.8% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | +10% |
-| Patri Guijarro | 89 | CDM | Liga F | 4.400 coins | +15.8% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Kim Little | 87 | CDM | Barclays WSL | 13.500 coins | +23.4% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14.500 coins | -11.3% |
+| Sandro Tonali | 86 | CDM | Premier League | 1.500 coins | 0% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
 
@@ -59,13 +55,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Denise O'Sullivan (91, CDM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sofyan Amrabat (91, CDM)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Rodri (90, CDM)** da Premier League, a apenas **2.700 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sandro Tonali (88, CDM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Georgia Stanway (88, CDM)** da GPFBL, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
