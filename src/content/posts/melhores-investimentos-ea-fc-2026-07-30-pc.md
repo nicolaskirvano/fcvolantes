@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:17:18.000Z
+pubDatetime: 2026-07-30T16:17:18.000Z
 title: "Investimentos EA FC: Volantes em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Moisés Caicedo (88, Premier League) lidera, com +82.9% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Xabi Alonso (87, Icons) lidera, com +72.6% em 7 dias a 178k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Moisés Caicedo (88) acumula **+82.9% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Xabi Alonso (87) acumula **+72.6% em 7 dias** a 178k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.2% em 24h** e **+34.3% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.8% em 24h** e **+25.0% em 7 dias**.
+- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Moisés Caicedo | 88 | Premier League | 68k coins | +5.3% | +82.9% | Esticada |
-| Georgia Stanway | 86 | GPFBL | 50k coins | +11.7% | +50.4% | Momentum moderado |
-| Sandro Tonali | 87 | Premier League | 65k coins | +6.6% | +42.1% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 22k coins | +12.8% | +41.9% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 120k coins | +20.8% | +37.7% | Esticada |
-| Emily van Egmond | 88 | Barclays WSL | 60k coins | +1.6% | +36.6% | Momentum moderado |
-| Jesper Karlström | 93 | — | 20k coins | +17.1% | +34.8% | Momentum moderado |
-| Nicolas Raskin | 85 | Scottish Premiership | 70k coins | +10.7% | +34.3% | Momentum moderado |
-| Nabil Bentaleb | 87 | — | 48k coins | +11.2% | +33.8% | Momentum moderado |
-| Pathé Ciss | 92 | — | 21k coins | +8.6% | +29.4% | Momentum moderado |
-| Sander Berge | 94 | — | 22k coins | +12.5% | +25% | Momentum moderado |
-| Ryan Yates | 85 | Premier League | 35k coins | +3.7% | +25% | Entrada a observar |
-| Daniele De Rossi | 87 | Serie A TIM | 21k coins | +22.7% | +24.1% | Esticada |
-| Cristian Roldan | 94 | — | 40k coins | +16.8% | +23.1% | Momentum moderado |
-| Kristijan Jakić | 92 | — | 25k coins | +4.2% | +20.5% | Entrada a observar |
+| Xabi Alonso | 87 | Icons | 178k coins | +39.4% | +72.6% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 62k coins | +1.6% | +58.8% | Momentum moderado |
+| Georgia Stanway | 86 | GPFBL | 46k coins | +5.6% | +42.1% | Momentum moderado |
+| Nabil Bentaleb | 87 | — | 60k coins | +25.8% | +36.6% | Esticada |
+| Ayyoub Bouaddi | 95 | — | 46k coins | +19% | +35.1% | Momentum moderado |
+| Pathé Ciss | 92 | — | 17.000 coins | +7.4% | +27.9% | Momentum moderado |
+| Granit Xhaka | 97 | — | 194k coins | +32.7% | +22.1% | Esticada |
+| Sander Berge | 94 | — | 20k coins | +6.2% | +21.4% | Momentum moderado |
+| Casemiro | 86 | Premier League | 60k coins | +8.2% | +19% | Momentum moderado |
+| Aleksandar Pavlović | 94 | — | 20k coins | +2.6% | +14.3% | Entrada a observar |
+| Nicolas Raskin | 85 | Scottish Premiership | 68k coins | +4.6% | +12.3% | Entrada a observar |
+| Máximo Perrone | 92 | — | 21k coins | +4.8% | +11.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Moisés Caicedo (88)** — 68k coins, **+82.9% em 7 dias** (+5.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xabi Alonso (87)** — 178k coins, **+72.6% em 7 dias** (+39.4% em 24h). Preço +111% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (86)** — 50k coins, **+50.4% em 7 dias** (+11.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 62k coins, **+58.8% em 7 dias** (+1.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 65k coins, **+42.1% em 7 dias** (+6.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georgia Stanway (86)** — 46k coins, **+42.1% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 22k coins, **+41.9% em 7 dias** (+12.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nabil Bentaleb (87)** — 60k coins, **+36.6% em 7 dias** (+25.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (91)** — 120k coins, **+37.7% em 7 dias** (+20.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ayyoub Bouaddi (95)** — 46k coins, **+35.1% em 7 dias** (+19% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Moisés Caicedo (88, Premier League) lidera, com +82.9% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Xabi Alonso (87, Icons) lidera, com +72.6% em 7 dias a 178k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
