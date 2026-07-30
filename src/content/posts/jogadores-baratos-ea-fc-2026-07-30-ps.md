@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:17:10.000Z
+pubDatetime: 2026-07-30T22:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.413 coins.
-- **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 1.800 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 8.579 coins.
+- **Posição mais frequente:** CDM, com 12 cartas.
+- **Faixa real:** 1.500 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,15 +45,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | +20% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.500 coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.200 coins | -13.5% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 12.500 coins | 0% |
-| Matheus Dias | 87 | CDM | Liga Portugal | 13.750 coins | -13.6% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 12.000 coins | -11.1% |
 | Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
-| Georgia Stanway | 85 | CDM | GPFBL | 1.800 coins | +6.2% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 1.900 coins | +11.8% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 1.500 coins | -5.9% |
 | Georgia Stanway | 85 | CDM | — | 2.200 coins | 0% |
 
 
