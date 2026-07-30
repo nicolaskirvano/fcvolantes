@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:17:09.000Z
+pubDatetime: 2026-07-30T01:17:09.000Z
 title: "Investimentos EA FC: Volantes em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Jordan Henderson (85, Premier League) lidera, com +86.4% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jordan Henderson (85, Premier League) lidera, com +83.3% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jordan Henderson (85) acumula **+86.4% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jordan Henderson (85) acumula **+83.3% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.2% em 24h** e **+31.5% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.2% em 24h** e **+40.5% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jordan Henderson | 85 | Premier League | 110k coins | +22.2% | +86.4% | Esticada |
-| Aleksandar Pavlović | 94 | — | 22k coins | +25.7% | +57.1% | Esticada |
-| Aurélien Tchouaméni | 95 | — | 45k coins | +6.2% | +50.8% | Momentum moderado |
-| Pathé Ciss | 92 | — | 22k coins | +27.8% | +48.4% | Esticada |
-| Lena Oberdorf | 86 | GPFBL | 60k coins | +23.1% | +39.5% | Esticada |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 52k coins | +11% | +36.5% | Momentum moderado |
-| Lewis Wing | 86 | 2. Bundesliga | 54k coins | +6.9% | +32.9% | Momentum moderado |
-| Edson Álvarez | 94 | — | 25k coins | +26.3% | +31.5% | Esticada |
-| Ibrahim Sangaré | 86 | Premier League | 58k coins | +2.6% | +30% | Momentum moderado |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 44k coins | +3.3% | +26.5% | Momentum moderado |
-| Kenza Dali | 94 | — | 34k coins | +31.8% | +26.1% | Esticada |
-| Xabi Alonso | 87 | Icons | 84k coins | +4% | +25.7% | Momentum moderado |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 50k coins | +1% | +25% | Entrada a observar |
-| Franck Yannick Kessié | 95 | — | 24k coins | +25.3% | +23.7% | Esticada |
-| Moisés Caicedo | 95 | — | 28k coins | +30.8% | +22.9% | Esticada |
+| Jordan Henderson | 85 | Premier League | 110k coins | +22.2% | +83.3% | Esticada |
+| Aleksandar Pavlović | 94 | — | 21k coins | +21.4% | +51.8% | Esticada |
+| Lena Oberdorf | 86 | GPFBL | 60k coins | +23.1% | +47.2% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 64k coins | +31.1% | +45% | Esticada |
+| Hamdy Fathy | 93 | — | 22k coins | +30.1% | +43.9% | Esticada |
+| Pathé Ciss | 92 | — | 22k coins | +23.6% | +43.5% | Esticada |
+| Nabil Bentaleb | 87 | — | 55k coins | +23.6% | +41% | Esticada |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 52k coins | +14.3% | +40.5% | Momentum moderado |
+| Rúben Neves | 95 | — | 39k coins | +7.4% | +37.9% | Momentum moderado |
+| Jesper Karlström | 93 | — | 22k coins | +20.5% | +37.5% | Esticada |
+| Sander Berge | 94 | — | 22k coins | +26.8% | +36.4% | Esticada |
+| Lewis Wing | 86 | 2. Bundesliga | 55k coins | +7.8% | +35.8% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 46k coins | +5% | +35.3% | Momentum moderado |
+| Xabi Alonso | 87 | Icons | 96k coins | +9.2% | +31% | Momentum moderado |
+| Edson Álvarez | 94 | — | 23k coins | +23.7% | +30.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jordan Henderson (85)** — 110k coins, **+86.4% em 7 dias** (+22.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Henderson (85)** — 110k coins, **+83.3% em 7 dias** (+22.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 22k coins, **+57.1% em 7 dias** (+25.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (94)** — 21k coins, **+51.8% em 7 dias** (+21.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aurélien Tchouaméni (95)** — 45k coins, **+50.8% em 7 dias** (+6.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lena Oberdorf (86)** — 60k coins, **+47.2% em 7 dias** (+23.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pathé Ciss (92)** — 22k coins, **+48.4% em 7 dias** (+27.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 64k coins, **+45% em 7 dias** (+31.1% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lena Oberdorf (86)** — 60k coins, **+39.5% em 7 dias** (+23.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hamdy Fathy (93)** — 22k coins, **+43.9% em 7 dias** (+30.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Jordan Henderson (85, Premier League) lidera, com +86.4% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jordan Henderson (85, Premier League) lidera, com +83.3% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
