@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:17:19.000Z
+pubDatetime: 2026-07-31T01:17:20.000Z
 title: "Jogadores baratos EA FC: Volantes em 30/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.722 coins.
-- **Posição mais frequente:** CDM, com 9 cartas.
+- **Preço médio das 10 opções:** 8.380 coins.
+- **Posição mais frequente:** CDM, com 10 cartas.
 - **Faixa real:** 2.200 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -43,7 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.500 coins | -7.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.000 coins | -10.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.800 coins | +3.6% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
@@ -59,9 +60,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sandro Tonali (88, CDM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

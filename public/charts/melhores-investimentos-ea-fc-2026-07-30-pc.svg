@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
-<rect x="285" y="153" width="276" height="28" rx="7" fill="#22c55e"/>
-<text x="571" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristian Roldan</text>
+<rect x="285" y="153" width="415" height="28" rx="7" fill="#22c55e"/>
+<text x="710" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.3%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Georgia Stanway</text>
-<rect x="285" y="211" width="271" height="28" rx="7" fill="#22c55e"/>
-<text x="566" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaelin Howell</text>
-<rect x="285" y="269" width="210" height="28" rx="7" fill="#22c55e"/>
-<text x="505" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ayyoub Bouaddi</text>
-<rect x="285" y="327" width="152" height="28" rx="7" fill="#22c55e"/>
-<text x="447" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
-<rect x="285" y="385" width="151" height="28" rx="7" fill="#22c55e"/>
-<text x="446" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.1%</text>
+<rect x="285" y="211" width="387" height="28" rx="7" fill="#22c55e"/>
+<text x="682" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
+<rect x="285" y="269" width="281" height="28" rx="7" fill="#22c55e"/>
+<text x="576" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
+<rect x="285" y="327" width="255" height="28" rx="7" fill="#22c55e"/>
+<text x="550" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="385" width="197" height="28" rx="7" fill="#22c55e"/>
+<text x="492" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.1%</text>
 </svg>

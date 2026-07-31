@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:17:07.000Z
+pubDatetime: 2026-07-31T01:17:07.000Z
 title: "Mercado EA FC em 30/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Josip Mišić (85, Liga Hrvatska), com +50.6% em 24h, a 67k coins no Console (PS)."
+    a: "Moisés Caicedo (88, Premier League), com +55.1% em 24h, a 68k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Declan Rice (89), -33.1% em 24h, a 49k coins."
+    a: "James Garner (90), -46.7% em 24h, a 26k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 131k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 44 cartas em alta contra 71 em queda (média -1.45%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 47 cartas em alta contra 74 em queda (média -3.16%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **30/07/2026** (Console (PS)): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **44 em alta** e **71 em queda**, média de **-1.45%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **30/07/2026** (Console (PS)): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **47 em alta** e **74 em queda**, média de **-3.16%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Josip Mišić (85) **+50.6%** · 🔴 **Maior baixa:** Declan Rice (89) **-33.1%**
+> 🟢 **Maior alta:** Moisés Caicedo (88) **+55.1%** · 🔴 **Maior baixa:** James Garner (90) **-46.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -37,24 +37,24 @@ Panorama de **30/07/2026** (Console (PS)): mercado **em baixa** — predominam a
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 83.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.3% entre as cartas que se moveram; o universo observado reúne 139 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 144 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Josip Mišić | 85 | Liga Hrvatska | 67k coins | +50.6% | -10.1% |
-| Peer Koopmeiners | 89 | — | 20k coins | +45.5% | +25% |
-| Julia Zigiotti | 84 | Barclays WSL | 40k coins | +45.2% | +104.5% |
-| Stephen Eustáquio | 95 | — | 54k coins | +41% | +69.2% |
-| Tyler Morton | 83 | Ligue 1 McDonald's | 30k coins | +36.4% | +50% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 39k coins | +35.9% | -43.2% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 58k coins | +27.8% | +36.9% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 65k coins | +25% | +63.5% |
-| Yaya Touré | 93 | Premier League | 1.40M coins | +24.4% | +55.6% |
-| Ryan Gravenberch | 86 | Premier League | 56k coins | +22.8% | +24.2% |
+| Moisés Caicedo | 88 | Premier League | 68k coins | +55.1% | +46.8% |
+| Daniele De Rossi | 87 | Serie A TIM | 38k coins | +50.5% | 0% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 25k coins | +37.9% | +50% |
+| Stephen Eustáquio | 95 | — | 54k coins | +37.1% | +60.3% |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 53k coins | +36.2% | +34.6% |
+| Patrick Berg | 95 | — | 42k coins | +32.8% | +41.7% |
+| Nicolas Raskin | 85 | Scottish Premiership | 100k coins | +29% | +13% |
+| Joshua Kimmich | 96 | — | 198k coins | +28.7% | +7.8% |
+| Granit Xhaka | 91 | — | 29k coins | +27.8% | -38.5% |
+| Granit Xhaka | 89 | Premier League | 28k coins | +27.5% | -42% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Panorama de **30/07/2026** (Console (PS)): mercado **em baixa** — predominam a
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Josip Mišić (85)** subiu **+50.6%** em 24h, a **67k coins** (faixa do dia: 62k–78k). Está em linha com a média de 7 dias (-5%).
+- **Moisés Caicedo (88)** subiu **+55.1%** em 24h, a **68k coins** (faixa do dia: 45k–95k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Peer Koopmeiners (89)** subiu **+45.5%** em 24h, a **20k coins** (faixa do dia: 13.000–22k). Está +26% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (87)** subiu **+50.5%** em 24h, a **38k coins** (faixa do dia: 22k–64k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Julia Zigiotti (84)** subiu **+45.2%** em 24h, a **40k coins** (faixa do dia: 21k–50k). Está +18% acima da média de 7 dias (aquecida).
+- **Tyler Morton (83)** subiu **+37.9%** em 24h, a **25k coins** (faixa do dia: 18.000–30k). Está +29% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 49k coins | -33.1% | -50% |
-| Cristian Roldan | 94 | — | 20k coins | -31.6% | -9.1% |
-| Denise O'Sullivan | 85 | NWSL | 30k coins | -26.3% | +4.5% |
-| Xabi Alonso | 87 | Icons | 66k coins | -26.1% | -2.9% |
-| Kenza Dali | 94 | — | 24k coins | -25.6% | +9.1% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -25.5% | -3.8% |
-| Frank Rijkaard | 89 | Icons | 98k coins | -24.6% | +21.8% |
-| Benjamin André | 92 | — | 20k coins | -22.3% | -3.6% |
-| Gilberto Silva | 97 | — | 58k coins | -22.3% | — |
-| Elliot Anderson | 89 | Premier League | 126k coins | -20.8% | -13% |
+| James Garner | 90 | — | 26k coins | -46.7% | -66.1% |
+| Taylor Flint | 88 | NWSL | 64k coins | -41.6% | -30.5% |
+| Sandro Tonali | 91 | Premier League | 57k coins | -37.4% | -49.1% |
+| Frank Rijkaard | 87 | Icons | 78k coins | -34.6% | +16.3% |
+| Felix Nmecha | 95 | — | 22k coins | -34.3% | -60.7% |
+| Kevin De Bruyne | 89 | Serie A TIM | 64k coins | -30.7% | -40.2% |
+| Richard Ríos | 87 | Liga Portugal | 125k coins | -25.1% | -66.8% |
+| Josip Mišić | 85 | Liga Hrvatska | 58k coins | -23.7% | -27.5% |
+| Emmanuel Petit | 87 | Icons | 80k coins | -22.6% | +2% |
+| Granit Xhaka | 96 | — | 115k coins | -20.4% | -30.2% |
 
 
 ### Análise das baixas
 
-- **Declan Rice (89)** caiu **-33.1%** em 24h, a **49k coins** (faixa do dia: 22k–62k). Está +34% acima da média de 7 dias (aquecida).
+- **James Garner (90)** caiu **-46.7%** em 24h, a **26k coins** (faixa do dia: 17.500–38k). Está em linha com a média de 7 dias (-2%).
 
-- **Cristian Roldan (94)** caiu **-31.6%** em 24h, a **20k coins** (faixa do dia: 20k–29k). Está em linha com a média de 7 dias (-8%).
+- **Taylor Flint (88)** caiu **-41.6%** em 24h, a **64k coins** (faixa do dia: 50k–132k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Denise O'Sullivan (85)** caiu **-26.3%** em 24h, a **30k coins** (faixa do dia: 16.000–30k). Está +35% acima da média de 7 dias (aquecida).
+- **Sandro Tonali (91)** caiu **-37.4%** em 24h, a **57k coins** (faixa do dia: 57k–102k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -101,14 +101,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | 16.500 coins | 17.949 coins | 94% |
+| Ryan Gravenberch | 93 | 131k coins | 139k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Josip Mišić já avançou 50.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Moisés Caicedo já avançou 55.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Declan Rice recuou -33.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** James Garner recuou -46.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Josip Mišić (85, Liga Hrvatska), com +50.6% em 24h, a 67k coins no Console (PS).
+Moisés Caicedo (88, Premier League), com +55.1% em 24h, a 68k coins no Console (PS).
 
 **E a maior queda do dia?**
-Declan Rice (89), -33.1% em 24h, a 49k coins.
+James Garner (90), -46.7% em 24h, a 26k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 131k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 44 cartas em alta contra 71 em queda (média -1.45%).
+Hoje o mercado está em baixa — predominam as quedas, com 47 cartas em alta contra 74 em queda (média -3.16%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
