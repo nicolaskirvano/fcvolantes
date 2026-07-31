@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:17:18.000Z
+pubDatetime: 2026-07-31T19:17:18.000Z
 title: "Investimentos EA FC: Volantes em 31/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.3% em 24h** e **+19.6% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.0% em 24h** e **+14.2% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Scottish Premiership** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nicolas Raskin | 85 | Scottish Premiership | 70k coins | +2.9% | +76.2% | Esticada |
-| Ayyoub Bouaddi | 95 | — | 54k coins | +13.1% | +42.1% | Momentum moderado |
-| Declan Rice | 94 | Premier League | 196k coins | +38.9% | +40.8% | Esticada |
-| Patrick Berg | 95 | — | 85k coins | +19.7% | +30.8% | Momentum moderado |
-| Ryan Yates | 85 | Premier League | 37k coins | +12.2% | +28.9% | Momentum moderado |
-| Joshua Kimmich | 96 | — | 249k coins | +20.3% | +25.8% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 22k coins | +30.9% | +23.6% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 98k coins | +23.6% | +19.6% | Esticada |
-| Natalia Ramos | 87 | — | 63k coins | +40% | +18.9% | Esticada |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 41k coins | +5% | +17.5% | Entrada a observar |
-| Ramires | 86 | Premier League | 100k coins | +11.8% | +11.8% | Momentum moderado |
-| Keira Walsh | 89 | Barclays WSL | 29k coins | +30.4% | +11.1% | Esticada |
-| Aleksandar Stanković | 87 | 1A Pro League | 170k coins | +24.1% | +11.1% | Esticada |
-| Hakan Çalhanoğlu | 95 | — | 137k coins | +12% | +9.4% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 96k coins | +21.9% | +8.3% | Esticada |
+| Aleksandar Pavlović | 89 | Bundesliga | 60k coins | +14.3% | +70.2% | Esticada |
+| Kevin Lenini | 95 | — | 47k coins | +37.1% | +60% | Esticada |
+| Natalia Ramos | 87 | — | 62k coins | +1.6% | +24.6% | Entrada a observar |
+| Lewis Wing | 86 | 2. Bundesliga | 49k coins | +5.9% | +16.6% | Momentum moderado |
+| Moisés Caicedo | 95 | — | 19.000 coins | +4.1% | +11.8% | Entrada a observar |
+| Kristijan Jakić | 92 | — | 24k coins | +6.7% | +11.6% | Momentum moderado |
+| Aleksandar Stanković | 87 | 1A Pro League | 89k coins | +24.1% | +11.1% | Esticada |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 38k coins | +2% | +8.4% | Entrada a observar |
+| Nico González | 86 | Premier League | 38k coins | +2% | +6.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Nicolas Raskin (85)** — 70k coins, **+76.2% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Raskin (85)** — 70k coins, **+76.2% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ayyoub Bouaddi (95)** — 54k coins, **+42.1% em 7 dias** (+13.1% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (89)** — 60k coins, **+70.2% em 7 dias** (+14.3% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (94)** — 196k coins, **+40.8% em 7 dias** (+38.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 47k coins, **+60% em 7 dias** (+37.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Berg (95)** — 85k coins, **+30.8% em 7 dias** (+19.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Natalia Ramos (87)** — 62k coins, **+24.6% em 7 dias** (+1.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Yates (85)** — 37k coins, **+28.9% em 7 dias** (+12.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Wing (86)** — 49k coins, **+16.6% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:17:09.000Z
+pubDatetime: 2026-07-31T19:17:08.000Z
 title: "Investimentos EA FC: Volantes em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Rani Khedira (84, Bundesliga) lidera, com +54.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Daniele De Rossi (89, Serie A TIM) lidera, com +63.1% em 7 dias a 220k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rani Khedira (84) acumula **+54.8% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Daniele De Rossi (89) acumula **+63.1% em 7 dias** a 220k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.0% em 24h** e **+32.7% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.5% em 24h** e **+19.0% em 7 dias**.
+- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +25.7% | +54.8% | Esticada |
-| Elliot Anderson | 89 | Premier League | 101k coins | +14.8% | +46.4% | Momentum moderado |
-| Kevin Lenini | 95 | — | 42k coins | +8.8% | +46.2% | Momentum moderado |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 60k coins | +1.7% | +44.9% | Momentum moderado |
-| Granit Xhaka | 97 | — | 188k coins | +7.8% | +40.6% | Momentum moderado |
-| Benjamin André | 92 | — | 24k coins | +5.5% | +35.2% | Momentum moderado |
-| Natalia Ramos | 87 | — | 58k coins | +6.3% | +32.9% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 65k coins | +14% | +32.7% | Momentum moderado |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 54k coins | +25.6% | +27% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 42k coins | +27% | +24.3% | Esticada |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 47k coins | +3.3% | +17.5% | Entrada a observar |
-| Ryan Wintle | 94 | — | 26k coins | +13.2% | +17% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 50k coins | +9% | +16.6% | Momentum moderado |
-| Jorthy Mokio | 84 | Eredivisie | 55k coins | +10% | +15.8% | Momentum moderado |
-| Lewis Wing | 86 | 2. Bundesliga | 52k coins | +4% | +15.7% | Entrada a observar |
+| Daniele De Rossi | 89 | Serie A TIM | 220k coins | +28.5% | +63.1% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 50k coins | +17.5% | +38.8% | Momentum moderado |
+| Kevin Lenini | 95 | — | 46k coins | +9.6% | +34.5% | Momentum moderado |
+| Benjamin André | 92 | — | 24k coins | +17.5% | +32.4% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 44k coins | +5.5% | +26.5% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 92k coins | +13% | +24.1% | Momentum moderado |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 56k coins | +20% | +21.3% | Esticada |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +10.5% | +19% | Momentum moderado |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +3.3% | +17.5% | Entrada a observar |
+| Angelo Stiller | 94 | — | 24k coins | +7.4% | +14.9% | Momentum moderado |
+| Gilberto Silva | 87 | Premier League | 38k coins | +8.4% | +14.8% | Momentum moderado |
+| Xabi Alonso | 87 | Icons | 78k coins | +18% | +14.6% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 52k coins | +8% | +14.3% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 66k coins | +13.3% | +11.7% | Momentum moderado |
+| Nicolas Madsen | 84 | EFL Championship | 52k coins | +5.1% | +11.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rani Khedira (84)** — 60k coins, **+54.8% em 7 dias** (+25.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (89)** — 220k coins, **+63.1% em 7 dias** (+28.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elliot Anderson (89)** — 101k coins, **+46.4% em 7 dias** (+14.8% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 50k coins, **+38.8% em 7 dias** (+17.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin Lenini (95)** — 42k coins, **+46.2% em 7 dias** (+8.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 46k coins, **+34.5% em 7 dias** (+9.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hakan Çalhanoğlu (87)** — 60k coins, **+44.9% em 7 dias** (+1.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin André (92)** — 24k coins, **+32.4% em 7 dias** (+17.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (97)** — 188k coins, **+40.6% em 7 dias** (+7.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (86)** — 44k coins, **+26.5% em 7 dias** (+5.5% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Rani Khedira (84, Bundesliga) lidera, com +54.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Daniele De Rossi (89, Serie A TIM) lidera, com +63.1% em 7 dias a 220k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

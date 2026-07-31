@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:17:07.000Z
+pubDatetime: 2026-07-31T19:17:07.000Z
 title: "Mercado EA FC em 31/07: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Moisés Caicedo (88, Premier League), com +59% em 24h, a 80k coins no Console (PS)."
+    a: "Gabriel Sara (89, Trendyol Süper Lig), com +55.5% em 24h, a 90k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ryan Gravenberch (87), -42.6% em 24h, a 28k coins."
+    a: "Angelo Stiller (91), -46.4% em 24h, a 33k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 104k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 77k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 49 cartas em alta contra 73 em queda (média -0.94%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 42 cartas em alta contra 51 em queda (média 0.53%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **49 cartas subiram** e **73 caíram** (80+ acima de 5k coins), variação média de **-0.94%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **42 cartas subiram** e **51 caíram** (80+ acima de 5k coins), variação média de **0.53%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Moisés Caicedo (88) **+59%** · 🔴 **Maior baixa:** Ryan Gravenberch (87) **-42.6%**
+> 🟢 **Maior alta:** Gabriel Sara (89) **+55.5%** · 🔴 **Maior baixa:** Angelo Stiller (91) **-46.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -37,24 +37,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **de lado
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 149 cartas.
-- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 119 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moisés Caicedo | 88 | Premier League | 80k coins | +59% | +63.9% |
-| Carlos Baleba | 90 | Premier League | 80k coins | +58% | +29.5% |
-| Denise O'Sullivan | 85 | NWSL | 26k coins | +47.9% | +9.4% |
-| Kevin De Bruyne | 89 | Serie A TIM | 95k coins | +40.7% | +31% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 48k coins | +35.7% | +128.9% |
-| Daniele De Rossi | 87 | Serie A TIM | 42k coins | +27% | +24.3% |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +25.7% | +54.8% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 54k coins | +25.6% | +27% |
-| Yaya Touré | 87 | Premier League | 568k coins | +23.5% | +47.2% |
-| Zubimendi | 99 | — | 561k coins | +23.4% | +94.6% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 90k coins | +55.5% | +59.5% |
+| Moisés Caicedo | 88 | Premier League | 52k coins | +45% | +49.5% |
+| Denise O'Sullivan | 85 | NWSL | 24k coins | +41.2% | -15.8% |
+| Ramires | 88 | Premier League | 176k coins | +38.5% | +8.6% |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 110k coins | +36.7% | +7.9% |
+| Kim Little | 87 | Barclays WSL | 24k coins | +36.6% | -26% |
+| Wouter Burger | 90 | — | 30k coins | +36.2% | -28.9% |
+| Daniele De Rossi | 89 | Serie A TIM | 220k coins | +28.5% | +63.1% |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 56k coins | +20% | +21.3% |
+| Xabi Alonso | 87 | Icons | 78k coins | +18% | +14.6% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **de lado
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Moisés Caicedo (88)** subiu **+59%** em 24h, a **80k coins** (faixa do dia: 45k–100k). Está +30% acima da média de 7 dias (aquecida).
+- **Gabriel Sara (89)** subiu **+55.5%** em 24h, a **90k coins** (faixa do dia: 34k–100k). Está +64% acima da média de 7 dias (aquecida).
 
-- **Carlos Baleba (90)** subiu **+58%** em 24h, a **80k coins** (faixa do dia: 59k–168k). Está -26% abaixo da média de 7 dias (descontada).
+- **Moisés Caicedo (88)** subiu **+45%** em 24h, a **52k coins** (faixa do dia: 48k–100k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Denise O'Sullivan (85)** subiu **+47.9%** em 24h, a **26k coins** (faixa do dia: 15.750–30k). Está +12% acima da média de 7 dias (aquecida).
+- **Denise O'Sullivan (85)** subiu **+41.2%** em 24h, a **24k coins** (faixa do dia: 15.750–30k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 87 | Premier League | 28k coins | -42.6% | +32.5% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 40k coins | -40.9% | -10.5% |
-| Ryan Christie | 90 | Premier League | 30k coins | -38.5% | -48.8% |
-| Declan Rice | 91 | Premier League | 344k coins | -36.9% | -2.3% |
-| Dunga | 89 | Icons | 63k coins | -26.2% | -18.4% |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 56k coins | -25.6% | +16% |
-| Rodri | 92 | Premier League | 230k coins | -23.3% | -20.7% |
-| Claude Makélélé | 94 | — | 315k coins | -23% | +8.6% |
-| Joshua Kimmich | 90 | Bundesliga | 50k coins | -21.9% | -44.7% |
-| Yaya Touré | 93 | Premier League | 1.29M coins | -21.6% | +31.6% |
+| Angelo Stiller | 91 | Bundesliga | 33k coins | -46.4% | +10.8% |
+| Amadou Onana | 96 | — | 43k coins | -40.6% | -50.8% |
+| Aurélien Tchouaméni | 95 | — | 71k coins | -27.5% | -0.9% |
+| Yaya Touré | 93 | Premier League | 980k coins | -25.8% | +24.5% |
+| Granit Xhaka | 96 | — | 109k coins | -25.2% | -8.8% |
+| Ibrahim Sangaré | 86 | Premier League | 60k coins | -22.5% | 0% |
+| Casemiro | 89 | Premier League | 205k coins | -21.4% | 0% |
+| Sandro Tonali | 87 | Premier League | 47k coins | -21.4% | +5.7% |
+| Ramires | 86 | Premier League | 113k coins | -20.4% | +115.2% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 68k coins | -20% | +254.4% |
 
 
 ### Análise das baixas
 
-- **Ryan Gravenberch (87)** caiu **-42.6%** em 24h, a **28k coins** (faixa do dia: 21k–70k). Está -29% abaixo da média de 7 dias (descontada).
+- **Angelo Stiller (91)** caiu **-46.4%** em 24h, a **33k coins** (faixa do dia: 20k–55k). Está em linha com a média de 7 dias (+8%).
 
-- **Javier Mascherano (89)** caiu **-40.9%** em 24h, a **40k coins** (faixa do dia: 32k–140k). Está -44% abaixo da média de 7 dias (descontada).
+- **Amadou Onana (96)** caiu **-40.6%** em 24h, a **43k coins** (faixa do dia: 29k–98k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Ryan Christie (90)** caiu **-38.5%** em 24h, a **30k coins** (faixa do dia: 29k–55k). Está -31% abaixo da média de 7 dias (descontada).
+- **Aurélien Tchouaméni (95)** caiu **-27.5%** em 24h, a **71k coins** (faixa do dia: 25k–75k). Está +86% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 104k coins | 111k coins | 82% |
+| Ryan Gravenberch | 93 | 77k coins | 82k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Moisés Caicedo já avançou 59% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gabriel Sara já avançou 55.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ryan Gravenberch recuou -42.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Angelo Stiller recuou -46.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -130,16 +130,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Moisés Caicedo (88, Premier League), com +59% em 24h, a 80k coins no Console (PS).
+Gabriel Sara (89, Trendyol Süper Lig), com +55.5% em 24h, a 90k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ryan Gravenberch (87), -42.6% em 24h, a 28k coins.
+Angelo Stiller (91), -46.4% em 24h, a 33k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 104k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 77k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 49 cartas em alta contra 73 em queda (média -0.94%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 42 cartas em alta contra 51 em queda (média 0.53%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
