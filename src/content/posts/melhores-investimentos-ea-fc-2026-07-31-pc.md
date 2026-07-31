@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:17:18.000Z
+pubDatetime: 2026-07-31T16:17:18.000Z
 title: "Investimentos EA FC: Volantes em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Elliot Anderson (89, Premier League) lidera, com +55.8% em 7 dias a 103k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolas Raskin (85, Scottish Premiership) lidera, com +76.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Elliot Anderson (89) acumula **+55.8% em 7 dias** a 103k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nicolas Raskin (85) acumula **+76.2% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+25.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.3% em 24h** e **+19.6% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 89 | Premier League | 103k coins | +24.1% | +55.8% | Esticada |
-| Aleksandar Pavlović | 94 | — | 19.250 coins | +12.5% | +32.4% | Momentum moderado |
-| Esteban Cambiasso | 86 | Serie A TIM | 24k coins | +6.8% | +30.6% | Momentum moderado |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +4% | +30% | Momentum moderado |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 118k coins | +34.1% | +29.8% | Esticada |
-| Kristijan Jakić | 92 | — | 26k coins | +12% | +28.7% | Momentum moderado |
-| Ramires | 86 | Premier League | 87k coins | +23.4% | +27.5% | Esticada |
-| Ryan Yates | 85 | Premier League | 37k coins | +5.8% | +25.6% | Momentum moderado |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 44k coins | +2.3% | +23.1% | Entrada a observar |
-| Jorthy Mokio | 84 | Eredivisie | 54k coins | +11.1% | +20.9% | Momentum moderado |
-| Nabil Bentaleb | 87 | — | 52k coins | +4.9% | +20% | Entrada a observar |
-| Frank Rijkaard | 87 | Icons | 154k coins | +27% | +19.2% | Esticada |
-| Gennaro Gattuso | 86 | Icons | 97k coins | +26.5% | +14.6% | Esticada |
-| Natalia Ramos | 87 | — | 60k coins | +1.7% | +12.8% | Entrada a observar |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 45k coins | +25.2% | +11.9% | Esticada |
+| Nicolas Raskin | 85 | Scottish Premiership | 70k coins | +2.9% | +76.2% | Esticada |
+| Ayyoub Bouaddi | 95 | — | 54k coins | +13.1% | +42.1% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 196k coins | +38.9% | +40.8% | Esticada |
+| Patrick Berg | 95 | — | 85k coins | +19.7% | +30.8% | Momentum moderado |
+| Ryan Yates | 85 | Premier League | 37k coins | +12.2% | +28.9% | Momentum moderado |
+| Joshua Kimmich | 96 | — | 249k coins | +20.3% | +25.8% | Esticada |
+| Sofie Junge Pedersen | 86 | Liga F | 22k coins | +30.9% | +23.6% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 98k coins | +23.6% | +19.6% | Esticada |
+| Natalia Ramos | 87 | — | 63k coins | +40% | +18.9% | Esticada |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 41k coins | +5% | +17.5% | Entrada a observar |
+| Ramires | 86 | Premier League | 100k coins | +11.8% | +11.8% | Momentum moderado |
+| Keira Walsh | 89 | Barclays WSL | 29k coins | +30.4% | +11.1% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 170k coins | +24.1% | +11.1% | Esticada |
+| Hakan Çalhanoğlu | 95 | — | 137k coins | +12% | +9.4% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 96k coins | +21.9% | +8.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Elliot Anderson (89)** — 103k coins, **+55.8% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolas Raskin (85)** — 70k coins, **+76.2% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 19.250 coins, **+32.4% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ayyoub Bouaddi (95)** — 54k coins, **+42.1% em 7 dias** (+13.1% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Esteban Cambiasso (86)** — 24k coins, **+30.6% em 7 dias** (+6.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (94)** — 196k coins, **+40.8% em 7 dias** (+38.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (89)** — 130k coins, **+30% em 7 dias** (+4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Berg (95)** — 85k coins, **+30.8% em 7 dias** (+19.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 118k coins, **+29.8% em 7 dias** (+34.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Yates (85)** — 37k coins, **+28.9% em 7 dias** (+12.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Elliot Anderson (89, Premier League) lidera, com +55.8% em 7 dias a 103k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolas Raskin (85, Scottish Premiership) lidera, com +76.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
