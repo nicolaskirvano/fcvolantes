@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:17:18.000Z
+pubDatetime: 2026-07-31T13:17:17.000Z
 title: "Mercado EA FC em 31/07: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Yaya Touré (93, Premier League), com +48.6% em 24h, a 2.60M coins no PC."
+    a: "Ryan Gravenberch (87, Premier League), com +53.9% em 24h, a 84k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Andrea Pirlo (91), -50% em 24h, a 700k coins."
+    a: "Ryan Wintle (94), -35.5% em 24h, a 27k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 61 cartas em alta contra 57 em queda (média 3.44%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 55 cartas em alta contra 63 em queda (média 0.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **31/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **61 cartas subiram** e **57 caíram** (80+ acima de 5k coins), variação média de **3.44%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **55 cartas subiram** e **63 caíram** (80+ acima de 5k coins), variação média de **0.3%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Yaya Touré (93) **+48.6%** · 🔴 **Maior baixa:** Andrea Pirlo (91) **-50%**
+> 🟢 **Maior alta:** Ryan Gravenberch (87) **+53.9%** · 🔴 **Maior baixa:** Ryan Wintle (94) **-35.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Volantes — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 160 cartas.
+- **Amplitude do dia:** 89.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.6% entre as cartas que se moveram; o universo observado reúne 161 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yaya Touré | 93 | Premier League | 2.60M coins | +48.6% | +18.2% |
-| Declan Rice | 89 | Premier League | 72k coins | +46.9% | -22.6% |
-| Ryan Gravenberch | 87 | Premier League | 94k coins | +46.3% | +19.6% |
-| Ramires | 86 | Premier League | 101k coins | +44.4% | +52.9% |
-| Yaya Touré | 96 | — | 1.10M coins | +41% | +29.3% |
-| Amadou Onana | 96 | — | 84k coins | +38.3% | -37% |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 95k coins | +34.8% | 0% |
-| Hakan Çalhanoğlu | 95 | — | 119k coins | +32.2% | -11.2% |
-| Wouter Burger | 87 | Bundesliga | 98k coins | +31.6% | +3.1% |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 63k coins | +28.7% | -30.5% |
+| Ryan Gravenberch | 87 | Premier League | 84k coins | +53.9% | +16.4% |
+| Keira Walsh | 89 | Barclays WSL | 34k coins | +51.1% | +25.9% |
+| Declan Rice | 89 | Premier League | 72k coins | +46.9% | -21.7% |
+| Hakan Çalhanoğlu | 95 | — | 130k coins | +44.4% | 0% |
+| Sandro Tonali | 91 | Premier League | 165k coins | +42.2% | -2.9% |
+| Ryan Gravenberch | 93 | Premier League | 270k coins | +40.6% | +35% |
+| Yaya Touré | 96 | — | 1.11M coins | +39.7% | +27.8% |
+| İsmail Yüksek | 83 | Trendyol Süper Lig | 95k coins | +36.7% | +0.5% |
+| Angelo Stiller | 85 | Bundesliga | 20k coins | +36.5% | +4.9% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 118k coins | +34.1% | +29.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Yaya Touré (93)** subiu **+48.6%** em 24h, a **2.60M coins** (faixa do dia: 1.75M–2.60M). Está +29% acima da média de 7 dias (aquecida).
+- **Ryan Gravenberch (87)** subiu **+53.9%** em 24h, a **84k coins** (faixa do dia: 38k–130k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Declan Rice (89)** subiu **+46.9%** em 24h, a **72k coins** (faixa do dia: 49k–89k). Está +21% acima da média de 7 dias (aquecida).
+- **Keira Walsh (89)** subiu **+51.1%** em 24h, a **34k coins** (faixa do dia: 19.500–35k). Está +54% acima da média de 7 dias (aquecida).
 
-- **Ryan Gravenberch (87)** subiu **+46.3%** em 24h, a **94k coins** (faixa do dia: 38k–130k). Está +52% acima da média de 7 dias (aquecida).
+- **Declan Rice (89)** subiu **+46.9%** em 24h, a **72k coins** (faixa do dia: 72k–89k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 91 | Icons | 700k coins | -50% | -12.4% |
-| Adam Wharton | 96 | — | 300k coins | -48.2% | -66.3% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 109k coins | -39.8% | -32.3% |
-| Kevin Lenini | 95 | — | 43k coins | -27.5% | +14.5% |
-| Rúben Neves | 95 | — | 34k coins | -26.6% | -19.6% |
-| Angelo Stiller | 91 | Bundesliga | 25k coins | -24.6% | -54% |
-| Cristian Roldan | 94 | — | 35k coins | -21.3% | +44.3% |
-| Aleksandar Stanković | 87 | 1A Pro League | 170k coins | -17.8% | -20% |
-| Aleksandar Pavlović | 89 | Bundesliga | 49k coins | -17.1% | +136.9% |
-| Felix Nmecha | 86 | Bundesliga | 369k coins | -17.1% | -5.4% |
+| Ryan Wintle | 94 | — | 27k coins | -35.5% | +7.9% |
+| Felix Nmecha | 86 | Bundesliga | 369k coins | -32.9% | -5.4% |
+| João Neves | 88 | Ligue 1 McDonald's | 95k coins | -32.3% | -34.8% |
+| Diego Chará | 83 | MLS | 30k coins | -32.2% | -11.6% |
+| Aleksandar Pavlović | 89 | Bundesliga | 44k coins | -30.5% | +86.9% |
+| Angelo Stiller | 91 | Bundesliga | 23k coins | -29.2% | -59.3% |
+| Jorthy Mokio | 86 | Eredivisie | 42k coins | -25% | -29.4% |
+| Xabi Alonso | 87 | Icons | 129k coins | -24% | +57.2% |
+| Rúben Neves | 95 | — | 32k coins | -20.6% | -18.7% |
+| Patri Guijarro | 91 | Liga F | 52k coins | -19.4% | -30.7% |
 
 
 ### Análise das baixas
 
-- **Andrea Pirlo (91)** caiu **-50%** em 24h, a **700k coins** (faixa do dia: 450k–1.40M). Está -24% abaixo da média de 7 dias (descontada).
+- **Ryan Wintle (94)** caiu **-35.5%** em 24h, a **27k coins** (faixa do dia: 23k–42k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Adam Wharton (96)** caiu **-48.2%** em 24h, a **300k coins** (faixa do dia: 190k–650k). Está -43% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** caiu **-32.9%** em 24h, a **369k coins** (faixa do dia: 336k–550k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (89)** caiu **-39.8%** em 24h, a **109k coins** (faixa do dia: 109k–181k). Está -10% abaixo da média de 7 dias (descontada).
+- **João Neves (88)** caiu **-32.3%** em 24h, a **95k coins** (faixa do dia: 88k–190k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Yaya Touré já avançou 48.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ryan Gravenberch já avançou 53.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Andrea Pirlo recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ryan Wintle recuou -35.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Yaya Touré (93, Premier League), com +48.6% em 24h, a 2.60M coins no PC.
+Ryan Gravenberch (87, Premier League), com +53.9% em 24h, a 84k coins no PC.
 
 **E a maior queda do dia?**
-Andrea Pirlo (91), -50% em 24h, a 700k coins.
+Ryan Wintle (94), -35.5% em 24h, a 27k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 61 cartas em alta contra 57 em queda (média 3.44%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 55 cartas em alta contra 63 em queda (média 0.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
