@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:17:17.000Z
+pubDatetime: 2026-08-01T19:17:17.000Z
 title: "Mercado EA FC em 01/08: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Daniele De Rossi (95, sem liga), com +55.7% em 24h, a 780k coins no PC."
+    a: "Blaise Matuidi (86, Ligue 1 McDonald's), com +59.8% em 24h, a 78k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aleksandar Stanković (87), -46.5% em 24h, a 91k coins."
+    a: "Frank Rijkaard (87), -50% em 24h, a 93k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 62 cartas em alta contra 65 em queda (média -0.42%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 55 em queda (média 2.22%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **01/08/2026** no PC: dia **indefinido** — sem tendência dominante. **62 valorizações** contra **65 quedas** entre as cartas relevantes, com média de **-0.42%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **01/08/2026** no PC: mercado **aquecido** — as altas dominam o dia. **55 valorizações** contra **55 quedas** entre as cartas relevantes, com média de **2.22%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Daniele De Rossi (95) **+55.7%** · 🔴 **Maior baixa:** Aleksandar Stanković (87) **-46.5%**
+> 🟢 **Maior alta:** Blaise Matuidi (86) **+59.8%** · 🔴 **Maior baixa:** Frank Rijkaard (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Volantes — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no PC: dia **indefinido** — sem tendência dominante.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 168 cartas.
-- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 95 | — | 780k coins | +55.7% | +10% |
-| Gilberto Silva | 97 | — | 100k coins | +55.2% | +8.9% |
-| Wouter Burger | 90 | — | 35k coins | +53.8% | +52.2% |
-| Matt Grimes | 94 | — | 35k coins | +47.9% | +73.8% |
-| Joshua Kimmich | 98 | — | 634k coins | +45.1% | — |
-| Dunga | 87 | Icons | 100k coins | +44.4% | +57.6% |
-| Ryan Gravenberch | 86 | Premier League | 84k coins | +33.1% | +59.4% |
-| Benjamin André | 92 | — | 22k coins | +27.5% | +3.5% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +25.9% | +6.9% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 280k coins | +19.7% | +16.7% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 78k coins | +59.8% | -10.9% |
+| Ryan Gravenberch | 87 | Premier League | 68k coins | +57.1% | +54.4% |
+| Ryan Gravenberch | 96 | — | 59k coins | +55.7% | -13.3% |
+| Yui Hasegawa | 94 | — | 34k coins | +50.5% | +55.6% |
+| Angelo Stiller | 94 | — | 55k coins | +49.7% | +20.9% |
+| Gilberto Silva | 97 | — | 120k coins | +37.2% | +10.3% |
+| Matt Grimes | 94 | — | 35k coins | +35% | +73.8% |
+| Daniele De Rossi | 95 | — | 780k coins | +25.8% | -13.3% |
+| Dunga | 87 | Icons | 94k coins | +24% | +44.7% |
+| Han-Noah Massengo | 84 | Bundesliga | 42k coins | +21.4% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no PC: dia **indefinido** — sem tendência dominante.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Daniele De Rossi (95)** subiu **+55.7%** em 24h, a **780k coins** (faixa do dia: 500k–800k). Está +14% acima da média de 7 dias (aquecida).
+- **Blaise Matuidi (86)** subiu **+59.8%** em 24h, a **78k coins** (faixa do dia: 39k–90k). Está em linha com a média de 7 dias (-3%).
 
-- **Gilberto Silva (97)** subiu **+55.2%** em 24h, a **100k coins** (faixa do dia: 65k–127k). Está +17% acima da média de 7 dias (aquecida).
+- **Ryan Gravenberch (87)** subiu **+57.1%** em 24h, a **68k coins** (faixa do dia: 25k–96k). Está em linha com a média de 7 dias (+5%).
 
-- **Wouter Burger (90)** subiu **+53.8%** em 24h, a **35k coins** (faixa do dia: 18.750–35k). Está +26% acima da média de 7 dias (aquecida).
+- **Ryan Gravenberch (96)** subiu **+55.7%** em 24h, a **59k coins** (faixa do dia: 31k–95k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Stanković | 87 | 1A Pro League | 91k coins | -46.5% | -13.3% |
-| Claude Makélélé | 87 | Icons | 101k coins | -44.6% | +8.3% |
-| Youri Tielemans | 96 | — | 129k coins | -42.1% | -34.9% |
-| Ayyoub Bouaddi | 95 | — | 40k coins | -37.5% | +40.6% |
-| Moisés Caicedo | 88 | Premier League | 68k coins | -32.8% | -15.4% |
-| Cristian Roldan | 94 | — | 20k coins | -28.9% | -21.8% |
-| Callum McGregor | 87 | Scottish Premiership | 71k coins | -28.2% | -46.3% |
-| Sammy Braybrooke | 91 | — | 23k coins | -24.4% | -2% |
-| Felix Nmecha | 95 | — | 26k coins | -22.4% | -11.9% |
-| Angelo Stiller | 85 | Bundesliga | 24k coins | -20.3% | +28.9% |
+| Frank Rijkaard | 87 | Icons | 93k coins | -50% | -27.8% |
+| Aleksandar Stanković | 87 | 1A Pro League | 84k coins | -49.1% | -18.4% |
+| Emmanuel Petit | 87 | Icons | 98k coins | -45.7% | +40.3% |
+| Xabi Alonso | 87 | Icons | 70k coins | -41.5% | +4.5% |
+| Adam Wharton | 96 | — | 114k coins | -39.5% | -72.7% |
+| Youri Tielemans | 96 | — | 150k coins | -34.3% | -1.2% |
+| Granit Xhaka | 89 | Premier League | 60k coins | -29.6% | -22.7% |
+| Declan Rice | 89 | Premier League | 64k coins | -26.3% | +36.8% |
+| Ramires | 86 | Premier League | 113k coins | -24.8% | +53% |
+| Victor Lindelöf | 96 | — | 34k coins | -23.9% | -73.1% |
 
 
 ### Análise das baixas
 
-- **Aleksandar Stanković (87)** caiu **-46.5%** em 24h, a **91k coins** (faixa do dia: 75k–170k). Está -25% abaixo da média de 7 dias (descontada).
+- **Frank Rijkaard (87)** caiu **-50%** em 24h, a **93k coins** (faixa do dia: 70k–154k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Claude Makélélé (87)** caiu **-44.6%** em 24h, a **101k coins** (faixa do dia: 71k–135k). Está +28% acima da média de 7 dias (aquecida).
+- **Aleksandar Stanković (87)** caiu **-49.1%** em 24h, a **84k coins** (faixa do dia: 75k–170k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Youri Tielemans (96)** caiu **-42.1%** em 24h, a **129k coins** (faixa do dia: 110k–262k). Está -31% abaixo da média de 7 dias (descontada).
+- **Emmanuel Petit (87)** caiu **-45.7%** em 24h, a **98k coins** (faixa do dia: 90k–192k). Está -45% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Daniele De Rossi já avançou 55.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Blaise Matuidi já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aleksandar Stanković recuou -46.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Frank Rijkaard recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Daniele De Rossi (95, sem liga), com +55.7% em 24h, a 780k coins no PC.
+Blaise Matuidi (86, Ligue 1 McDonald's), com +59.8% em 24h, a 78k coins no PC.
 
 **E a maior queda do dia?**
-Aleksandar Stanković (87), -46.5% em 24h, a 91k coins.
+Frank Rijkaard (87), -50% em 24h, a 93k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 62 cartas em alta contra 65 em queda (média -0.42%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 55 em queda (média 2.22%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
