@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:17:07.000Z
+pubDatetime: 2026-08-01T22:17:07.000Z
 title: "Mercado EA FC em 01/08: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Daniele De Rossi (95, sem liga), com +50.2% em 24h, a 750k coins no Console (PS)."
+    a: "Nabil Bentaleb (86, Ligue 1 McDonald's), com +59.7% em 24h, a 48k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Emily van Egmond (88), -39.7% em 24h, a 93k coins."
+    a: "Ryan Gravenberch (93), -39.2% em 24h, a 70k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 70k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 58 cartas em alta contra 51 em queda (média 8.38%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 46 em queda (média 9.67%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **01/08/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **58 valorizações** contra **51 quedas** entre as cartas relevantes, com média de **8.38%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **77 valorizações** contra **46 quedas** entre as cartas relevantes, com média de **9.67%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Daniele De Rossi (95) **+50.2%** · 🔴 **Maior baixa:** Emily van Egmond (88) **-39.7%**
+> 🟢 **Maior alta:** Nabil Bentaleb (86) **+59.7%** · 🔴 **Maior baixa:** Ryan Gravenberch (93) **-39.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +37,24 @@ Resumo de **01/08/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.2% entre as cartas que se moveram; o universo observado reúne 138 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 62.6% entre as cartas que se moveram; o universo observado reúne 153 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 95 | — | 750k coins | +50.2% | +73.7% |
-| Georgia Stanway | 97 | — | 35k coins | +48.9% | -12.5% |
-| Youri Tielemans | 96 | — | 225k coins | +36.5% | +90% |
-| Yaya Touré | 93 | Premier League | 1.30M coins | +32.6% | -7.2% |
-| Felix Nmecha | 86 | Bundesliga | 219k coins | +31.9% | +46% |
-| Gilberto Silva | 97 | — | 98k coins | +28.2% | +6.4% |
-| Sandro Tonali | 91 | Premier League | 58k coins | +28% | -44.3% |
-| Yaya Touré | 87 | Premier League | 650k coins | +27.7% | +56.2% |
-| Georgia Stanway | 95 | — | 25k coins | +26.6% | +56.2% |
-| Casemiro | 84 | Premier League | 54k coins | +26.2% | +18.2% |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 48k coins | +59.7% | +93.9% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 202k coins | +54.6% | +32.9% |
+| Amadou Onana | 96 | — | 70k coins | +50.5% | -1.4% |
+| Yaya Touré | 93 | Premier League | 1.30M coins | +43% | +17.4% |
+| Sandro Tonali | 91 | Premier League | 56k coins | +39% | -50.4% |
+| Yaya Touré | 87 | Premier League | 629k coins | +37% | +51.2% |
+| Blaise Matuidi | 95 | — | 28k coins | +36.5% | +45% |
+| Wouter Burger | 90 | — | 23k coins | +27.1% | +52.1% |
+| Daniele De Rossi | 89 | Serie A TIM | 251k coins | +25% | +52.8% |
+| Joshua Kimmich | 96 | — | 190k coins | +24.5% | +0.5% |
 
 
 ### Análise das altas
@@ -61,43 +63,52 @@ Resumo de **01/08/2026** no Console (PS): mercado **aquecido** — as altas domi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Daniele De Rossi (95)** subiu **+50.2%** em 24h, a **750k coins** (faixa do dia: 420k–950k). Está +37% acima da média de 7 dias (aquecida).
+- **Nabil Bentaleb (86)** subiu **+59.7%** em 24h, a **48k coins** (faixa do dia: 22k–48k). Está +97% acima da média de 7 dias (aquecida).
 
-- **Georgia Stanway (97)** subiu **+48.9%** em 24h, a **35k coins** (faixa do dia: 22k–35k). Está +9% acima da média de 7 dias (aquecida).
+- **Aurélien Tchouaméni (86)** subiu **+54.6%** em 24h, a **202k coins** (faixa do dia: 131k–378k). Está em linha com a média de 7 dias (-5%).
 
-- **Youri Tielemans (96)** subiu **+36.5%** em 24h, a **225k coins** (faixa do dia: 167k–240k). Está +27% acima da média de 7 dias (aquecida).
+- **Amadou Onana (96)** subiu **+50.5%** em 24h, a **70k coins** (faixa do dia: 30k–74k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emily van Egmond | 88 | Barclays WSL | 93k coins | -39.7% | -59.5% |
-| Georgia Stanway | 88 | Liga F | 75k coins | -37.7% | -15% |
-| Julia Zigiotti | 84 | Barclays WSL | 25k coins | -35.7% | +17.9% |
-| Ryan Christie | 90 | Premier League | 24k coins | -35% | -38.4% |
-| Stephen Eustáquio | 95 | — | 40k coins | -26.3% | +17.6% |
-| Richard Ríos | 87 | Liga Portugal | 212k coins | -25.6% | +4.1% |
-| Nabil Bentaleb | 87 | — | 47k coins | -25.5% | +5.1% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 53k coins | -20.4% | -3.7% |
-| N'Golo Kanté | 93 | Trendyol Süper Lig | 100k coins | -17.9% | -15.8% |
-| Rodri | 92 | Premier League | 202k coins | -16.5% | -36% |
+| Ryan Gravenberch | 93 | Premier League | 70k coins | -39.2% | -48.8% |
+| Emily van Egmond | 88 | Barclays WSL | 92k coins | -38.7% | -61.2% |
+| Georgia Stanway | 88 | Liga F | 48k coins | -36.7% | -12.8% |
+| Richard Ríos | 87 | Liga Portugal | 194k coins | -33.4% | -12.4% |
+| Nabil Bentaleb | 87 | — | 45k coins | -25.6% | +16.9% |
+| Aurélien Tchouaméni | 95 | — | 50k coins | -24.8% | +68.1% |
+| Emmanuel Petit | 87 | Icons | 71k coins | -22.8% | -4.1% |
+| Declan Rice | 89 | Premier League | 49k coins | -22.3% | +2.6% |
+| Hakan Çalhanoğlu | 95 | — | 126k coins | -18.8% | +94.8% |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 111k coins | -18.7% | -16.7% |
 
 
 ### Análise das baixas
 
-- **Emily van Egmond (88)** caiu **-39.7%** em 24h, a **93k coins** (faixa do dia: 90k–173k). Está -51% abaixo da média de 7 dias (descontada).
+- **Ryan Gravenberch (93)** caiu **-39.2%** em 24h, a **70k coins** (faixa do dia: 57k–121k). Está -37% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 82% de probabilidade.
 
-- **Georgia Stanway (88)** caiu **-37.7%** em 24h, a **75k coins** (faixa do dia: 47k–75k). Está +40% acima da média de 7 dias (aquecida).
+- **Emily van Egmond (88)** caiu **-38.7%** em 24h, a **92k coins** (faixa do dia: 90k–173k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Julia Zigiotti (84)** caiu **-35.7%** em 24h, a **25k coins** (faixa do dia: 13.750–50k). Está -32% abaixo da média de 7 dias (descontada).
+- **Georgia Stanway (88)** caiu **-36.7%** em 24h, a **48k coins** (faixa do dia: 47k–75k). Está -11% abaixo da média de 7 dias (descontada).
+
+
+## 🔮 Radar de valorização (24h)
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Ryan Gravenberch | 93 | 70k coins | 74k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Daniele De Rossi já avançou 50.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nabil Bentaleb já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Emily van Egmond recuou -39.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ryan Gravenberch recuou -39.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Daniele De Rossi (95, sem liga), com +50.2% em 24h, a 750k coins no Console (PS).
+Nabil Bentaleb (86, Ligue 1 McDonald's), com +59.7% em 24h, a 48k coins no Console (PS).
 
 **E a maior queda do dia?**
-Emily van Egmond (88), -39.7% em 24h, a 93k coins.
+Ryan Gravenberch (93), -39.2% em 24h, a 70k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 70k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 58 cartas em alta contra 51 em queda (média 8.38%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 46 em queda (média 9.67%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

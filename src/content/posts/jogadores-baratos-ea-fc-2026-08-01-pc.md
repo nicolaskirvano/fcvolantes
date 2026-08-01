@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:17:20.000Z
+pubDatetime: 2026-08-01T22:17:19.000Z
 title: "Jogadores baratos EA FC: Volantes em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.127 coins.
+- **Preço médio das 15 opções:** 9.540 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 5.400 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.200 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 93 | CDM | — | 11.750 coins | +1.8% |
+| Ramires | 93 | CDM | — | 11.750 coins | +26.9% |
 | Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 91 | CDM | Liga F | 11.500 coins | 0% |
-| Rodri | 90 | CDM | Premier League | 5.400 coins | +25% |
-| Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
+| Rodri | 90 | CDM | Premier League | 5.700 coins | +21.7% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | -3.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.900 coins | -6.3% |
+| Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +19.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.600 coins | -5.1% |
 | Dunga | 89 | CDM | Icons | 11.250 coins | 0% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Declan Rice | 87 | CDM | Premier League | 2.200 coins | +15% |
 
 
 ## 📈 Destaques
 
-- **Ramires (93, CDM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ramires (93, CDM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Aurélien Tchouaméni (92, CDM)** da —, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (91, CDM)** da Liga F, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **5.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Rodri (90, CDM)** da Premier League, a apenas **5.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
