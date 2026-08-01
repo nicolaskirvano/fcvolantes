@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:17:18.000Z
+pubDatetime: 2026-08-01T01:17:18.000Z
 title: "Investimentos EA FC: Volantes em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Nabil Bentaleb (86, Ligue 1 McDonald's) lidera, com +64.6% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sofie Junge Pedersen (86, Liga F) lidera, com +75.6% em 7 dias a 19.750 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nabil Bentaleb (86) acumula **+64.6% em 7 dias** a 41k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sofie Junge Pedersen (86) acumula **+75.6% em 7 dias** a 19.750 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.3% em 24h** e **+35.7% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.0% em 24h** e **+22.4% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 41k coins | +1.9% | +64.6% | Esticada |
-| Youri Tielemans | 96 | — | 210k coins | +30.5% | +59% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 28k coins | +10.1% | +53.8% | Momentum moderado |
-| Aleksandar Pavlović | 89 | Bundesliga | 54k coins | +1.9% | +50.7% | Momentum moderado |
-| Angelo Stiller | 85 | Bundesliga | 30k coins | +35.4% | +47.7% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 19.750 coins | +15.3% | +40.7% | Momentum moderado |
-| Kevin Lenini | 95 | — | 40k coins | +17.1% | +36.7% | Momentum moderado |
-| Aleksandar Pavlović | 93 | — | 19.000 coins | +26.7% | +35.7% | Esticada |
-| Natalia Ramos | 87 | — | 60k coins | +1.6% | +27.2% | Momentum moderado |
-| Granit Xhaka | 89 | Premier League | 82k coins | +5% | +27.1% | Momentum moderado |
-| Pathé Ciss | 92 | — | 17.750 coins | +10.9% | +20.3% | Momentum moderado |
-| Granit Xhaka | 96 | — | 181k coins | +18.9% | +18.2% | Momentum moderado |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 45k coins | +13.1% | +16.8% | Momentum moderado |
-| Blaise Matuidi | 95 | — | 30k coins | +23.3% | +16.5% | Esticada |
-| Sander Berge | 94 | — | 18.500 coins | +15.6% | +15.6% | Momentum moderado |
+| Sofie Junge Pedersen | 86 | Liga F | 19.750 coins | +23.4% | +75.6% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 31k coins | +25.3% | +72.2% | Esticada |
+| Kevin Lenini | 95 | — | 46k coins | +31.4% | +46% | Esticada |
+| Elliot Anderson | 86 | Premier League | 49k coins | +2.5% | +44.3% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 18.500 coins | +27.1% | +38.9% | Esticada |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 15.500 coins | +21.2% | +37% | Esticada |
+| Ayyoub Bouaddi | 95 | — | 25k coins | +6.2% | +31.8% | Momentum moderado |
+| Pathé Ciss | 92 | — | 17.750 coins | +20.3% | +22.4% | Esticada |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 45k coins | +1.1% | +21.5% | Entrada a observar |
+| Rani Khedira | 84 | Bundesliga | 59k coins | +23.3% | +20.2% | Esticada |
+| Nabil Bentaleb | 87 | — | 50k coins | +4% | +20% | Entrada a observar |
+| Georgia Stanway | 95 | — | 18.500 coins | +7% | +15.2% | Momentum moderado |
+| Benjamin André | 92 | — | 24k coins | +4.3% | +12.9% | Entrada a observar |
+| Franck Yannick Kessié | 95 | — | 18.000 coins | +18% | +12.5% | Momentum moderado |
+| Jesper Karlström | 93 | — | 17.000 coins | +13.3% | +11.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nabil Bentaleb (86)** — 41k coins, **+64.6% em 7 dias** (+1.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofie Junge Pedersen (86)** — 19.750 coins, **+75.6% em 7 dias** (+23.4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Tielemans (96)** — 210k coins, **+59% em 7 dias** (+30.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 31k coins, **+72.2% em 7 dias** (+25.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 28k coins, **+53.8% em 7 dias** (+10.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 46k coins, **+46% em 7 dias** (+31.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (89)** — 54k coins, **+50.7% em 7 dias** (+1.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elliot Anderson (86)** — 49k coins, **+44.3% em 7 dias** (+2.5% em 24h). Preço +88% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (85)** — 30k coins, **+47.7% em 7 dias** (+35.4% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (93)** — 18.500 coins, **+38.9% em 7 dias** (+27.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Nabil Bentaleb (86, Ligue 1 McDonald's) lidera, com +64.6% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sofie Junge Pedersen (86, Liga F) lidera, com +75.6% em 7 dias a 19.750 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
