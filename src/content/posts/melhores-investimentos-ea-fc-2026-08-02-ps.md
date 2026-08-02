@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:17:09.000Z
+pubDatetime: 2026-08-02T13:17:09.000Z
 title: "Investimentos EA FC: Volantes em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Melle Meulensteen (91, sem liga) lidera, com +84.8% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Carlos Baleba (90, Premier League) lidera, com +63.6% em 7 dias a 228k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+84.8% em 7 dias** a 35k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Carlos Baleba (90) acumula **+63.6% em 7 dias** a 228k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.9% em 24h** e **+50.7% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.2% em 24h** e **+44.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 91 | — | 35k coins | +15.1% | +84.8% | Esticada |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 30k coins | +3.4% | +69% | Esticada |
-| Carlos Baleba | 90 | Premier League | 229k coins | +17.9% | +64.3% | Esticada |
-| Taylor Flint | 88 | NWSL | 120k coins | +23.5% | +63.3% | Esticada |
-| Kristijan Jakić | 92 | — | 24k coins | +18.5% | +60% | Esticada |
-| Stephen Eustáquio | 95 | — | 58k coins | +38.1% | +58.9% | Esticada |
-| Youri Tielemans | 96 | — | 212k coins | +3.9% | +51.4% | Momentum moderado |
-| Benjamin André | 92 | — | 26k coins | +13.8% | +50.7% | Momentum moderado |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 94k coins | +29.8% | +50% | Esticada |
-| Kevin Lenini | 95 | — | 45k coins | +28.7% | +47.1% | Esticada |
-| Rúben Neves | 95 | — | 44k coins | +11.4% | +46.7% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 20k coins | +25% | +42.9% | Esticada |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 241k coins | +38.5% | +40.9% | Esticada |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 81k coins | +13.3% | +39.7% | Momentum moderado |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 15.750 coins | +6.7% | +39.1% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 228k coins | +19.9% | +63.6% | Esticada |
+| Wouter Burger | 90 | — | 31k coins | +27.2% | +62.5% | Esticada |
+| Declan Rice | 89 | Premier League | 59k coins | +13.2% | +51.9% | Momentum moderado |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 17.000 coins | +9.5% | +50% | Momentum moderado |
+| Yui Hasegawa | 94 | — | 24k coins | +6.2% | +49.3% | Momentum moderado |
+| Frank Rijkaard | 89 | Icons | 137k coins | +35.6% | +48.1% | Esticada |
+| Joshua Kimmich | 90 | Bundesliga | 65k coins | +36.8% | +44.4% | Esticada |
+| Matheus Dias | 87 | Liga Portugal | 17.000 coins | +14.3% | +44% | Momentum moderado |
+| Aleksandar Pavlović | 94 | — | 18.500 coins | +1.3% | +41.1% | Momentum moderado |
+| Jesper Karlström | 93 | — | 18.250 coins | +10.4% | +39.6% | Momentum moderado |
+| Ahmed Fathi | 91 | — | 26k coins | +35% | +38.5% | Esticada |
+| Kenza Dali | 94 | — | 28k coins | +5.8% | +38% | Momentum moderado |
+| Sander Berge | 94 | — | 18.500 coins | +8.8% | +37% | Momentum moderado |
+| Pathé Ciss | 92 | — | 18.000 coins | +10.4% | +37% | Momentum moderado |
+| Denise O'Sullivan | 85 | NWSL | 29k coins | +23.7% | +36.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Melle Meulensteen (91)** — 35k coins, **+84.8% em 7 dias** (+15.1% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 228k coins, **+63.6% em 7 dias** (+19.9% em 24h). Preço +96% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denis Zakaria (85)** — 30k coins, **+69% em 7 dias** (+3.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wouter Burger (90)** — 31k coins, **+62.5% em 7 dias** (+27.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Baleba (90)** — 229k coins, **+64.3% em 7 dias** (+17.9% em 24h). Preço +99% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 59k coins, **+51.9% em 7 dias** (+13.2% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 120k coins, **+63.3% em 7 dias** (+23.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 17.000 coins, **+50% em 7 dias** (+9.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kristijan Jakić (92)** — 24k coins, **+60% em 7 dias** (+18.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (94)** — 24k coins, **+49.3% em 7 dias** (+6.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Melle Meulensteen (91, sem liga) lidera, com +84.8% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Carlos Baleba (90, Premier League) lidera, com +63.6% em 7 dias a 228k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
