@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:17:09.000Z
+pubDatetime: 2026-08-02T22:17:09.000Z
 title: "Investimentos EA FC: Volantes em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Aleksandar Pavlović (89, Bundesliga) lidera, com +79.8% em 7 dias a 18.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Carlos Baleba (90, Premier League) lidera, com +88.3% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aleksandar Pavlović (89) acumula **+79.8% em 7 dias** a 18.500 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Carlos Baleba (90) acumula **+88.3% em 7 dias** a 230k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.4% em 24h** e **+42.9% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.5% em 24h** e **+51.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 89 | Bundesliga | 18.500 coins | +30.2% | +79.8% | Esticada |
-| Kevin De Bruyne | 89 | Serie A TIM | 100k coins | +8.2% | +76.5% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 62k coins | +28.1% | +75.7% | Esticada |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 20k coins | +5.3% | +71.7% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 44k coins | +20.3% | +54.6% | Esticada |
-| Angelo Stiller | 94 | — | 30k coins | +2.6% | +54.5% | Momentum moderado |
-| Benjamin André | 92 | — | 26k coins | +1.9% | +49.3% | Momentum moderado |
-| Jaelin Howell | 89 | NWSL | 25k coins | +29.9% | +42.9% | Esticada |
-| Nabil Bentaleb | 87 | — | 43k coins | +26.7% | +42.5% | Esticada |
-| Sammy Braybrooke | 91 | — | 21k coins | +2.3% | +40.6% | Momentum moderado |
-| Luka Modrić | 97 | — | 89k coins | +16.4% | +40.5% | Momentum moderado |
-| Joshua Kimmich | 96 | — | 179k coins | +14.4% | +33.6% | Momentum moderado |
-| David Ayala | 91 | — | 24k coins | +9.2% | +30.1% | Momentum moderado |
-| Georgia Stanway | 86 | GPFBL | 56k coins | +11% | +27.6% | Momentum moderado |
-| Granit Xhaka | 97 | — | 164k coins | +22% | +26.2% | Esticada |
+| Carlos Baleba | 90 | Premier League | 230k coins | +17.6% | +88.3% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 58k coins | +29.5% | +85.2% | Esticada |
+| Wouter Burger | 90 | — | 30k coins | +16.5% | +66.7% | Esticada |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 19.250 coins | +6.8% | +64.6% | Esticada |
+| Máximo Perrone | 92 | — | 26k coins | +1.9% | +60.6% | Esticada |
+| Aleksandar Pavlović | 94 | — | 22k coins | +9.4% | +55% | Momentum moderado |
+| Ryan Wintle | 94 | — | 29k coins | +6.4% | +51.9% | Momentum moderado |
+| Claire Hutton | 92 | — | 24k coins | +1.9% | +51.4% | Momentum moderado |
+| Piotr Zieliński | 93 | — | 25k coins | +3.8% | +45.9% | Momentum moderado |
+| Cristian Roldan | 94 | — | 29k coins | +10.5% | +41.5% | Momentum moderado |
+| Jesper Karlström | 93 | — | 22k coins | +7.5% | +41% | Momentum moderado |
+| Pathé Ciss | 92 | — | 22k coins | +7.5% | +41% | Momentum moderado |
+| David Ayala | 91 | — | 22k coins | +22.1% | +38.2% | Esticada |
+| Sander Berge | 94 | — | 19.750 coins | +6.2% | +36.5% | Momentum moderado |
+| Gilberto Silva | 97 | — | 129k coins | +9.1% | +31.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aleksandar Pavlović (89)** — 18.500 coins, **+79.8% em 7 dias** (+30.2% em 24h). Preço -34% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 230k coins, **+88.3% em 7 dias** (+17.6% em 24h). Preço +87% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin De Bruyne (89)** — 100k coins, **+76.5% em 7 dias** (+8.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (87)** — 58k coins, **+85.2% em 7 dias** (+29.5% em 24h). Preço -81% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 62k coins, **+75.7% em 7 dias** (+28.1% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wouter Burger (90)** — 30k coins, **+66.7% em 7 dias** (+16.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofyan Amrabat (91)** — 20k coins, **+71.7% em 7 dias** (+5.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 19.250 coins, **+64.6% em 7 dias** (+6.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattéo Guendouzi (91)** — 44k coins, **+54.6% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Máximo Perrone (92)** — 26k coins, **+60.6% em 7 dias** (+1.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Aleksandar Pavlović (89, Bundesliga) lidera, com +79.8% em 7 dias a 18.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Carlos Baleba (90, Premier League) lidera, com +88.3% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

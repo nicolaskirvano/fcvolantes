@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:17:17.000Z
+pubDatetime: 2026-08-02T22:17:17.000Z
 title: "Mercado EA FC em 02/08: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Angelo Stiller (91, Bundesliga), com +57.6% em 24h, a 35k coins no PC."
+    a: "Angelo Stiller (91, Bundesliga), com +58.3% em 24h, a 33k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Angelo Stiller (85), -38.5% em 24h, a 29k coins."
+    a: "Frank Rijkaard (89), -44.7% em 24h, a 86k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 58 em queda (média 2.05%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 50 em queda (média 2.38%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **44 subiram**, **58 caíram** (80+ e 5k+ coins), média de **2.05%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **56 subiram**, **50 caíram** (80+ e 5k+ coins), média de **2.38%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Angelo Stiller (91) **+57.6%** · 🔴 **Maior baixa:** Angelo Stiller (85) **-38.5%**
+> 🟢 **Maior alta:** Angelo Stiller (91) **+58.3%** · 🔴 **Maior baixa:** Frank Rijkaard (89) **-44.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Volantes — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.1% entre as cartas que se moveram; o universo observado reúne 159 cartas.
+- **Amplitude do dia:** 103.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.8% entre as cartas que se moveram; o universo observado reúne 161 cartas.
 - **Concentração:** Bundesliga aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 91 | Bundesliga | 35k coins | +57.6% | -1.4% |
-| Xabi Alonso | 87 | Icons | 104k coins | +56.5% | +63.6% |
-| Georgia Stanway | 97 | — | 46k coins | +54% | +40.4% |
-| Diego Chará | 83 | MLS | 36k coins | +53.2% | +37.1% |
-| Aleksandar Pavlović | 89 | Bundesliga | 55k coins | +47.6% | +11.5% |
-| Georgia Stanway | 88 | Liga F | 64k coins | +38.5% | +3.9% |
-| Matheus Dias | 87 | Liga Portugal | 24k coins | +36.8% | +57.6% |
+| Angelo Stiller | 91 | Bundesliga | 33k coins | +58.3% | -6.3% |
+| Aleksandar Pavlović | 89 | Bundesliga | 52k coins | +54.6% | +19.8% |
+| Daniele De Rossi | 95 | — | 780k coins | +41.8% | -2.4% |
+| Ryan Christie | 90 | Premier League | 29k coins | +38.1% | -55.4% |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +33.8% | -0.9% |
 | Felix Nmecha | 86 | Bundesliga | 539k coins | +33.1% | -2% |
-| Emily van Egmond | 88 | Barclays WSL | 59k coins | +32.6% | +11.9% |
-| Ryan Gravenberch | 93 | Premier League | 193k coins | +30.5% | +97% |
+| Stephen Eustáquio | 95 | — | 66k coins | +32% | -37.1% |
+| Georgia Stanway | 88 | Liga F | 54k coins | +25.6% | -8.9% |
+| Georgia Stanway | 97 | — | 43k coins | +25.4% | +25.4% |
+| Nicolas Madsen | 84 | EFL Championship | 43k coins | +24.6% | -14% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Angelo Stiller (91)** subiu **+57.6%** em 24h, a **35k coins** (faixa do dia: 17.250–68k). Está +14% acima da média de 7 dias (aquecida).
+- **Angelo Stiller (91)** subiu **+58.3%** em 24h, a **33k coins** (faixa do dia: 17.250–68k). Está em linha com a média de 7 dias (+8%).
 
-- **Xabi Alonso (87)** subiu **+56.5%** em 24h, a **104k coins** (faixa do dia: 66k–167k). Está em linha com a média de 7 dias (+7%).
+- **Aleksandar Pavlović (89)** subiu **+54.6%** em 24h, a **52k coins** (faixa do dia: 34k–55k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Georgia Stanway (97)** subiu **+54%** em 24h, a **46k coins** (faixa do dia: 30k–50k). Está +49% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (95)** subiu **+41.8%** em 24h, a **780k coins** (faixa do dia: 405k–780k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 85 | Bundesliga | 29k coins | -38.5% | +48.1% |
-| Daniele De Rossi | 91 | Serie A TIM | 221k coins | -35.6% | -34.6% |
-| Kevin Lenini | 95 | — | 38k coins | -32% | -2.9% |
-| James Garner | 90 | — | 29k coins | -30.4% | -50% |
-| Wouter Burger | 87 | Bundesliga | 58k coins | -29.4% | +38.7% |
-| Yui Hasegawa | 94 | — | 24k coins | -27.8% | +24.7% |
-| N'Golo Kanté | 93 | Trendyol Süper Lig | 150k coins | -27.5% | -24.4% |
-| Kenza Dali | 94 | — | 25k coins | -23.8% | +3.1% |
-| Stephen Eustáquio | 95 | — | 62k coins | -18.2% | -48.6% |
-| Claude Makélélé | 87 | Icons | 81k coins | -17% | +20.3% |
+| Frank Rijkaard | 89 | Icons | 86k coins | -44.7% | -21.7% |
+| Kevin Lenini | 95 | — | 33k coins | -40.5% | -15.4% |
+| Ramires | 86 | Premier League | 62k coins | -40.3% | +17.6% |
+| Wouter Burger | 87 | Bundesliga | 50k coins | -37.4% | +27.5% |
+| Youri Tielemans | 96 | — | 280k coins | -35.7% | +57.9% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 49k coins | -30.4% | +44.4% |
+| Declan Rice | 89 | Premier League | 49k coins | -23% | -11.3% |
+| Elliot Anderson | 89 | Premier League | 104k coins | -22.9% | -15.6% |
+| Moisés Caicedo | 88 | Premier League | 44k coins | -22.6% | -33.7% |
+| Aurélien Tchouaméni | 95 | — | 78k coins | -20.8% | +63% |
 
 
 ### Análise das baixas
 
-- **Angelo Stiller (85)** caiu **-38.5%** em 24h, a **29k coins** (faixa do dia: 16.000–32k). Está +35% acima da média de 7 dias (aquecida).
+- **Frank Rijkaard (89)** caiu **-44.7%** em 24h, a **86k coins** (faixa do dia: 75k–170k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Daniele De Rossi (91)** caiu **-35.6%** em 24h, a **221k coins** (faixa do dia: 221k–356k). Está -23% abaixo da média de 7 dias (descontada).
+- **Kevin Lenini (95)** caiu **-40.5%** em 24h, a **33k coins** (faixa do dia: 24k–58k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Kevin Lenini (95)** caiu **-32%** em 24h, a **38k coins** (faixa do dia: 24k–58k). Está em linha com a média de 7 dias (+1%).
+- **Ramires (86)** caiu **-40.3%** em 24h, a **62k coins** (faixa do dia: 58k–151k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Angelo Stiller já avançou 57.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Angelo Stiller já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Angelo Stiller recuou -38.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Frank Rijkaard recuou -44.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Angelo Stiller (91, Bundesliga), com +57.6% em 24h, a 35k coins no PC.
+Angelo Stiller (91, Bundesliga), com +58.3% em 24h, a 33k coins no PC.
 
 **E a maior queda do dia?**
-Angelo Stiller (85), -38.5% em 24h, a 29k coins.
+Frank Rijkaard (89), -44.7% em 24h, a 86k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 58 em queda (média 2.05%).
+Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 50 em queda (média 2.38%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
