@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:17:18.000Z
+pubDatetime: 2026-08-02T16:17:18.000Z
 title: "Investimentos EA FC: Volantes em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luka Modrić (97, sem liga) lidera, com +71.4% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Neves (88) acumula **+87.7% em 7 dias** a 118k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luka Modrić (97) acumula **+71.4% em 7 dias** a 94k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+29.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.1% em 24h** e **+29.3% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Neves | 88 | Ligue 1 McDonald's | 118k coins | +22% | +87.7% | Esticada |
-| Luka Modrić | 97 | — | 75k coins | +6.5% | +63.6% | Esticada |
-| Yui Hasegawa | 94 | — | 31k coins | +27% | +60.8% | Esticada |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 17.250 coins | +9.7% | +47.8% | Momentum moderado |
-| Rúben Neves | 86 | Brasileirão | 50k coins | +1.5% | +33.3% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +12.8% | +31.3% | Momentum moderado |
-| Kevin De Bruyne | 89 | Serie A TIM | 238k coins | +6.7% | +30.1% | Momentum moderado |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 104k coins | +25.6% | +29.6% | Esticada |
+| Luka Modrić | 97 | — | 94k coins | +12.5% | +71.4% | Esticada |
+| Gilberto Silva | 97 | — | 120k coins | +12.1% | +57.9% | Momentum moderado |
+| Natalia Ramos | 87 | — | 60k coins | +5% | +57.5% | Momentum moderado |
+| Julie Swierot | 90 | — | 24k coins | +6.2% | +52.2% | Momentum moderado |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 19.250 coins | +9.5% | +50% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 48k coins | +17% | +42.9% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 103k coins | +28% | +36.4% | Esticada |
 | Sofie Junge Pedersen | 86 | Liga F | 24k coins | +16.9% | +29.3% | Momentum moderado |
 | Jesper Karlström | 93 | — | 17.250 coins | +3% | +27.8% | Momentum moderado |
-| Emily van Egmond | 88 | Barclays WSL | 70k coins | +31.1% | +27.5% | Esticada |
-| Claire Hutton | 92 | — | 22k coins | +26.1% | +26.1% | Esticada |
-| Edson Álvarez | 94 | — | 18.500 coins | +9.1% | +22% | Momentum moderado |
-| Sander Berge | 94 | — | 18.000 coins | +10.4% | +21.3% | Momentum moderado |
-| Ahmed Fathi | 91 | — | 28k coins | +15.2% | +21.3% | Momentum moderado |
+| Emily van Egmond | 88 | Barclays WSL | 63k coins | +32.3% | +20.2% | Esticada |
+| Sphephelo Sithole | 94 | — | 18.000 coins | +11.9% | +17.2% | Momentum moderado |
+| Sander Berge | 94 | — | 17.250 coins | +4.5% | +16.7% | Entrada a observar |
+| Georgia Stanway | 97 | — | 45k coins | +28.2% | +16.1% | Esticada |
+| Edson Álvarez | 94 | — | 17.250 coins | +1.5% | +15.3% | Entrada a observar |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +22.7% | +14.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **João Neves (88)** — 118k coins, **+87.7% em 7 dias** (+22% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luka Modrić (97)** — 94k coins, **+71.4% em 7 dias** (+12.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luka Modrić (97)** — 75k coins, **+63.6% em 7 dias** (+6.5% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Silva (97)** — 120k coins, **+57.9% em 7 dias** (+12.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yui Hasegawa (94)** — 31k coins, **+60.8% em 7 dias** (+27% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Natalia Ramos (87)** — 60k coins, **+57.5% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofyan Amrabat (91)** — 17.250 coins, **+47.8% em 7 dias** (+9.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Swierot (90)** — 24k coins, **+52.2% em 7 dias** (+6.2% em 24h). Preço -27% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (86)** — 50k coins, **+33.3% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 19.250 coins, **+50% em 7 dias** (+9.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luka Modrić (97, sem liga) lidera, com +71.4% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
