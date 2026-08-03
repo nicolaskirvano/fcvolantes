@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:17:09.000Z
+pubDatetime: 2026-08-03T16:17:09.000Z
 title: "Investimentos EA FC: Volantes em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Stephen Eustáquio (95, sem liga) lidera, com +87.1% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rúben Neves (87, ROSHN Saudi League) lidera, com +58% em 7 dias a 19.750 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Stephen Eustáquio (95) acumula **+87.1% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rúben Neves (87) acumula **+58% em 7 dias** a 19.750 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.9% em 24h** e **+47.7% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.9% em 24h** e **+45.9% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | — | 64k coins | +13.9% | +87.1% | Esticada |
-| Kevin Lenini | 95 | — | 56k coins | +25.8% | +72.3% | Esticada |
-| Rúben Neves | 95 | — | 50k coins | +30% | +68.1% | Esticada |
-| Ryan Gravenberch | 87 | Premier League | 48k coins | +8.8% | +64.2% | Esticada |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 18.500 coins | +10.3% | +53.1% | Momentum moderado |
-| Melle Meulensteen | 91 | — | 29k coins | +28.6% | +50% | Esticada |
-| Aleksandar Pavlović | 93 | — | 26k coins | +14.9% | +49.3% | Momentum moderado |
-| Kenza Dali | 94 | — | 32k coins | +27.5% | +47.7% | Esticada |
-| Declan Rice | 89 | Premier League | 60k coins | +9.1% | +44.6% | Momentum moderado |
-| Máximo Perrone | 92 | — | 27k coins | +10.6% | +44.4% | Momentum moderado |
-| Ahmed Fathi | 91 | — | 29k coins | +25% | +43.8% | Esticada |
-| Georgia Stanway | 95 | — | 23k coins | +13.6% | +40.8% | Momentum moderado |
-| Luka Modrić | 97 | — | 85k coins | +6.2% | +40.5% | Momentum moderado |
-| Piotr Zieliński | 93 | — | 28k coins | +3.7% | +40% | Momentum moderado |
-| Benjamin André | 92 | — | 26k coins | +16% | +39.7% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 19.750 coins | +25.4% | +58% | Esticada |
+| Rúben Neves | 95 | — | 50k coins | +19.7% | +56.9% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 26k coins | +11.8% | +52.9% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 109k coins | +29% | +50.3% | Esticada |
+| Stephen Eustáquio | 95 | — | 52k coins | +3.9% | +49.7% | Momentum moderado |
+| James Garner | 90 | — | 30k coins | +10.9% | +48.8% | Momentum moderado |
+| Kenza Dali | 94 | — | 31k coins | +25.2% | +46.6% | Esticada |
+| Máximo Perrone | 92 | — | 27k coins | +10.2% | +45.9% | Momentum moderado |
+| Georgia Stanway | 95 | — | 26k coins | +7.3% | +45.1% | Momentum moderado |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 17.000 coins | +2.9% | +44% | Momentum moderado |
+| Matt Grimes | 94 | — | 28k coins | +10.9% | +40% | Momentum moderado |
+| Granit Xhaka | 91 | — | 30k coins | +17.2% | +39.8% | Momentum moderado |
+| Benjamin André | 92 | — | 28k coins | +5.8% | +39.2% | Momentum moderado |
+| Casemiro | 84 | Premier League | 65k coins | +30% | +36.8% | Esticada |
+| Luka Modrić | 97 | — | 84k coins | +3.1% | +34.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Stephen Eustáquio (95)** — 64k coins, **+87.1% em 7 dias** (+13.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 19.750 coins, **+58% em 7 dias** (+25.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin Lenini (95)** — 56k coins, **+72.3% em 7 dias** (+25.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (95)** — 50k coins, **+56.9% em 7 dias** (+19.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (95)** — 50k coins, **+68.1% em 7 dias** (+30% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (93)** — 26k coins, **+52.9% em 7 dias** (+11.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (87)** — 48k coins, **+64.2% em 7 dias** (+8.8% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 109k coins, **+50.3% em 7 dias** (+29% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sofyan Amrabat (91)** — 18.500 coins, **+53.1% em 7 dias** (+10.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Stephen Eustáquio (95)** — 52k coins, **+49.7% em 7 dias** (+3.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Stephen Eustáquio (95, sem liga) lidera, com +87.1% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rúben Neves (87, ROSHN Saudi League) lidera, com +58% em 7 dias a 19.750 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:17:17.000Z
+pubDatetime: 2026-08-03T16:17:17.000Z
 title: "Mercado EA FC em 03/08: Volantes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Granit Xhaka (89, Premier League), com +45.4% em 24h, a 78k coins no PC."
+    a: "Nicolas Madsen (84, EFL Championship), com +44.9% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sammy Braybrooke (91), -37.2% em 24h, a 30k coins."
+    a: "Tommaso Pobega (83), -34.2% em 24h, a 40k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 49 em queda (média 5.08%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 46 em queda (média 3.84%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **75 subiram** e **49 caíram**, com variação média de **5.08%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **74 subiram** e **46 caíram**, com variação média de **3.84%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Granit Xhaka (89) **+45.4%** · 🔴 **Maior baixa:** Sammy Braybrooke (91) **-37.2%**
+> 🟢 **Maior alta:** Nicolas Madsen (84) **+44.9%** · 🔴 **Maior baixa:** Tommaso Pobega (83) **-34.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Volantes — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 82.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.5% entre as cartas que se moveram; o universo observado reúne 170 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 79.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 61.7% entre as cartas que se moveram; o universo observado reúne 170 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 78k coins | +45.4% | -6% |
-| Amadou Onana | 96 | — | 83k coins | +41.5% | -50.8% |
-| Felix Nmecha | 86 | Bundesliga | 546k coins | +41.1% | — |
-| Kevin Lenini | 95 | — | 53k coins | +39.5% | +19.1% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 190k coins | +38.7% | +65.2% |
-| Joshua Kimmich | 96 | — | 265k coins | +35.9% | +35.9% |
-| Ryan Wintle | 94 | — | 34k coins | +35% | +37.8% |
-| Máximo Perrone | 92 | — | 28k coins | +33.3% | +55.6% |
-| Michaël Essien | 86 | Icons | 91k coins | +24.8% | +12.7% |
-| Frank Rijkaard | 89 | Icons | 158k coins | +24.6% | +40.9% |
+| Nicolas Madsen | 84 | EFL Championship | 50k coins | +44.9% | 0% |
+| N'Golo Kanté | 96 | — | 160k coins | +44.1% | +16.8% |
+| Peer Koopmeiners | 89 | — | 27k coins | +36.1% | -19.3% |
+| João Neves | 86 | Ligue 1 McDonald's | 48k coins | +35% | +14.9% |
+| João Neves | 97 | — | 308k coins | +32.9% | +43.4% |
+| Sandro Tonali | 87 | Premier League | 65k coins | +32% | +3.2% |
+| Claire Hutton | 92 | — | 28k coins | +31.8% | +31.8% |
+| Angelo Stiller | 91 | Bundesliga | 49k coins | +28.1% | +96% |
+| Ryan Wintle | 94 | — | 28k coins | +28% | +30.6% |
+| David Ayala | 91 | — | 40k coins | +27.5% | +47.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Granit Xhaka (89)** subiu **+45.4%** em 24h, a **78k coins** (faixa do dia: 54k–84k). Está +24% acima da média de 7 dias (aquecida).
+- **Nicolas Madsen (84)** subiu **+44.9%** em 24h, a **50k coins** (faixa do dia: 34k–50k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Amadou Onana (96)** subiu **+41.5%** em 24h, a **83k coins** (faixa do dia: 36k–100k). Está -21% abaixo da média de 7 dias (descontada).
+- **N'Golo Kanté (96)** subiu **+44.1%** em 24h, a **160k coins** (faixa do dia: 100k–229k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Felix Nmecha (86)** subiu **+41.1%** em 24h, a **546k coins** (faixa do dia: 160k–550k). Está +41% acima da média de 7 dias (aquecida).
+- **Peer Koopmeiners (89)** subiu **+36.1%** em 24h, a **27k coins** (faixa do dia: 11.250–31k). Está +35% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sammy Braybrooke | 91 | — | 30k coins | -37.2% | +64.4% |
-| Victor Lindelöf | 96 | — | 67k coins | -32% | -17.1% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 68k coins | -31.8% | +154.7% |
-| Dunga | 87 | Icons | 92k coins | -31.8% | +44.7% |
-| João Neves | 88 | Ligue 1 McDonald's | 81k coins | -28% | +5.6% |
-| Sandro Tonali | 91 | Premier League | 127k coins | -25.3% | -3.1% |
-| James Garner | 90 | — | 20k coins | -25% | -29.2% |
-| Xabi Alonso | 87 | Icons | 76k coins | -24.5% | +14.4% |
-| Patrick Berg | 95 | — | 56k coins | -24.2% | -37.1% |
-| Blaise Matuidi | 95 | — | 39k coins | -22.2% | +6.9% |
+| Tommaso Pobega | 83 | Serie A TIM | 40k coins | -34.2% | -7.1% |
+| Xabi Alonso | 87 | Icons | 74k coins | -30.1% | +14.4% |
+| Wouter Burger | 90 | — | 24k coins | -27.1% | -15% |
+| Natalia Ramos | 87 | — | 43k coins | -27.1% | +9.4% |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 71k coins | -26.8% | +175.7% |
+| Ryan Gravenberch | 86 | Premier League | 56k coins | -24.7% | +2.6% |
+| Stephen Eustáquio | 95 | — | 49k coins | -19.2% | -19.2% |
+| Daniele De Rossi | 89 | Serie A TIM | 171k coins | -18.6% | +3.6% |
+| Sofie Junge Pedersen | 86 | Liga F | 21k coins | -14.4% | +3.8% |
+| Kevin De Bruyne | 89 | Serie A TIM | 190k coins | -13.6% | +25% |
 
 
 ### Análise das baixas
 
-- **Sammy Braybrooke (91)** caiu **-37.2%** em 24h, a **30k coins** (faixa do dia: 23k–49k). Está +13% acima da média de 7 dias (aquecida).
+- **Tommaso Pobega (83)** caiu **-34.2%** em 24h, a **40k coins** (faixa do dia: 39k–64k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Victor Lindelöf (96)** caiu **-32%** em 24h, a **67k coins** (faixa do dia: 26k–106k). Está -13% abaixo da média de 7 dias (descontada).
+- **Xabi Alonso (87)** caiu **-30.1%** em 24h, a **74k coins** (faixa do dia: 71k–167k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Abdoulaye Doucouré (87)** caiu **-31.8%** em 24h, a **68k coins** (faixa do dia: 64k–108k). Está em linha com a média de 7 dias (-4%).
+- **Wouter Burger (90)** caiu **-27.1%** em 24h, a **24k coins** (faixa do dia: 18.750–40k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Granit Xhaka já avançou 45.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nicolas Madsen já avançou 44.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sammy Braybrooke recuou -37.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tommaso Pobega recuou -34.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Granit Xhaka (89, Premier League), com +45.4% em 24h, a 78k coins no PC.
+Nicolas Madsen (84, EFL Championship), com +44.9% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Sammy Braybrooke (91), -37.2% em 24h, a 30k coins.
+Tommaso Pobega (83), -34.2% em 24h, a 40k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 49 em queda (média 5.08%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 46 em queda (média 3.84%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
