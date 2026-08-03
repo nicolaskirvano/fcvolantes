@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T09:21:43.000Z
+pubDatetime: 2026-08-03T10:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.570 coins.
+- **Preço médio das 15 opções:** 9.810 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 1.600 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 93 | CDM | — | 14.250 coins | +1.8% |
+| Ramires | 93 | CDM | — | 14.250 coins | 0% |
 | Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 91 | CDM | Liga F | 11.500 coins | 0% |
-| Rodri | 90 | CDM | Premier League | 6.500 coins | +20.7% |
+| Rodri | 90 | CDM | Premier League | 6.400 coins | +10.2% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.600 coins | +11.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.100 coins | +18.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.600 coins | +22.2% |
 | Dunga | 89 | CDM | Icons | 13.000 coins | 0% |
-| Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Declan Rice | 87 | CDM | Premier League | 1.600 coins | -4.8% |
-| Moisés Caicedo | 87 | CDM | Premier League | 1.600 coins | +25% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
+| Moisés Caicedo | 87 | CDM | Premier League | 1.800 coins | +33.3% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (91, CDM)** da Liga F, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **6.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Rodri (90, CDM)** da Premier League, a apenas **6.400 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T09:21:51.000Z
+pubDatetime: 2026-08-03T10:17:18.000Z
 title: "Investimentos EA FC: Volantes em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Cristian Roldan (94, sem liga) lidera, com +81.3% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "N'Golo Kanté (89, ROSHN Saudi League) lidera, com +84.7% em 7 dias a 250k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cristian Roldan (94) acumula **+81.3% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** N'Golo Kanté (89) acumula **+84.7% em 7 dias** a 250k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+42.9% em 7 dias**.
+- A mediana é de **+13.1% em 24h** e **+42.9% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cristian Roldan | 94 | — | 29k coins | +2.3% | +81.3% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 32k coins | +17.1% | +75.7% | Esticada |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 250k coins | +1.1% | +84.7% | Esticada |
+| Angelo Stiller | 85 | Bundesliga | 32k coins | +9.2% | +78.1% | Esticada |
 | Jorthy Mokio | 86 | Eredivisie | 42k coins | +5.6% | +70% | Esticada |
-| Yui Hasegawa | 94 | — | 31k coins | +4.2% | +56.2% | Momentum moderado |
-| Gilberto Silva | 97 | — | 130k coins | +27.6% | +48.9% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +31% | +48.6% | Esticada |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 17.750 coins | +1.4% | +44.9% | Momentum moderado |
+| Yui Hasegawa | 94 | — | 29k coins | +4.2% | +54.3% | Momentum moderado |
+| Aleksandar Pavlović | 94 | — | 24k coins | +14% | +53.1% | Momentum moderado |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 17.000 coins | +2.9% | +44.9% | Momentum moderado |
+| Gilberto Silva | 97 | — | 107k coins | +30% | +44.4% | Esticada |
 | Manuel Locatelli | 86 | Serie A TIM | 50k coins | +17% | +42.9% | Momentum moderado |
 | Frank Rijkaard | 89 | Icons | 170k coins | +30.8% | +41.7% | Esticada |
-| Aleksandar Pavlović | 93 | — | 20k coins | +9.2% | +38.3% | Momentum moderado |
-| Claire Hutton | 92 | — | 28k coins | +5.3% | +36.4% | Momentum moderado |
-| Angelo Stiller | 94 | — | 45k coins | +15.6% | +34.1% | Momentum moderado |
-| Carlos Baleba | 90 | Premier League | 116k coins | +29.7% | +31.9% | Esticada |
-| Máximo Perrone | 92 | — | 23k coins | +9.1% | +29.7% | Momentum moderado |
-| Rúben Neves | 95 | — | 48k coins | +10% | +28.6% | Momentum moderado |
+| Máximo Perrone | 92 | — | 28k coins | +20.5% | +39.5% | Esticada |
+| Blaise Matuidi | 95 | — | 40k coins | +1.1% | +39.1% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 20k coins | +7.9% | +36.7% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +18.5% | +34.5% | Momentum moderado |
+| Angelo Stiller | 94 | — | 44k coins | +13.1% | +33.1% | Momentum moderado |
+| N'Golo Kanté | 96 | — | 220k coins | +39.5% | +28.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Cristian Roldan (94)** — 29k coins, **+81.3% em 7 dias** (+2.3% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **N'Golo Kanté (89)** — 250k coins, **+84.7% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (85)** — 32k coins, **+75.7% em 7 dias** (+17.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (85)** — 32k coins, **+78.1% em 7 dias** (+9.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jorthy Mokio (86)** — 42k coins, **+70% em 7 dias** (+5.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jorthy Mokio (86)** — 42k coins, **+70% em 7 dias** (+5.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yui Hasegawa (94)** — 31k coins, **+56.2% em 7 dias** (+4.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (94)** — 29k coins, **+54.3% em 7 dias** (+4.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gilberto Silva (97)** — 130k coins, **+48.9% em 7 dias** (+27.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (94)** — 24k coins, **+53.1% em 7 dias** (+14% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Cristian Roldan (94, sem liga) lidera, com +81.3% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+N'Golo Kanté (89, ROSHN Saudi League) lidera, com +84.7% em 7 dias a 250k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
