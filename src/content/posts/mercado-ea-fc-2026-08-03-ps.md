@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:17:07.000Z
+pubDatetime: 2026-08-03T19:17:07.000Z
 title: "Mercado EA FC em 03/08: Volantes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Ryan Gravenberch (93, Premier League), com +55.4% em 24h, a 86k coins no Console (PS)."
+    a: "Denise O'Sullivan (85, NWSL), com +54.5% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (86), -37.4% em 24h, a 147k coins."
+    a: "Javier Mascherano (89), -46.9% em 24h, a 64k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 56 em queda (média 2.89%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 56 cartas em alta contra 46 em queda (média 0.01%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **75 subiram** e **56 caíram**, com variação média de **2.89%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **56 subiram** e **46 caíram**, com variação média de **0.01%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ryan Gravenberch (93) **+55.4%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (86) **-37.4%**
+> 🟢 **Maior alta:** Denise O'Sullivan (85) **+54.5%** · 🔴 **Maior baixa:** Javier Mascherano (89) **-46.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Volantes — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.3% entre as cartas que se moveram; o universo observado reúne 163 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.9% entre as cartas que se moveram; o universo observado reúne 136 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | Premier League | 86k coins | +55.4% | -25% |
-| Patrick Berg | 95 | — | 48k coins | +52.5% | +55% |
-| Cristian Roldan | 94 | — | 29k coins | +44.3% | +50.5% |
-| Declan Rice | 89 | Premier League | 53k coins | +34.2% | +26.2% |
-| Joshua Kimmich | 90 | Bundesliga | 66k coins | +34% | +3.9% |
-| Granit Xhaka | 96 | — | 127k coins | +30.9% | -12.4% |
-| Casemiro | 84 | Premier League | 65k coins | +30% | +36.8% |
-| Emmanuel Petit | 87 | Icons | 109k coins | +29% | +50.3% |
-| Angelo Stiller | 91 | Bundesliga | 34k coins | +28.6% | +102.2% |
-| Patri Guijarro | 96 | — | 24k coins | +27.8% | -32.4% |
+| Denise O'Sullivan | 85 | NWSL | 24k coins | +54.5% | +22.9% |
+| Kim Little | 87 | Barclays WSL | 30k coins | +50% | +140% |
+| Patrick Berg | 95 | — | 45k coins | +47% | +79.6% |
+| Sammy Braybrooke | 91 | — | 25k coins | +32.9% | +41.2% |
+| Casemiro | 84 | Premier League | 60k coins | +30% | +36.8% |
+| Rúben Neves | 95 | — | 44k coins | +28.4% | +71.6% |
+| Declan Rice | 89 | Premier League | 45k coins | +25.3% | +17.9% |
+| Granit Xhaka | 96 | — | 131k coins | +23.8% | -10.3% |
+| Rani Khedira | 84 | Bundesliga | 59k coins | +22.3% | +2.6% |
+| Jorthy Mokio | 84 | Eredivisie | 55k coins | +17% | +12.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ryan Gravenberch (93)** subiu **+55.4%** em 24h, a **86k coins** (faixa do dia: 62k–126k). Está -19% abaixo da média de 7 dias (descontada).
+- **Denise O'Sullivan (85)** subiu **+54.5%** em 24h, a **24k coins** (faixa do dia: 10.750–26k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Patrick Berg (95)** subiu **+52.5%** em 24h, a **48k coins** (faixa do dia: 25k–56k). Está +39% acima da média de 7 dias (aquecida).
+- **Kim Little (87)** subiu **+50%** em 24h, a **30k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+7%).
 
-- **Cristian Roldan (94)** subiu **+44.3%** em 24h, a **29k coins** (faixa do dia: 24k–40k). Está +17% acima da média de 7 dias (aquecida).
+- **Patrick Berg (95)** subiu **+47%** em 24h, a **45k coins** (faixa do dia: 25k–56k). Está +27% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 147k coins | -37.4% | -59.1% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 64k coins | -46.9% | +7.8% |
+| Julia Zigiotti | 84 | Barclays WSL | 34k coins | -38.9% | -5.4% |
 | Claude Makélélé | 94 | — | 22k coins | -37.4% | -96.2% |
-| Ryan Yates | 92 | — | 50k coins | -30.8% | +44.3% |
-| Ramires | 88 | Premier League | 125k coins | -28.3% | -29.1% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 28k coins | -26% | +27% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 49k coins | -24.6% | -0.5% |
-| Yaya Touré | 96 | — | 1.45M coins | -24.3% | +21.8% |
-| Ibrahim Sangaré | 86 | Premier League | 50k coins | -21.7% | -11.9% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 37k coins | -21.4% | +52.5% |
-| Taylor Flint | 88 | NWSL | 139k coins | -20.5% | +36.4% |
+| Callum McGregor | 87 | Scottish Premiership | 197k coins | -26.4% | -12.8% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 50k coins | -23.5% | +1% |
+| Aleksandar Stanković | 87 | 1A Pro League | 255k coins | -22.7% | +37.7% |
+| Rodri | 92 | Premier League | 103k coins | -22.6% | -61% |
+| Granit Xhaka | 89 | Premier League | 37k coins | -21.7% | -16.2% |
+| Sandro Tonali | 87 | Premier League | 49k coins | -19.2% | +10.4% |
+| Yaya Touré | 93 | Premier League | 1.14M coins | -15.8% | +23.8% |
 
 
 ### Análise das baixas
 
-- **Aurélien Tchouaméni (86)** caiu **-37.4%** em 24h, a **147k coins** (faixa do dia: 133k–236k). Está -30% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (89)** caiu **-46.9%** em 24h, a **64k coins** (faixa do dia: 64k–125k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Claude Makélélé (94)** caiu **-37.4%** em 24h, a **22k coins** (faixa do dia: 22k–35k). Está -93% abaixo da média de 7 dias (descontada).
+- **Julia Zigiotti (84)** caiu **-38.9%** em 24h, a **34k coins** (faixa do dia: 22k–50k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Ryan Yates (92)** caiu **-30.8%** em 24h, a **50k coins** (faixa do dia: 30k–70k). Está +17% acima da média de 7 dias (aquecida).
+- **Claude Makélélé (94)** caiu **-37.4%** em 24h, a **22k coins** (faixa do dia: 22k–35k). Está -92% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ryan Gravenberch já avançou 55.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Denise O'Sullivan já avançou 54.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aurélien Tchouaméni recuou -37.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Javier Mascherano recuou -46.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Ryan Gravenberch (93, Premier League), com +55.4% em 24h, a 86k coins no Console (PS).
+Denise O'Sullivan (85, NWSL), com +54.5% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Aurélien Tchouaméni (86), -37.4% em 24h, a 147k coins.
+Javier Mascherano (89), -46.9% em 24h, a 64k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 56 em queda (média 2.89%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 56 cartas em alta contra 46 em queda (média 0.01%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
