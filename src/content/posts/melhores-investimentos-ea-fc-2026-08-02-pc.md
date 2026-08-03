@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:17:18.000Z
+pubDatetime: 2026-08-03T01:17:19.000Z
 title: "Investimentos EA FC: Volantes em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Gilberto Silva (87, Premier League) lidera, com +86.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Claude Makélélé (87, Icons) lidera, com +68.2% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gilberto Silva (87) acumula **+86.8% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Claude Makélélé (87) acumula **+68.2% em 7 dias** a 120k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Volantes em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.4% em 24h** e **+29.8% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.1% em 24h** e **+33.3% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gilberto Silva | 87 | Premier League | 42k coins | +9% | +86.8% | Esticada |
-| Luka Modrić | 97 | — | 98k coins | +18.8% | +59.7% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 23k coins | +14% | +58.1% | Momentum moderado |
-| Pathé Ciss | 92 | — | 19.000 coins | +12.8% | +44.3% | Momentum moderado |
-| Aleksandar Pavlović | 93 | — | 22k coins | +2.4% | +43.3% | Momentum moderado |
-| Manuel Locatelli | 86 | Serie A TIM | 47k coins | +10.5% | +35% | Momentum moderado |
-| Hamdy Fathy | 93 | — | 21k coins | +8.9% | +30.3% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 170k coins | +14.9% | +29.8% | Momentum moderado |
-| Sander Berge | 94 | — | 21k coins | +11.4% | +29.4% | Momentum moderado |
-| Sofie Junge Pedersen | 86 | Liga F | 23k coins | +22.8% | +29.3% | Esticada |
-| Jesper Karlström | 93 | — | 20k coins | +7.6% | +28.8% | Momentum moderado |
-| Georgia Stanway | 95 | — | 22k coins | +3.6% | +27.9% | Momentum moderado |
-| Edson Álvarez | 94 | — | 21k coins | +13.2% | +26.5% | Momentum moderado |
-| Rúben Neves | 86 | Brasileirão | 46k coins | +4.4% | +26.2% | Momentum moderado |
-| Georgia Stanway | 97 | — | 43k coins | +25.4% | +25.4% | Esticada |
+| Claude Makélélé | 87 | Icons | 120k coins | +29.1% | +68.2% | Esticada |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 19.750 coins | +7.1% | +63% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 106k coins | +8.9% | +60.6% | Esticada |
+| Gilberto Silva | 97 | — | 120k coins | +30.7% | +52.9% | Esticada |
+| Yui Hasegawa | 94 | — | 31k coins | +9.1% | +50% | Momentum moderado |
+| Aleksandar Pavlović | 93 | — | 22k coins | +6% | +46.7% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 50k coins | +10.5% | +35% | Momentum moderado |
+| Pathé Ciss | 92 | — | 20k coins | +9.1% | +33.3% | Momentum moderado |
+| Luka Modrić | 97 | — | 89k coins | +6.5% | +31.2% | Momentum moderado |
+| Georgia Stanway | 95 | — | 22k coins | +4.8% | +29.4% | Momentum moderado |
+| Hakan Çalhanoğlu | 95 | — | 120k coins | +18.8% | +26.4% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +12.8% | +23.9% | Momentum moderado |
+| Piotr Zieliński | 93 | — | 29k coins | +20% | +23.7% | Esticada |
+| Sander Berge | 94 | — | 19.750 coins | +7.7% | +23.5% | Momentum moderado |
+| Edson Álvarez | 94 | — | 21k coins | +9.2% | +22.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gilberto Silva (87)** — 42k coins, **+86.8% em 7 dias** (+9% em 24h). Preço -61% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claude Makélélé (87)** — 120k coins, **+68.2% em 7 dias** (+29.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luka Modrić (97)** — 98k coins, **+59.7% em 7 dias** (+18.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 19.750 coins, **+63% em 7 dias** (+7.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 23k coins, **+58.1% em 7 dias** (+14% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 106k coins, **+60.6% em 7 dias** (+8.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pathé Ciss (92)** — 19.000 coins, **+44.3% em 7 dias** (+12.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Silva (97)** — 120k coins, **+52.9% em 7 dias** (+30.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (93)** — 22k coins, **+43.3% em 7 dias** (+2.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (94)** — 31k coins, **+50% em 7 dias** (+9.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Gilberto Silva (87, Premier League) lidera, com +86.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Claude Makélélé (87, Icons) lidera, com +68.2% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
