@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:17:10.000Z
+pubDatetime: 2026-08-03T13:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Ramires (93, sem liga) aparece como melhor custo-benefício, a 14.250 coins no Console (PS)."
+    a: "Aurélien Tchouaméni (92, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ramires (93) por apenas 14.250 coins.
+> 💰 **Melhor pechincha:** Aurélien Tchouaméni (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Volantes em 03/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-03-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.810 coins.
+- **Preço médio das 15 opções:** 9.350 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.300 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,24 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 93 | CDM | — | 14.250 coins | 0% |
 | Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 91 | CDM | Liga F | 11.500 coins | 0% |
-| Rodri | 90 | CDM | Premier League | 6.400 coins | +10.2% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.100 coins | +18.6% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.600 coins | +22.2% |
-| Dunga | 89 | CDM | Icons | 13.000 coins | 0% |
-| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.900 coins | +8.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 6.000 coins | +23.4% |
+| Dunga | 89 | CDM | Icons | 11.250 coins | -13.5% |
 | Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Moisés Caicedo | 87 | CDM | Premier League | 1.800 coins | +33.3% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Declan Rice | 87 | CDM | Premier League | 2.300 coins | +56.2% |
+| Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 
 
 ## 📈 Destaques
-
-- **Ramires (93, CDM)** da —, a apenas **14.250 coins**
 
 - **Aurélien Tchouaméni (92, CDM)** da —, a apenas **11.500 coins**
 
@@ -67,12 +65,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (91, CDM)** da Liga F, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **6.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins**
+
+- **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Ramires (93, CDM) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Aurélien Tchouaméni (92, CDM) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -91,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Ramires (93, sem liga) aparece como melhor custo-benefício, a 14.250 coins no Console (PS).
+Aurélien Tchouaméni (92, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
