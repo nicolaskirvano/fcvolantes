@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick Berg</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tyler Morton</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
-<rect x="285" y="153" width="474" height="28" rx="7" fill="#22c55e"/>
-<text x="769" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sofyan Amrabat</text>
-<rect x="285" y="211" width="369" height="28" rx="7" fill="#22c55e"/>
-<text x="664" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matt Grimes</text>
-<rect x="285" y="269" width="369" height="28" rx="7" fill="#22c55e"/>
-<text x="664" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Pavlović</text>
-<rect x="285" y="327" width="326" height="28" rx="7" fill="#22c55e"/>
-<text x="621" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="385" width="324" height="28" rx="7" fill="#22c55e"/>
-<text x="619" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Garner</text>
+<rect x="285" y="153" width="475" height="28" rx="7" fill="#22c55e"/>
+<text x="770" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="211" width="452" height="28" rx="7" fill="#22c55e"/>
+<text x="747" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nabil Bentaleb</text>
+<rect x="285" y="269" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin De Bruyne</text>
+<rect x="285" y="327" width="428" height="28" rx="7" fill="#22c55e"/>
+<text x="723" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleksandar Stanković</text>
+<rect x="285" y="385" width="420" height="28" rx="7" fill="#22c55e"/>
+<text x="715" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.8%</text>
 </svg>

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:17:19.000Z
+pubDatetime: 2026-08-04T01:17:19.000Z
 title: "Jogadores baratos EA FC: Volantes em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.257 coins.
+- **Preço médio das 15 opções:** 10.283 coins.
 - **Posição mais frequente:** CDM, com 15 cartas.
-- **Faixa real:** 2.100 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.300 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,27 +41,27 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
-| Rodri | 91 | CDM | Premier League | 6.700 coins | +3% |
+| Rodri | 91 | CDM | Premier League | 7.300 coins | +7.4% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
 | Patri Guijarro | 91 | CDM | Liga F | 11.500 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Dunga | 89 | CDM | Icons | 11.250 coins | 0% |
-| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14.500 coins | +20.8% |
+| Patri Guijarro | 88 | CDM | Liga F | 5.900 coins | +3.5% |
+| Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Adam Wharton | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Georgia Stanway | 88 | CDM | GPFBL | 11.000 coins | 0% |
-| Declan Rice | 87 | CDM | Premier League | 3.000 coins | +7.1% |
+| Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Declan Rice | 87 | CDM | Premier League | 3.300 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Granit Xhaka | 86 | CDM | Bundesliga | 2.100 coins | +12.5% |
-| Sandro Tonali | 86 | CDM | — | 3.800 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Aurélien Tchouaméni (92, CDM)** da —, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (91, CDM)** da Premier League, a apenas **6.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (91, CDM)** da Premier League, a apenas **7.300 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Denise O'Sullivan (91, CDM)** da Barclays WSL, a apenas **11.500 coins**
 
