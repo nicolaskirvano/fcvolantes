@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:17:07.000Z
+pubDatetime: 2026-08-06T01:17:07.000Z
 title: "Mercado EA FC em 05/08: Volantes — Console (PS)"
 draft: false
 featured: true

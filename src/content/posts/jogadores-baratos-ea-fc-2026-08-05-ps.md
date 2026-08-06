@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:17:11.000Z
+pubDatetime: 2026-08-06T01:17:10.000Z
 title: "Jogadores baratos EA FC: Volantes em 05/08 — Console (PS)"
 draft: false
 featured: false
