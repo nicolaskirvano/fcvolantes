@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T16:17:18.000Z
+pubDatetime: 2026-08-07T19:17:18.000Z
 title: "Investimentos EA FC: Volantes em 07/08 — PC"
 draft: false
 featured: true
