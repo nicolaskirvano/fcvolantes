@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T09:33:37.000Z
+pubDatetime: 2026-08-07T10:17:19.000Z
 title: "Jogadores baratos EA FC: Volantes em 07/08 — PC"
 draft: false
 featured: false
