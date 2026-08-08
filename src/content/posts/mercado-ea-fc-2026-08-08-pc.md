@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T09:33:47.000Z
+pubDatetime: 2026-08-08T10:17:16.000Z
 title: "Mercado EA FC em 08/08: Volantes — PC"
 draft: false
 featured: true
